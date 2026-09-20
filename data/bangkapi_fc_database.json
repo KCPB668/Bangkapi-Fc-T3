@@ -1,15 +1,45 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-20T09:38:07.200Z",
-    "author": "โค้ช / แอดมินสโมสร",
+    "exportedAt": "2026-09-20T09:39:39.316Z",
+    "author": "เอกภพ ศรีวิชัย (COACH)",
     "version": "2.5.0",
     "playerCount": 0,
-    "staffCount": 0,
+    "staffCount": 1,
     "matchCount": 0
   },
   "players": [],
-  "coachingStaff": [],
+  "coachingStaff": [
+    {
+      "id": "staff-1789897177378",
+      "name": "KANCHAI PUBANGMAI",
+      "nameThai": "กรรัย ภูบังไม้",
+      "nickname": "โค้ชอาม",
+      "role": "Staff Coach",
+      "roleThai": "ผู้ช่วยผู้ฝึกสอน",
+      "department": "coaching",
+      "departmentThai": "ฝ่ายฝึกสอนชุดใหญ่",
+      "license": "AFC \"C\" Coaching Diploma",
+      "licenseLevel": "AFC C",
+      "licenseIssuer": "สมาพันธ์ฟุตบอลแห่งเอเชีย (AFC)",
+      "licenseYear": 2024,
+      "yearsExperience": 5,
+      "salaryMonthlyThb": 55000,
+      "specialization": "การฝึกซ้อมระดับสโมสรอาชีพ",
+      "primaryDuties": [
+        "รับผิดชอบการฝึกซ้อมประจำวัน",
+        "ประสานงานร่วมกับหัวหน้าผู้ฝึกสอน"
+      ],
+      "assignedIdpCount": 0,
+      "assignedIdpPlayerIds": [],
+      "contractUntilYear": 2027,
+      "previousClubs": [
+        "บางกะปิ เอฟซี"
+      ],
+      "nationality": "ไทย",
+      "flag": "🇹🇭"
+    }
+  ],
   "matches": [],
   "trainings": [
     {
