@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-21T06:41:09.664Z",
-    "author": "กรรัย ภูบังไม้ (COACH)",
+    "exportedAt": "2026-09-21T06:43:07.925Z",
+    "author": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -1760,21 +1760,6 @@
       "titleThai": "ผู้ดูแลระบบระดับสูง (Super Administrator)",
       "email": "admin@bangkapifc.com",
       "notes": "บัญชีหลักของผู้ดูแลระบบ มีสิทธิ์ควบคุมและแก้ไขข้อมูลทั้งหมดในระบบสโมสร"
-    },
-    {
-      "role": "coach",
-      "email": "coach.ekkaphop@bangkapifc.com",
-      "titleThai": "หัวหน้าผู้ฝึกสอนและผู้จัดการทีม (Head Coach)",
-      "createdAt": "2026-08-05T00:00:00.000Z",
-      "id": "acc-coach-1",
-      "name": "Ekkaphop Sriwichai",
-      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop&crop=faces&q=80",
-      "password": "coach1234",
-      "nameThai": "เอกภพ ศรีวิชัย",
-      "username": "coach.ekkaphop",
-      "notes": "สิทธิ์บริหารทีมฟุตบอลและสถิติ 16 โมดูล",
-      "status": "active",
-      "linkedEntityId": "staff-1"
     },
     {
       "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces&q=80",
