@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-21T06:43:07.925Z",
-    "author": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
+    "exportedAt": "2026-09-21T06:45:18.083Z",
+    "author": "โค้ช / แอดมินสโมสร",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -1748,33 +1748,17 @@
   },
   "managedUsers": [
     {
-      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces&q=80",
       "id": "acc-admin-1",
-      "username": "admin",
+      "username": "KANCHAI",
+      "password": "Kanchai.kcpb2821",
+      "email": "kanchai.kcpb@gmail.com",
       "role": "admin",
-      "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี",
+      "name": "Bangkapi FC Admin",
+      "nameThai": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
+      "titleThai": "ทีมผู้ฝึกสอน",
       "status": "active",
-      "password": "admin@bangkapi2026",
       "createdAt": "2026-08-01T00:00:00.000Z",
-      "name": "Bangkapi FC Executive Admin",
-      "titleThai": "ผู้ดูแลระบบระดับสูง (Super Administrator)",
-      "email": "admin@bangkapifc.com",
       "notes": "บัญชีหลักของผู้ดูแลระบบ มีสิทธิ์ควบคุมและแก้ไขข้อมูลทั้งหมดในระบบสโมสร"
-    },
-    {
-      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces&q=80",
-      "status": "active",
-      "name": "Somchai Supamitr",
-      "linkedEntityId": "staff-2",
-      "nameThai": "สมชาย ศุภมิตร",
-      "username": "coach.somchai",
-      "notes": "ฝ่ายวิเคราะห์แทคติกและซ้อม",
-      "titleThai": "ผู้ช่วยผู้ฝึกสอนฝ่ายแทคติก (Assistant Coach)",
-      "createdAt": "2026-08-05T00:00:00.000Z",
-      "role": "coach",
-      "id": "acc-coach-2",
-      "password": "coach1234",
-      "email": "coach.somchai@bangkapifc.com"
     }
   ],
   "nextMatchInfo": {
