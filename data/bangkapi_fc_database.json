@@ -1,13 +1,13 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-22T12:16:06.172Z",
+    "exportedAt": "2026-09-22T12:16:37.895Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 15,
     "staffCount": 1,
-    "matchCount": 0,
+    "matchCount": 5,
     "trainingsCount": 2,
     "goalsCount": 0,
     "annualRecordsCount": 12
@@ -2581,7 +2581,623 @@
       "nameThai": "กรรัย ภูบังไม้"
     }
   ],
-  "matches": [],
+  "matches": [
+    {
+      "id": "m-21",
+      "matchday": 21,
+      "date": "2026-09-06",
+      "time": "18:00 น.",
+      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
+      "homeTeam": "บางกะปิ เอฟซี",
+      "awayTeam": "พราม แบงค็อก",
+      "homeScore": 3,
+      "awayScore": 1,
+      "isBangkapiHome": true,
+      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
+      "result": "W",
+      "possession": [
+        58,
+        42
+      ],
+      "shotsOnTarget": [
+        8,
+        3
+      ],
+      "totalShots": [
+        15,
+        7
+      ],
+      "corners": [
+        7,
+        2
+      ],
+      "fouls": [
+        10,
+        14
+      ],
+      "xG": [
+        2.4,
+        0.8
+      ],
+      "goals": [
+        {
+          "minute": 14,
+          "scorer": "Lucas Silva",
+          "scorerPlayerId": "p1",
+          "assist": "เคนโตะ ทากาฮาชิ"
+        },
+        {
+          "minute": 38,
+          "scorer": "ศุภณัฐ ธนวุฒิ",
+          "scorerPlayerId": "p2",
+          "assist": "อภิสิทธิ์ วงษ์คำ"
+        },
+        {
+          "minute": 61,
+          "scorer": "ธีรเดช กลิ่นเกสร",
+          "isOpponent": true
+        },
+        {
+          "minute": 83,
+          "scorer": "Lucas Silva",
+          "scorerPlayerId": "p1",
+          "assist": "กฤษดา จิตต์จำนอง"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 29,
+          "playerName": "อิบราฮิม โกเน่",
+          "cardType": "yellow"
+        },
+        {
+          "minute": 74,
+          "playerName": "ชินวัตร รัตนศรี",
+          "cardType": "yellow"
+        }
+      ],
+      "lineup": [
+        {
+          "playerId": "p11",
+          "position": "GK",
+          "rating": 7.6
+        },
+        {
+          "playerId": "p10",
+          "position": "RB",
+          "rating": 7.2
+        },
+        {
+          "playerId": "p8",
+          "position": "CB",
+          "rating": 7.7
+        },
+        {
+          "playerId": "p9",
+          "position": "CB",
+          "rating": 7
+        },
+        {
+          "playerId": "p7",
+          "position": "LB",
+          "rating": 7.8,
+          "assists": 1
+        },
+        {
+          "playerId": "p5",
+          "position": "CDM",
+          "rating": 7.9
+        },
+        {
+          "playerId": "p4",
+          "position": "CAM",
+          "rating": 8.4,
+          "assists": 1
+        },
+        {
+          "playerId": "p6",
+          "position": "CM",
+          "rating": 7.1
+        },
+        {
+          "playerId": "p3",
+          "position": "RW",
+          "rating": 7.5,
+          "assists": 1
+        },
+        {
+          "playerId": "p2",
+          "position": "LW",
+          "rating": 8.2,
+          "goals": 1
+        },
+        {
+          "playerId": "p1",
+          "position": "ST",
+          "rating": 9.1,
+          "goals": 2
+        }
+      ],
+      "matchSummary": "บางกะปิ เอฟซี โชว์ฟอร์มโหดไล่ต้อนพราม แบงค็อก 3-1 โดย ลูคัส ซิลวา กองหน้าแซมบ้าเหมาคนเดียว 2 ประตู คว้า 3 แต้มสำคัญ"
+    },
+    {
+      "id": "m-20",
+      "matchday": 20,
+      "date": "2026-08-30",
+      "time": "16:00 น.",
+      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
+      "homeTeam": "ม.เกษมบัณฑิต เอฟซี",
+      "awayTeam": "บางกะปิ เอฟซี",
+      "homeScore": 1,
+      "awayScore": 2,
+      "isBangkapiHome": false,
+      "venue": "สนามกีฬามหาวิทยาลัยเกษมบัณฑิต ร่มเกล้า",
+      "result": "W",
+      "possession": [
+        46,
+        54
+      ],
+      "shotsOnTarget": [
+        4,
+        6
+      ],
+      "totalShots": [
+        9,
+        13
+      ],
+      "corners": [
+        3,
+        6
+      ],
+      "fouls": [
+        12,
+        11
+      ],
+      "xG": [
+        1.1,
+        1.8
+      ],
+      "goals": [
+        {
+          "minute": 22,
+          "scorer": "ศุภโชค ชัยยะ",
+          "isOpponent": true
+        },
+        {
+          "minute": 54,
+          "scorer": "ติอาโก้ ซานโตส",
+          "scorerPlayerId": "p12",
+          "assist": "ศุภณัฐ ธนวุฒิ"
+        },
+        {
+          "minute": 88,
+          "scorer": "ชินวัตร รัตนศรี",
+          "scorerPlayerId": "p8",
+          "assist": "เคนโตะ ทากาฮาชิ"
+        }
+      ],
+      "cards": [
+        {
+          "minute": 42,
+          "playerName": "อภิสิทธิ์ วงษ์คำ",
+          "cardType": "yellow"
+        }
+      ],
+      "lineup": [
+        {
+          "playerId": "p11",
+          "position": "GK",
+          "rating": 7.3
+        },
+        {
+          "playerId": "p10",
+          "position": "RB",
+          "rating": 6.9
+        },
+        {
+          "playerId": "p8",
+          "position": "CB",
+          "rating": 8.1,
+          "goals": 1
+        },
+        {
+          "playerId": "p9",
+          "position": "CB",
+          "rating": 6.8
+        },
+        {
+          "playerId": "p7",
+          "position": "LB",
+          "rating": 7.1
+        },
+        {
+          "playerId": "p5",
+          "position": "CDM",
+          "rating": 7.4
+        },
+        {
+          "playerId": "p4",
+          "position": "CAM",
+          "rating": 7.9,
+          "assists": 1
+        },
+        {
+          "playerId": "p6",
+          "position": "CM",
+          "rating": 6.8
+        },
+        {
+          "playerId": "p3",
+          "position": "RW",
+          "rating": 7
+        },
+        {
+          "playerId": "p2",
+          "position": "LW",
+          "rating": 7.8,
+          "assists": 1
+        },
+        {
+          "playerId": "p12",
+          "position": "ST",
+          "rating": 7.7,
+          "goals": 1
+        }
+      ],
+      "matchSummary": "กัปตันชินวัตรโขกลูกเตะมุมนาทีที่ 88 พาทีมแซงชนะเจ้าถิ่นเกษมบัณฑิตแบบระทึกใจ 2-1"
+    },
+    {
+      "id": "m-19",
+      "matchday": 19,
+      "date": "2026-08-23",
+      "time": "18:00 น.",
+      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
+      "homeTeam": "บางกะปิ เอฟซี",
+      "awayTeam": "โบลาเวน สมุทรปราการ เอฟซี",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isBangkapiHome": true,
+      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
+      "result": "D",
+      "possession": [
+        62,
+        38
+      ],
+      "shotsOnTarget": [
+        7,
+        1
+      ],
+      "totalShots": [
+        18,
+        4
+      ],
+      "corners": [
+        9,
+        1
+      ],
+      "fouls": [
+        8,
+        15
+      ],
+      "xG": [
+        2.1,
+        0.3
+      ],
+      "goals": [],
+      "cards": [
+        {
+          "minute": 67,
+          "playerName": "อิบราฮิม โกเน่",
+          "cardType": "yellow"
+        }
+      ],
+      "lineup": [
+        {
+          "playerId": "p11",
+          "position": "GK",
+          "rating": 7.1
+        },
+        {
+          "playerId": "p10",
+          "position": "RB",
+          "rating": 7
+        },
+        {
+          "playerId": "p8",
+          "position": "CB",
+          "rating": 7.4
+        },
+        {
+          "playerId": "p9",
+          "position": "CB",
+          "rating": 7.2
+        },
+        {
+          "playerId": "p7",
+          "position": "LB",
+          "rating": 7.3
+        },
+        {
+          "playerId": "p5",
+          "position": "CDM",
+          "rating": 7.7
+        },
+        {
+          "playerId": "p4",
+          "position": "CAM",
+          "rating": 7.5
+        },
+        {
+          "playerId": "p6",
+          "position": "CM",
+          "rating": 6.9
+        },
+        {
+          "playerId": "p3",
+          "position": "RW",
+          "rating": 6.7
+        },
+        {
+          "playerId": "p2",
+          "position": "LW",
+          "rating": 7.4
+        },
+        {
+          "playerId": "p1",
+          "position": "ST",
+          "rating": 6.9
+        }
+      ],
+      "matchSummary": "บุกแหลกแต่ผู้รักษาประตูคู่แข่งผีเข้า เซฟอุตลุด จบเกมแบ่งแต้มกันไป 0-0"
+    },
+    {
+      "id": "m-18",
+      "matchday": 18,
+      "date": "2026-08-16",
+      "time": "15:30 น.",
+      "competition": "ช้าง เอฟเอ คัพ รอบ 64 ทีม",
+      "homeTeam": "ธนบุรี ยูไนเต็ด",
+      "awayTeam": "บางกะปิ เอฟซี",
+      "homeScore": 1,
+      "awayScore": 3,
+      "isBangkapiHome": false,
+      "venue": "สนามธนบุรี สเตเดียม",
+      "result": "W",
+      "possession": [
+        45,
+        55
+      ],
+      "shotsOnTarget": [
+        3,
+        8
+      ],
+      "totalShots": [
+        8,
+        14
+      ],
+      "corners": [
+        4,
+        7
+      ],
+      "fouls": [
+        14,
+        9
+      ],
+      "xG": [
+        0.9,
+        2.5
+      ],
+      "goals": [
+        {
+          "minute": 9,
+          "scorer": "ศุภณัฐ ธนวุฒิ",
+          "scorerPlayerId": "p2"
+        },
+        {
+          "minute": 31,
+          "scorer": "Lucas Silva",
+          "scorerPlayerId": "p1"
+        },
+        {
+          "minute": 58,
+          "scorer": "อนุชา สุวรรณฉัตร",
+          "isOpponent": true
+        },
+        {
+          "minute": 76,
+          "scorer": "สิทธิชัย บุญประเสริฐ",
+          "scorerPlayerId": "p13"
+        }
+      ],
+      "cards": [],
+      "lineup": [
+        {
+          "playerId": "p15",
+          "position": "GK",
+          "rating": 7.4
+        },
+        {
+          "playerId": "p10",
+          "position": "RB",
+          "rating": 7
+        },
+        {
+          "playerId": "p8",
+          "position": "CB",
+          "rating": 7.5
+        },
+        {
+          "playerId": "p14",
+          "position": "CB",
+          "rating": 6.9
+        },
+        {
+          "playerId": "p7",
+          "position": "LB",
+          "rating": 7.2
+        },
+        {
+          "playerId": "p5",
+          "position": "CDM",
+          "rating": 7.8
+        },
+        {
+          "playerId": "p13",
+          "position": "CAM",
+          "rating": 8,
+          "goals": 1
+        },
+        {
+          "playerId": "p6",
+          "position": "CM",
+          "rating": 7.2
+        },
+        {
+          "playerId": "p3",
+          "position": "RW",
+          "rating": 7.3
+        },
+        {
+          "playerId": "p2",
+          "position": "LW",
+          "rating": 8.3,
+          "goals": 1
+        },
+        {
+          "playerId": "p1",
+          "position": "ST",
+          "rating": 8.1,
+          "goals": 1
+        }
+      ],
+      "matchSummary": "ดาวรุ่ง สิทธิชัย บุญประเสริฐ สอดเข้ามายิงประตูปิดกล่อง พาทีมบุกชนะธนบุรี 3-1 ตีตั๋วสู่รอบ 32 ทีมช้าง เอฟเอ คัพ"
+    },
+    {
+      "id": "m-17",
+      "matchday": 17,
+      "date": "2026-07-19",
+      "time": "18:00 น.",
+      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
+      "homeTeam": "บางกะปิ เอฟซี",
+      "awayTeam": "ทหารบก เอฟซี",
+      "homeScore": 2,
+      "awayScore": 1,
+      "isBangkapiHome": true,
+      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
+      "result": "W",
+      "possession": [
+        56,
+        44
+      ],
+      "shotsOnTarget": [
+        6,
+        3
+      ],
+      "totalShots": [
+        14,
+        8
+      ],
+      "corners": [
+        6,
+        3
+      ],
+      "fouls": [
+        11,
+        13
+      ],
+      "xG": [
+        1.9,
+        0.9
+      ],
+      "goals": [
+        {
+          "minute": 33,
+          "scorer": "Lucas Silva",
+          "scorerPlayerId": "p1",
+          "assist": "เคนโตะ ทากาฮาชิ"
+        },
+        {
+          "minute": 71,
+          "scorer": "กฤษดา จิตต์จำนอง",
+          "scorerPlayerId": "p3",
+          "assist": "ศุภณัฐ ธนวุฒิ"
+        },
+        {
+          "minute": 84,
+          "scorer": "ส.อ. ธนกฤต",
+          "isOpponent": true
+        }
+      ],
+      "cards": [
+        {
+          "minute": 52,
+          "playerName": "ชินวัตร รัตนศรี",
+          "cardType": "yellow"
+        }
+      ],
+      "lineup": [
+        {
+          "playerId": "p11",
+          "position": "GK",
+          "rating": 7.4
+        },
+        {
+          "playerId": "p10",
+          "position": "RB",
+          "rating": 7.1
+        },
+        {
+          "playerId": "p8",
+          "position": "CB",
+          "rating": 7.6
+        },
+        {
+          "playerId": "p9",
+          "position": "CB",
+          "rating": 7
+        },
+        {
+          "playerId": "p7",
+          "position": "LB",
+          "rating": 7.3
+        },
+        {
+          "playerId": "p5",
+          "position": "CDM",
+          "rating": 7.8
+        },
+        {
+          "playerId": "p4",
+          "position": "CAM",
+          "rating": 8
+        },
+        {
+          "playerId": "p6",
+          "position": "CM",
+          "rating": 7
+        },
+        {
+          "playerId": "p3",
+          "position": "RW",
+          "rating": 8.2,
+          "goals": 1
+        },
+        {
+          "playerId": "p2",
+          "position": "LW",
+          "rating": 7.7,
+          "assists": 1
+        },
+        {
+          "playerId": "p1",
+          "position": "ST",
+          "rating": 8.3,
+          "goals": 1
+        }
+      ],
+      "matchSummary": "เกมตึงเครียดแต่คว้า 3 แต้มได้สำเร็จ ลูคัส ซิลวา และ กฤษดา ซัดคนละเม็ดพาทีมเฉือนทหารบก 2-1 ขึ้นนำจ่าฝูงเดี่ยว"
+    }
+  ],
   "trainings": [
     {
       "attendance": [
@@ -5154,7 +5770,7 @@
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
   ],
-  "lastUpdated": "2026-09-22T12:16:03.783Z",
+  "lastUpdated": "2026-09-22T12:16:34.676Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
