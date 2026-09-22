@@ -1,13 +1,13 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-22T12:07:45.974Z",
+    "exportedAt": "2026-09-22T12:15:58.575Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 15,
     "staffCount": 1,
-    "matchCount": 5,
+    "matchCount": 4,
     "trainingsCount": 2,
     "goalsCount": 0,
     "annualRecordsCount": 12
@@ -2582,144 +2582,6 @@
     }
   ],
   "matches": [
-    {
-      "id": "m-21",
-      "matchday": 21,
-      "date": "2026-09-06",
-      "time": "18:00 น.",
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "พราม แบงค็อก",
-      "homeScore": 3,
-      "awayScore": 1,
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "result": "W",
-      "possession": [
-        58,
-        42
-      ],
-      "shotsOnTarget": [
-        8,
-        3
-      ],
-      "totalShots": [
-        15,
-        7
-      ],
-      "corners": [
-        7,
-        2
-      ],
-      "fouls": [
-        10,
-        14
-      ],
-      "xG": [
-        2.4,
-        0.8
-      ],
-      "goals": [
-        {
-          "minute": 14,
-          "scorer": "Lucas Silva",
-          "scorerPlayerId": "p1",
-          "assist": "เคนโตะ ทากาฮาชิ"
-        },
-        {
-          "minute": 38,
-          "scorer": "ศุภณัฐ ธนวุฒิ",
-          "scorerPlayerId": "p2",
-          "assist": "อภิสิทธิ์ วงษ์คำ"
-        },
-        {
-          "minute": 61,
-          "scorer": "ธีรเดช กลิ่นเกสร",
-          "isOpponent": true
-        },
-        {
-          "minute": 83,
-          "scorer": "Lucas Silva",
-          "scorerPlayerId": "p1",
-          "assist": "กฤษดา จิตต์จำนอง"
-        }
-      ],
-      "cards": [
-        {
-          "minute": 29,
-          "playerName": "อิบราฮิม โกเน่",
-          "cardType": "yellow"
-        },
-        {
-          "minute": 74,
-          "playerName": "ชินวัตร รัตนศรี",
-          "cardType": "yellow"
-        }
-      ],
-      "lineup": [
-        {
-          "playerId": "p11",
-          "position": "GK",
-          "rating": 7.6
-        },
-        {
-          "playerId": "p10",
-          "position": "RB",
-          "rating": 7.2
-        },
-        {
-          "playerId": "p8",
-          "position": "CB",
-          "rating": 7.7
-        },
-        {
-          "playerId": "p9",
-          "position": "CB",
-          "rating": 7
-        },
-        {
-          "playerId": "p7",
-          "position": "LB",
-          "rating": 7.8,
-          "assists": 1
-        },
-        {
-          "playerId": "p5",
-          "position": "CDM",
-          "rating": 7.9
-        },
-        {
-          "playerId": "p4",
-          "position": "CAM",
-          "rating": 8.4,
-          "assists": 1
-        },
-        {
-          "playerId": "p6",
-          "position": "CM",
-          "rating": 7.1
-        },
-        {
-          "playerId": "p3",
-          "position": "RW",
-          "rating": 7.5,
-          "assists": 1
-        },
-        {
-          "playerId": "p2",
-          "position": "LW",
-          "rating": 8.2,
-          "goals": 1
-        },
-        {
-          "playerId": "p1",
-          "position": "ST",
-          "rating": 9.1,
-          "goals": 2
-        }
-      ],
-      "matchSummary": "บางกะปิ เอฟซี โชว์ฟอร์มโหดไล่ต้อนพราม แบงค็อก 3-1 โดย ลูคัส ซิลวา กองหน้าแซมบ้าเหมาคนเดียว 2 ประตู คว้า 3 แต้มสำคัญ"
-    },
     {
       "id": "m-20",
       "matchday": 20,
@@ -5770,7 +5632,7 @@
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
   ],
-  "lastUpdated": "2026-09-22T12:07:42.644Z",
+  "lastUpdated": "2026-09-22T12:15:56.019Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
