@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:08.499Z",
+    "exportedAt": "2026-09-23T13:46:12.851Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2712,24 +2712,6 @@
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     },
     {
-      "id": "t3-fix-21",
-      "matchday": 21,
-      "roundName": "นัดที่ 21 (เลกสอง)",
-      "date": "2026-09-06",
-      "time": "18:00 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "พราม แบงค็อก",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "วิวรรธน์ จำปาอ่อน",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
       "id": "t3-fix-22",
       "matchday": 22,
       "roundName": "นัดที่ 22 (นัดสุดท้ายของฤดูกาล T3 โซน กทม.)",
@@ -2746,42 +2728,6 @@
       "broadcastChannel": "AIS PLAY & T3 Live & YouTube Bangkapi FC",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-cup-1",
-      "matchday": 23,
-      "roundName": "ช้าง เอฟเอ คัพ 2026-2027 รอบ 32 ทีม",
-      "date": "2026-09-20",
-      "time": "18:00 น.",
-      "leg": "cup",
-      "competition": "ช้าง เอฟเอ คัพ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "นครปฐม ยูไนเต็ด",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "รอประกาศจากสมาคมฯ",
-      "broadcastChannel": "AIS PLAY / FA Cup TV",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมฟุตบอลถ้วย"
-    },
-    {
-      "id": "t3-fix-u1",
-      "matchday": 24,
-      "roundName": "T3 รอบแชมเปี้ยนส์ลีก นัดที่ 1 (รอบชิงตั๋วไทยลีก 2)",
-      "date": "2026-10-04",
-      "time": "18:00 น.",
-      "leg": "cup",
-      "competition": "ไทยลีก 3 เนชั่นแนล แชมเปี้ยนชิพ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "ปัตตานี เอฟซี (แชมป์โซนใต้)",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "รอประกาศจากสมาคมฯ",
-      "broadcastChannel": "Thai League Official Channel",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมรอบเพลย์ออฟ"
     }
   ],
   "leagueDetails": {
@@ -2842,7 +2788,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:06.026Z",
+  "lastUpdated": "2026-09-23T13:46:11.290Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
