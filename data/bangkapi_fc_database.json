@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:38.326Z",
+    "exportedAt": "2026-09-23T13:46:42.065Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2460,24 +2460,6 @@
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     },
     {
-      "id": "t3-fix-7",
-      "matchday": 7,
-      "roundName": "นัดที่ 7 (เลกแรก)",
-      "date": "2026-04-26",
-      "time": "18:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "ธนบุรี ยูไนเต็ด",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "สงกรานต์ บุญมีเกียรติ",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
       "id": "t3-fix-8",
       "matchday": 8,
       "roundName": "นัดที่ 8 (เลกแรก)",
@@ -2554,7 +2536,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:36.755Z",
+  "lastUpdated": "2026-09-23T13:46:39.871Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
