@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T08:33:25.707Z",
-    "author": "กรรัย ภูบังไม้ (COACH)",
+    "exportedAt": "2026-09-23T08:33:29.484Z",
+    "author": "โค้ช / แอดมินสโมสร",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
@@ -3234,9 +3234,5 @@
       "avgGoalsPerMatch": 2.5,
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
-  ],
-  "lastUpdated": "2026-09-23T08:33:23.731Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  ]
 }
