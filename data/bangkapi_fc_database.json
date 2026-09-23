@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:45:26.665Z",
-    "author": "โค้ช / แอดมินสโมสร",
+    "exportedAt": "2026-09-23T13:45:47.625Z",
+    "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
@@ -2352,20 +2352,6 @@
   "leagueStandings": [
     {
       "pos": 1,
-      "team": "บางกะปิ เอฟซี (Bangkapi FC)",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0,
-      "form": [],
-      "isBangkapi": true
-    },
-    {
-      "pos": 2,
       "team": "มหาวิทยาลัยนอร์ทกรุงเทพ",
       "played": 0,
       "won": 0,
@@ -2378,7 +2364,7 @@
       "form": []
     },
     {
-      "pos": 3,
+      "pos": 2,
       "team": "สมุทรสาคร ซิตี้",
       "played": 0,
       "won": 0,
@@ -2391,7 +2377,7 @@
       "form": []
     },
     {
-      "pos": 4,
+      "pos": 3,
       "team": "พราม แบงค็อก",
       "played": 0,
       "won": 0,
@@ -2404,7 +2390,7 @@
       "form": []
     },
     {
-      "pos": 5,
+      "pos": 4,
       "team": "มหาวิทยาลัยเกษมบัณฑิต เอฟซี",
       "played": 0,
       "won": 0,
@@ -2417,7 +2403,7 @@
       "form": []
     },
     {
-      "pos": 6,
+      "pos": 5,
       "team": "โบลาเวน สมุทรปราการ เอฟซี",
       "played": 0,
       "won": 0,
@@ -2430,7 +2416,7 @@
       "form": []
     },
     {
-      "pos": 7,
+      "pos": 6,
       "team": "ธนบุรี ยูไนเต็ด",
       "played": 0,
       "won": 0,
@@ -2443,7 +2429,7 @@
       "form": []
     },
     {
-      "pos": 8,
+      "pos": 7,
       "team": "ทหารบก เอฟซี",
       "played": 0,
       "won": 0,
@@ -2456,7 +2442,7 @@
       "form": []
     },
     {
-      "pos": 9,
+      "pos": 8,
       "team": "วีอาร์เอ็น เมืองนนท์ เอฟซี",
       "played": 0,
       "won": 0,
@@ -2469,7 +2455,7 @@
       "form": []
     },
     {
-      "pos": 10,
+      "pos": 9,
       "team": "อินเตอร์ แบงค็อก",
       "played": 0,
       "won": 0,
@@ -2482,7 +2468,7 @@
       "form": []
     },
     {
-      "pos": 11,
+      "pos": 10,
       "team": "เอสทีเค เมืองนนท์",
       "played": 0,
       "won": 0,
@@ -2495,7 +2481,7 @@
       "form": []
     },
     {
-      "pos": 12,
+      "pos": 11,
       "team": "ราชประชา เอฟซี",
       "played": 0,
       "won": 0,
@@ -3017,5 +3003,9 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": []
+  "annualPerformanceRecords": [],
+  "lastUpdated": "2026-09-23T13:45:46.411Z",
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)"
 }
