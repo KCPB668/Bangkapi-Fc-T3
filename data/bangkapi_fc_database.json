@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:45.896Z",
+    "exportedAt": "2026-09-23T13:46:49.392Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2386,60 +2386,6 @@
       "broadcastChannel": "T3 Official Stream",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-3",
-      "matchday": 3,
-      "roundName": "นัดที่ 3 (เลกแรก)",
-      "date": "2026-03-22",
-      "time": "18:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "สมุทรสาคร ซิตี้",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "มงคลชัย เพชรศรี",
-      "broadcastChannel": "AIS PLAY",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-4",
-      "matchday": 4,
-      "roundName": "นัดที่ 4 (เลกแรก)",
-      "date": "2026-03-29",
-      "time": "16:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "อินเตอร์ แบงค็อก",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬาเฉลิมพระเกียรติ 72 พรรษา มีนบุรี",
-      "status": "upcoming",
-      "referee": "นที ชูสุวรรณ",
-      "broadcastChannel": "Inter BKK TV",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-6",
-      "matchday": 6,
-      "roundName": "นัดที่ 6 (เลกแรก)",
-      "date": "2026-04-19",
-      "time": "15:30 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "ทหารบก เอฟซี",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬากองทัพบก",
-      "status": "upcoming",
-      "referee": "ไพโรจน์ บุณกำเนิด",
-      "broadcastChannel": "Army Sports Channel",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     }
   ],
   "leagueDetails": {
@@ -2500,7 +2446,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:43.401Z",
+  "lastUpdated": "2026-09-23T13:46:48.174Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
