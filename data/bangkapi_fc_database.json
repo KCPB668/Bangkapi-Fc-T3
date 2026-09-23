@@ -1,18 +1,2380 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T08:33:29.484Z",
-    "author": "โค้ช / แอดมินสโมสร",
+    "exportedAt": "2026-09-23T11:44:03.217Z",
+    "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
-    "playerCount": 0,
+    "playerCount": 14,
     "staffCount": 1,
     "matchCount": 5,
     "trainingsCount": 2,
     "goalsCount": 0,
     "annualRecordsCount": 12
   },
-  "players": [],
+  "players": [
+    {
+      "id": "p1",
+      "number": 10,
+      "name": "Lucas Silva",
+      "nameThai": "ลูคัส ซิลวา",
+      "nationality": "Brazil",
+      "nationalityThai": "บราซิล",
+      "flag": "🇧🇷",
+      "age": 26,
+      "heightCm": 182,
+      "weightKg": 78,
+      "position": "ST",
+      "secondaryPositions": [
+        "CF",
+        "LW"
+      ],
+      "overall": 73,
+      "potential": 77,
+      "cardTier": "silver",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ต่ำ",
+      "stats": {
+        "pace": 82,
+        "shooting": 76,
+        "passing": 68,
+        "dribbling": 78,
+        "defending": 32,
+        "physical": 74
+      },
+      "sharpness": 88,
+      "fitness": 92,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 45000,
+      "marketValueThb": 2200000,
+      "contractUntilYear": 2027,
+      "squadRole": "ตัวหลักที่ขาดไม่ได้",
+      "playStyles": [
+        "Finesse Shot",
+        "First Touch",
+        "Rapid",
+        "Acrobatic"
+      ],
+      "developmentPlan": {
+        "planName": "Poacher (ยอดดาวยิงเข้าฮอส)",
+        "weeksRemaining": 4,
+        "growthStat": "+1 การจบสกอร์, +1 ปฏิกิริยา"
+      },
+      "seasonStats": {
+        "matchesPlayed": 18,
+        "goals": 14,
+        "assists": 5,
+        "yellowCards": 2,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 7.9
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "st_poacher",
+        "roleName": "Pure Poacher (จอมจบสกอร์ในกรอบ 6 หลา)",
+        "roleNameThai": "จอมจบสกอร์ในกรอบเขตโทษ (Poacher)",
+        "roleAbbreviation": "PCH",
+        "duty": "โจมตี (Attack)",
+        "nominalPosition": "ST",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ กองหน้าตัวเป้า (ST) แต่แตกต่างจากศูนย์หน้าสมัยใหม่ที่ต้องลงมาช่วยเชื่อมเกมแดนกลาง บทบาท \"Poacher\" จะไม่เสียพลังงานลงมาล้วงบอล แต่จะยืนเกาะแนวล้ำหน้าคู่แข่งอย่างอดทน หาช่องว่างในกรอบเขตโทษ และจบสกอร์ในจังหวะเดียว (First-Touch Finishing) อย่างเด็ดขาด",
+        "tacticalInstructions": [
+          "ยืนเกาะแนวหลังคู่แข่ง หาจังหวะวิ่งฉีกกับดักล้ำหน้า",
+          "จบสกอร์ในจังหวะแรกทันทีที่มีโอกาสในกรอบเขตโทษ",
+          "โฉบตัดหน้ากองหลังที่เสาแรกในจังหวะครอสบอลริมเส้น",
+          "ไม่ถอยลงต่ำเกินไป เพื่อให้ทีมมีตัวเป้าค้ำกองหลังคู่แข่งตลอดเวลา"
+        ],
+        "tacticalPillars": [
+          "สัญชาตญาณการจบสกอร์ (Clinical Finishing)",
+          "การเคลื่อนที่ฉีกกับดักล้ำหน้า (Beating Offside Trap)",
+          "การสัมผัสบอลแรกเพื่อยิงประตู (First-Touch Execution)"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจบสกอร์ในกรอบเขตโทษ (Finishing)",
+            "current": 84,
+            "target": 91,
+            "priority": "สูงมาก",
+            "explanation": "เปลี่ยนโอกาสในกรอบเขตโทษให้เป็นประตูสูงสุด"
+          },
+          {
+            "name": "สัญชาตญาณการหาตำแหน่ง (Attacking Positioning)",
+            "current": 85,
+            "target": 92,
+            "priority": "สูงมาก",
+            "explanation": "ยืนถูกที่ถูกเวลาเสมอในกรอบ 6 หลา"
+          },
+          {
+            "name": "ความนิ่งในการดวลตัวต่อตัว (Composure 1v1)",
+            "current": 81,
+            "target": 88,
+            "priority": "สูงมาก",
+            "explanation": "ส่งบอลเข้าก้นตาข่ายอย่างเยือกเย็นเมื่อหลุดเดี่ยว"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-st-1",
+            "drillName": "First-Touch Box Finishing Under Intense Pressure",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "30 นาที",
+            "focus": "รับบอลครอส บอลกระดอน และบอลตัดหลัง แล้วจบสกอร์จังหวะเดียวทันที",
+            "intensity": "หนัก",
+            "targetMetric": "เปลี่ยนโอกาส 10 ครั้งให้เป็นอย่างน้อย 7 ประตู"
+          },
+          {
+            "id": "drill-st-2",
+            "drillName": "Offside Line Timing & Burst Acceleration",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "จับจังหวะการออกบอลของกองกลาง แล้ววิ่งฉีกตัวประกบโดยไม่ล้ำหน้า",
+            "intensity": "หนัก",
+            "targetMetric": "หลุดเดี่ยวโดยไม่ล้ำหน้า > 80%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การจบสกอร์จังหวะแรกในกรอบเขตโทษ (First-Touch Finishing)",
+        "สปีดฉีกตัวประกบทะลุกับดักล้ำหน้า",
+        "การยิงปั่นโค้งด้วยเท้าขวาเสียบเสาไกล",
+        "การบังบอลและพลิกตัวยิงในพื้นที่จำกัด"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การวิ่งไล่เพรสซิ่งแดนบนตามแทคติกเกเก้นเพรส (Gegenpress High Block)",
+        "การถอยลงมาเชื่อมเกมกับกองกลางตัวรุกในจังหวะ Transition",
+        "การช่วยป้องกันลูกตั้งเตะและโหม่งเคลียร์บอลที่เสาแรก"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ทุ่มเทสูงสุด",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "มาก่อนเวลาฝึกซ้อม 30 นาทีเพื่อยืดเหยียดและฝึกซ้อมยิงประตูเพิ่ม มีสมาธิสูงและกระตุ้นเพื่อนร่วมทีมตลอดเวลา"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เป็นผู้นำและสร้างบรรยากาศบวก",
+        "description": "รับประทานอาหารตามหลักโภชนาการสโมสรอย่างเคร่งครัด พักผ่อนตรงเวลา ไม่ดื่มแอลกอฮอล์ เป็นแบบอย่างให้นักเตะรุ่นน้องในแคมป์"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-1-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 85,
+          "rating": 9.1,
+          "tacticalAdherence": 9,
+          "technicalExecution": 10,
+          "workRateSpirit": 9,
+          "goals": 2,
+          "assists": 0,
+          "coachFeedback": "ฟอร์มยอดเยี่ยมระดับ Man of the Match หาพื้นที่ว่างเฉียบคม จบสกอร์ได้อย่างเด็ดขาดทั้งสองประตู",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        },
+        {
+          "id": "pmr-1-2",
+          "matchId": "m-20",
+          "matchTitle": "ม.เกษมบัณฑิต 1 - 2 บางกะปิ เอฟซี",
+          "date": "2026-08-30",
+          "opponent": "ม.เกษมบัณฑิต เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 7.5,
+          "tacticalAdherence": 8,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "แม้จะไม่มีชื่อทำประตู แต่มีบทบาทสำคัญในการดึงเซ็นเตอร์คู่แข่งเปิดพื้นที่ให้เพื่อนสอดเข้าทำ",
+          "evaluatorCoachName": "โค้ชเอกภพ ศรีวิชัย"
+        },
+        {
+          "id": "pmr-1-3",
+          "matchId": "m-19",
+          "matchTitle": "บางกะปิ เอฟซี 0 - 0 โบลาเวน สมุทรปราการ",
+          "date": "2026-08-23",
+          "opponent": "โบลาเวน สมุทรปราการ เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 7.1,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "ทำงานหนักเผชิญหน้ากับเกมรับแน่นหนา มีจังหวะยิงชนคานน่าเสียดาย",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p2",
+      "number": 7,
+      "name": "Supanut Thanawut",
+      "nameThai": "ศุภณัฐ ธนวุฒิ",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 22,
+      "heightCm": 175,
+      "weightKg": 69,
+      "position": "LW",
+      "secondaryPositions": [
+        "RW",
+        "CAM"
+      ],
+      "overall": 71,
+      "potential": 80,
+      "cardTier": "silver",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 86,
+        "shooting": 70,
+        "passing": 72,
+        "dribbling": 79,
+        "defending": 36,
+        "physical": 62
+      },
+      "sharpness": 85,
+      "fitness": 89,
+      "morale": "มีความสุข",
+      "wageWeeklyThb": 30000,
+      "marketValueThb": 1800000,
+      "contractUntilYear": 2028,
+      "squadRole": "ตัวหลักที่ขาดไม่ได้",
+      "playStyles": [
+        "Trickster",
+        "Technical Dribbler",
+        "Whipped Pass"
+      ],
+      "developmentPlan": {
+        "planName": "Inside Forward (ปีกตัดเข้าใน)",
+        "weeksRemaining": 6,
+        "growthStat": "+2 การยิงไกล, +1 สปีดต้น"
+      },
+      "seasonStats": {
+        "matchesPlayed": 19,
+        "goals": 8,
+        "assists": 9,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 7.7
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "lw_if",
+        "roleName": "Inside Forward (IF)",
+        "roleNameThai": "ปีกตัดเข้าในทำประตู (Inside Forward)",
+        "roleAbbreviation": "IF",
+        "duty": "โจมตี (Attack)",
+        "nominalPosition": "LW",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ ปีกซ้าย (LW) ซึ่งในอดีตมักหมายถึงผู้เล่นที่วิ่งเลียบเส้นข้างเพื่อเปิดบอลเข้ากลางด้วยเท้าซ้าย แต่ผู้เล่นคนนี้มีเท้าขวาที่เฉียบคมและสัญชาตญาณกองหน้า จึงได้รับบทบาท \"Inside Forward\" โดยจะเลี้ยงตัดจากริมเส้นเข้าสู่กรอบเขตโทษ เพื่อยิงประตูด้วยเท้าขวาเสาไกล หรือประสานงานชิ่ง 1-2 สอดเข้าฮอสคล้ายกองหน้าตัวใน เปิดพื้นที่ริมเส้นให้แบ็คซ้ายโอเวอร์แล็ปขึ้นมา",
+        "tacticalInstructions": [
+          "เลี้ยงตัดเข้าด้านในกรอบเขตโทษด้วยเท้าข้างถนัด (เท้าขวา)",
+          "หาจังหวะยิงปั่นโค้งเสียบเสาไกลหรือยิงมุมแคบ",
+          "สอดเข้าฮอสที่เสาแรกเมื่อบอลเปิดมาจากฝั่งตรงข้าม",
+          "วิ่งไล่เพรสซิ่งสูงใส่เซ็นเตอร์แบ็คฝั่งขวาของคู่แข่ง"
+        ],
+        "tacticalPillars": [
+          "การตัดเข้าในเพื่อจบสกอร์ (Inverted Cutting & Finishing)",
+          "การเคลื่อนที่แบบกองหน้าตัวใน (Second Striker Movement)",
+          "การเปิดพื้นที่ริมเส้นให้วิงแบ็คเติมเกม"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจบสกอร์และการยิงปั่นโค้ง (Curling Finish)",
+            "current": 80,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "ยิงปั่นโค้งเสาไกลแม่นยำเด็ดขาด"
+          },
+          {
+            "name": "การเลี้ยงตัดเข้าใน (Inverted Dribbling 1v1)",
+            "current": 83,
+            "target": 89,
+            "priority": "สูงมาก",
+            "explanation": "กระชากหนีฟูลแบ็คตัดเข้ากรอบเขตโทษ"
+          },
+          {
+            "name": "สปีดเร่งในระยะสั้น (Acceleration)",
+            "current": 85,
+            "target": 90,
+            "priority": "สูง",
+            "explanation": "ออกตัวฉีกตัวประกบใน 10 หลาแรก"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-if-1",
+            "drillName": "Diagonal Inside Cut & Far-Post Curling Finishing",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "เลี้ยงตัดหลบหุ่นจำลองจากมุม 45 องศาแล้วยิงปั่นโค้งด้วยเท้าขวาเสียบสามเหลี่ยมเสาไกล",
+            "intensity": "หนัก",
+            "targetMetric": "ยิงเข้ากรอบ > 80%, อัตราเป็นประตู > 50%"
+          },
+          {
+            "id": "drill-if-2",
+            "drillName": "Wing-Back Overlap Decoy & 1-2 Box Infiltration",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "ดึงตัวประกบด้วยการหลอกว่าจะจ่ายให้แบ็ค แล้วทำชิ่งกับมิดฟิลด์สอดเข้ายิง",
+            "intensity": "หนัก",
+            "targetMetric": "การประสานงานชิ่ง 1-2 สำเร็จ > 75%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ความเร็วสปีดต้นและการกระชากบอลตัดเข้าใน (Inverted Winger)",
+        "การเลี้ยงดวล 1-ต่อ-1 ผ่านแนวรับ",
+        "การเปิดบอลเลียดคัทแบ็กจากเส้นหลังแม่นยำ",
+        "การซัดไกลด้วยเท้าขวาจากริมเส้น"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การถอยลงมาซ้อนเกมรับฝั่งซ้ายเมื่อแบ็กคู่แข่งเติมเกมรุก",
+        "การตัดสินใจจังหวะสุดท้ายระหว่างการยิงเองกับส่งต่อให้กองหน้า",
+        "การเพิ่มความแข็งแกร่งของร่างกายในการปะทะบอล 50/50"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "ขยันซ้อมและตั้งใจฟังแทคติกของโค้ช มักขอคำปรึกษาเรื่องการจับจังหวะสปีดและการเคลื่อนที่แบบไร้บอล"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ปฏิบัติตามกฎแคมป์อย่างเคร่งครัด อัธยาศัยดี มีมนุษยสัมพันธ์กับเพื่อนร่วมทีมทั้งรุ่นพี่และนักเตะต่างชาติ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-2-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 78,
+          "rating": 8.2,
+          "tacticalAdherence": 8,
+          "technicalExecution": 9,
+          "workRateSpirit": 8,
+          "goals": 1,
+          "assists": 0,
+          "coachFeedback": "ยิงประตูขึ้นนำ 2-0 ได้อย่างยอดเยี่ยม กระชากบอลฉีกแนวรับคู่แข่งได้ตลอดเวลา",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        },
+        {
+          "id": "pmr-2-2",
+          "matchId": "m-20",
+          "matchTitle": "ม.เกษมบัณฑิต 1 - 2 บางกะปิ เอฟซี",
+          "date": "2026-08-30",
+          "opponent": "ม.เกษมบัณฑิต เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 7.8,
+          "tacticalAdherence": 8,
+          "technicalExecution": 8,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 1,
+          "coachFeedback": "จ่ายแอสซิสต์สุดคมให้ติอาโก้ตีเสมอ และมีส่วนร่วมกับเกมบุกตลอดเกม",
+          "evaluatorCoachName": "โค้ชเอกภพ ศรีวิชัย"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p3",
+      "number": 11,
+      "name": "Kritsada Chittjamnong",
+      "nameThai": "กฤษดา จิตต์จำนอง",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 24,
+      "heightCm": 178,
+      "weightKg": 71,
+      "position": "RW",
+      "secondaryPositions": [
+        "RM",
+        "ST"
+      ],
+      "overall": 69,
+      "potential": 75,
+      "cardTier": "bronze",
+      "cardType": "rare",
+      "foot": "ซ้าย",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 84,
+        "shooting": 67,
+        "passing": 69,
+        "dribbling": 73,
+        "defending": 40,
+        "physical": 66
+      },
+      "sharpness": 79,
+      "fitness": 88,
+      "morale": "มีความสุข",
+      "wageWeeklyThb": 22000,
+      "marketValueThb": 1200000,
+      "contractUntilYear": 2027,
+      "squadRole": "ผู้เล่นสำคัญ",
+      "playStyles": [
+        "Speed Dribbler",
+        "Crossing Specialist"
+      ],
+      "developmentPlan": {
+        "planName": "Wide Playmaker (ตัวเปิดริมเส้น)",
+        "weeksRemaining": 8,
+        "growthStat": "+1 วิสัยทัศน์, +1 การเปิดบอล"
+      },
+      "seasonStats": {
+        "matchesPlayed": 17,
+        "goals": 5,
+        "assists": 6,
+        "yellowCards": 3,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 7.3
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "rw_iw",
+        "roleName": "Inverted Winger / Wide Creator (IW)",
+        "roleNameThai": "ปีกตัวทำเกมด้านใน (Inverted Winger)",
+        "roleAbbreviation": "IW",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "RW",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ ปีกขวา (RW) แต่สไตล์การเล่นไม่ใช่ปีกความเร็วสูงที่วิ่งไปเปิดบอลริมเส้น แต่ทำหน้าที่คล้ายเพลย์เมกเกอร์ริมเส้น ขยับตัดเข้าในเพื่อสร้างสรรค์เกม ตักบอลข้ามแผงกองหลัง หรือจ่ายบอลตัดหลังคู่แข่งให้เพื่อนทำประตู",
+        "tacticalInstructions": [
+          "พาบอลตัดเข้ากลางเพื่อตักบอลข้ามแผงหลังหรือแทงบอลทะลุช่อง",
+          "เปิดพื้นที่ริมเส้นกว้างให้แบ็คขวา (RB) เติมเกมสุดเส้น",
+          "สลับตำแหน่งกับกองกลางตัวรุกในจังหวะบุก"
+        ],
+        "tacticalPillars": [
+          "การสร้างสรรค์โอกาสจากริมเส้นสู่ด้านใน",
+          "การตักบอลและการจ่ายบอลน้ำหนักแม่นยำ",
+          "ความฉลาดในการยืนตำแหน่งดึงตัวประกบ"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การตักบอลและการเปิดบอลจาก Half-space",
+            "current": 79,
+            "target": 86,
+            "priority": "สูงมาก",
+            "explanation": "หยอดบอลข้ามแนวรับไปยังเสาไกล"
+          },
+          {
+            "name": "วิสัยทัศน์และการครองบอล (Vision/Control)",
+            "current": 81,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "บังบอลและจ่ายให้เพื่อนที่สอดขึ้นมา"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-iw-1",
+            "drillName": "Inverted Half-Space Diagonal Infiltration Drill",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "ตัดเข้าในแล้วตักบอลข้ามแนวรับให้ศูนย์หน้าหรือปีกซ้ายสอดโหม่ง",
+            "intensity": "ปานกลาง",
+            "targetMetric": "ความแม่นยำการตักบอลเข้าเป้าหมาย > 80%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การเปิดบอลโค้งด้วยเท้าซ้ายจากฝั่งขวา (Incurving Cross)",
+        "การเลี้ยงบอลไต่เส้นและสปีดพาบอลขึ้นแดนหน้า",
+        "การเล่นลูกตั้งเตะเปิดเตะมุมและฟรีคิกด้านข้าง"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การหุบเข้าด้านในเพื่อเชื่อมเกมกับกองกลาง (Inside Playmaker)",
+        "การเพิ่มประสิทธิภาพการใช้เท้าขวาในจังหวะกระชั้นชิด",
+        "การช่วยบีบพื้นที่เพรสซิ่งสูงพร้อมกันทั้งแผงหน้า"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "รับฟังดี",
+        "description": "ทุ่มเทในการฝึกซ้อมลูกตั้งเตะและการเปิดบอลริมเส้น ปฏิบัติตามคำสั่งโค้ชอย่างเคร่งครัด"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "รักษาวินัยการนอนหลับและการพักผ่อน อัธยาศัยร่าเริง มีส่วนร่วมในกิจกรรมสโมสรอย่างสม่ำเสมอ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-3-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 72,
+          "rating": 7.5,
+          "tacticalAdherence": 8,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 1,
+          "coachFeedback": "เปิดบอลแม่นยำให้ลูคัสทำประตูปิดกล่อง มีวินัยในการวิ่งช่วยเกมรับริมเส้น",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p4",
+      "number": 8,
+      "name": "Kento Takahashi",
+      "nameThai": "เคนโตะ ทากาฮาชิ",
+      "nationality": "Japan",
+      "nationalityThai": "ญี่ปุ่น",
+      "flag": "🇯🇵",
+      "age": 27,
+      "heightCm": 174,
+      "weightKg": 68,
+      "position": "CAM",
+      "secondaryPositions": [
+        "CM"
+      ],
+      "overall": 72,
+      "potential": 73,
+      "cardTier": "silver",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "สูง",
+      "stats": {
+        "pace": 74,
+        "shooting": 71,
+        "passing": 80,
+        "dribbling": 77,
+        "defending": 52,
+        "physical": 68
+      },
+      "sharpness": 90,
+      "fitness": 94,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 40000,
+      "marketValueThb": 2000000,
+      "contractUntilYear": 2026,
+      "squadRole": "ตัวหลักที่ขาดไม่ได้",
+      "playStyles": [
+        "Incisive Pass",
+        "Tiki Taka",
+        "Relentless"
+      ],
+      "developmentPlan": {
+        "planName": "Shadow Striker (หน้าต่ำตัวสอด)",
+        "weeksRemaining": 5,
+        "growthStat": "+1 การวางบอลสั้น, +1 สมาธิ"
+      },
+      "seasonStats": {
+        "matchesPlayed": 20,
+        "goals": 6,
+        "assists": 11,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 7.8
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cam_ap",
+        "roleName": "Advanced Playmaker / Half-Space Creator (AP)",
+        "roleNameThai": "เพลย์เมกเกอร์ตัวสร้างสรรค์เกม (Advanced Playmaker)",
+        "roleAbbreviation": "AP",
+        "duty": "โจมตี (Attack)",
+        "nominalPosition": "CAM",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ กองกลางตัวรุก (CAM) แต่ในระบบสมัยใหม่ไม่ได้ยืนรอรับบอลเฉยๆ แต่ต้องขยับออกไปรับบอลในช่องว่างระหว่างแนวรับกับแนวมิดฟิลด์ (Pockets of Space) หรือช่อง Half-space เพื่อดึงตัวประกบและจ่ายบอลทะลุช่องคิลเลอร์พาสให้ปีกและกองหน้า",
+        "tacticalInstructions": [
+          "เคลื่อนที่หาพื้นที่ว่างระหว่างแนว (Between the Lines)",
+          "จ่ายบอลทะลุช่องคิลเลอร์พาส (Through Balls) ให้กองหน้าและปีกตัดเข้าใน",
+          "พลิกบอลเข้าหาปากประตูเมื่อรับบอลหันหลัง"
+        ],
+        "tacticalPillars": [
+          "ความคล่องตัวและการจ่ายบอลคิลเลอร์พาส",
+          "การสร้างสรรค์โอกาสทำประตู (Chances Created)",
+          "การดึงตัวประกบเพื่อเปิดพื้นที่ว่าง"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจ่ายบอลคิลเลอร์พาส (Through Balls/Vision)",
+            "current": 84,
+            "target": 90,
+            "priority": "สูงมาก",
+            "explanation": "จ่ายบอลฉีกแนวรับคู่แข่งอย่างเฉียบคม"
+          },
+          {
+            "name": "การเลี้ยงบอลในพื้นที่แคบ (Close Control Dribbling)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูงมาก",
+            "explanation": "เอาตัวรอดจากการถูกรุมประกบ 2-3 คน"
+          },
+          {
+            "name": "ความเฉียบคมในการตัดสินใจ (Decision Making)",
+            "current": 80,
+            "target": 86,
+            "priority": "สูง",
+            "explanation": "เลือกว่าจะยิงเองหรือจ่ายให้เพื่อนในเสี้ยววินาที"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-ap-1",
+            "drillName": "Between the Lines Pocket Receiving & Killer Pass",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "เคลื่อนที่ออกจากเงามาร์กเกอร์ รับบอลแล้วจ่ายทะลุช่องทันที",
+            "intensity": "ปานกลาง",
+            "targetMetric": "สร้างจังหวะจ่ายเข้าเป้าสำเร็จ > 85%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "วิสัยทัศน์การจ่ายบอลทะลุช่อง (Incisive Killer Passes)",
+        "การสัมผัสบอลแรก (First Touch) เอาตัวรอดในที่แคบ",
+        "การควบคุมจังหวะเกมรุกช้า-เร็ว (Tempo Management)",
+        "การยิงแถวสองด้วยความแม่นยำ"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การเข้าปะทะแย่งบอลในแดนกลางเพื่อตัดเกมเคาน์เตอร์",
+        "การสอดเข้ากรอบเขตโทษเพื่อเป็นตัวเลือกยิงประตูจังหวะสอง",
+        "การสื่อสารและสั่งการเพื่อนร่วมทีมในเกมที่คู่แข่งบีบเพรสซิ่งเร็ว"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ทุ่มเทสูงสุด",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "มีระเบียบวินัยสไตล์นักเตะญี่ปุ่น ซ้อมด้วยความเข้มข้น 100% ตลอดทุกเซสชัน จดบันทึกแทคติกและทบทวนหลังซ้อม"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เป็นผู้นำและสร้างบรรยากาศบวก",
+        "description": "ระมัดระวังเรื่องอาหารการกินและแคลอรี่อย่างเข้มงวด นอนหลับครบ 8 ชั่วโมง เป็นที่เคารพของเพื่อนร่วมทีมทุกคน"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-4-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 8.4,
+          "tacticalAdherence": 9,
+          "technicalExecution": 9,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 1,
+          "coachFeedback": "บัญชาเกมแดนกลางได้อย่างไร้ที่ติ จ่ายบอลสร้างสรรค์โอกาสถึง 4 ครั้ง",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        },
+        {
+          "id": "pmr-4-2",
+          "matchId": "m-20",
+          "matchTitle": "ม.เกษมบัณฑิต 1 - 2 บางกะปิ เอฟซี",
+          "date": "2026-08-30",
+          "opponent": "ม.เกษมบัณฑิต เอฟซี",
+          "minutesPlayed": 88,
+          "rating": 7.9,
+          "tacticalAdherence": 8,
+          "technicalExecution": 8,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 1,
+          "coachFeedback": "เตะมุมเปิดโค้งแม่นยำให้ชินวัตรโหม่งประตูชัยนาทีที่ 88",
+          "evaluatorCoachName": "โค้ชเอกภพ ศรีวิชัย"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p6",
+      "number": 16,
+      "name": "Thanaboon Pongsiri",
+      "nameThai": "ธนบูรณ์ พงษ์ศิริ",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 23,
+      "heightCm": 176,
+      "weightKg": 70,
+      "position": "CM",
+      "secondaryPositions": [
+        "CDM",
+        "CAM"
+      ],
+      "overall": 67,
+      "potential": 74,
+      "cardTier": "bronze",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "สูง",
+      "stats": {
+        "pace": 72,
+        "shooting": 63,
+        "passing": 70,
+        "dribbling": 68,
+        "defending": 64,
+        "physical": 70
+      },
+      "sharpness": 76,
+      "fitness": 84,
+      "morale": "พอใจ",
+      "wageWeeklyThb": 18000,
+      "marketValueThb": 950000,
+      "contractUntilYear": 2027,
+      "squadRole": "หมุนเวียนลงเล่น",
+      "playStyles": [
+        "Relentless",
+        "Long Ball Pass"
+      ],
+      "developmentPlan": {
+        "planName": "Box-to-Box Midfielder",
+        "weeksRemaining": 7,
+        "growthStat": "+1 ความอึด, +1 การจ่ายสั้น"
+      },
+      "seasonStats": {
+        "matchesPlayed": 14,
+        "goals": 1,
+        "assists": 2,
+        "yellowCards": 2,
+        "redCards": 0,
+        "cleanSheets": 4,
+        "avgRating": 6.9
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cdm_dlp",
+        "roleName": "Deep-Lying Playmaker (DLP / Regista)",
+        "roleNameThai": "มิดฟิลด์ตัวคุมจังหวะแนวลึก (Deep-Lying Playmaker)",
+        "roleAbbreviation": "DLP",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "CDM",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมระบุเป็น กองกลางตัวรับ (CDM) ทำให้หลายคนคิดว่าต้องเน้นวิ่งไล่เตะตัดเกมแบบพันธุ์ดุ แต่ในแทคติกของบางกะปิ เอฟซี ผู้เล่นสวมบทบาท \"Deep-Lying Playmaker (เรจิสต้า)\" ทำหน้าที่เป็นหัวใจการเดินเกมหน้าแผงหลัง ใช้การอ่านเกม สแกนพื้นที่ 360 องศา และการจ่ายบอลสั้น-ยาวควบคุมจังหวะ (Tempo Control) ช้า-เร็วของทีม ไม่ใช่นักเตะสายปะทะรุนแรง",
+        "tacticalInstructions": [
+          "ถอยลงไปรับบอลจากเซ็นเตอร์แบ็คเพื่อขึ้นเกมรุกขั้นแรก",
+          "คุมจังหวะการเล่น (Tempo): เร่งเกมเมื่อคู่แข่งเปิดช่อง และเคาะชะลอเกมเมื่อนำอยู่",
+          "จ่ายบอลสลับแกน (Switch Play) ระยะ 40-50 หลาเพื่อเปิดพื้นที่ริมเส้น",
+          "คอยดักเก็บบอลสองหน้ากรอบเขตโทษตนเองอย่างใจเย็น"
+        ],
+        "tacticalPillars": [
+          "การคุมจังหวะและทิศทางเกม (Tempo Dictation)",
+          "วิสัยทัศน์และการมองทะลุช่อง (Vision)",
+          "การจ่ายบอลหลากหลายมิติ"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "วิสัยทัศน์การอ่านเกม (Vision & Anticipation)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูงมาก",
+            "explanation": "มองเห็นการเคลื่อนที่ของเพื่อนล่วงหน้า 2-3 จังหวะ"
+          },
+          {
+            "name": "การจ่ายบอลยาวเปลี่ยนแกน (Long Passing)",
+            "current": 84,
+            "target": 90,
+            "priority": "สูงมาก",
+            "explanation": "วางบอลยาวแม่นยำระดับจับวาง"
+          },
+          {
+            "name": "การสัมผัสบอลแรก (First Touch Under Pressure)",
+            "current": 83,
+            "target": 88,
+            "priority": "สูงมาก",
+            "explanation": "แตะบอลหนีมุมบีบของคู่แข่งได้อย่างไหลลื่น"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-dlp-1",
+            "drillName": "360° Scanning & Tempo Switch Maestro Rondo",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "ยืนตรงกลางวงล้อม สแกนพื้นที่รอบตัวแล้วจ่ายบอลเปลี่ยนแกน 1-2 จังหวะ",
+            "intensity": "ปานกลาง",
+            "targetMetric": "สแกนคอ 4-5 ครั้งก่อนรับบอล, จ่ายบอลแม่นยำ > 92%"
+          },
+          {
+            "id": "drill-dlp-2",
+            "drillName": "High Press Evasion & Long Diagonal Drop",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "รับบอลจากผู้รักษาประตูใต้แรงบีบ แล้ววางบอลยาวแม่นยำข้ามแผงมิดฟิลด์",
+            "intensity": "ปานกลาง",
+            "targetMetric": "วางบอลเข้าเท้าปีกที่กำลังวิ่ง > 80%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การวิ่งไล่บอลแบบบ็อกซ์ทูบ็อกซ์ (Box-to-Box Stamina)",
+        "การสอดขึ้นไปยิงไกลแถวสอง",
+        "การจ่ายบอลเชื่อมห่วงโซ่ระหว่างแนวรับกับแนวรุก"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การบริหารพลังงานความฟิตไม่ให้หมดช่วงท้ายเกม",
+        "การตัดสินใจเข้าบอลในจังหวะ 50/50 โดยไม่เสี่ยงต่อการบาดเจ็บ",
+        "การสแกนพื้นที่รอบตัวก่อนรับบอล (Pre-scanning)"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "เคยมาสายบางครั้ง",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "มีความมุ่งมั่นสูงในสนามซ้อม แต่ต้องปรับปรุงเรื่องการบริหารเวลาการเดินทางมาสนาม"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ปรับตัวเรื่องการพักผ่อนดีขึ้นหลังได้รับการตักเตือน มีเพื่อนสนิทในทีมคอยกระตุ้นเรื่องระเบียบวินัย"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-6-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 65,
+          "rating": 7.1,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "วิ่งเพรสซิ่งขยันขันแข็ง มีจังหวะแย่งบอลแดนกลางได้ดี ถูกเปลี่ยนตัวออกเพื่อเซฟความสด",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p7",
+      "number": 3,
+      "name": "Aphisit Wongkham",
+      "nameThai": "อภิสิทธิ์ วงษ์คำ",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 25,
+      "heightCm": 179,
+      "weightKg": 73,
+      "position": "LB",
+      "secondaryPositions": [
+        "LWB"
+      ],
+      "overall": 68,
+      "potential": 72,
+      "cardTier": "bronze",
+      "cardType": "rare",
+      "foot": "ซ้าย",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 81,
+        "shooting": 55,
+        "passing": 68,
+        "dribbling": 69,
+        "defending": 67,
+        "physical": 71
+      },
+      "sharpness": 82,
+      "fitness": 91,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 20000,
+      "marketValueThb": 1100000,
+      "contractUntilYear": 2028,
+      "squadRole": "ผู้เล่นสำคัญ",
+      "playStyles": [
+        "Whipped Cross",
+        "Quick Step"
+      ],
+      "developmentPlan": {
+        "planName": "Attacking Wingback",
+        "weeksRemaining": 5,
+        "growthStat": "+2 การเปิดบอลโค้ง, +1 เลี้ยงบอล"
+      },
+      "seasonStats": {
+        "matchesPlayed": 19,
+        "goals": 2,
+        "assists": 4,
+        "yellowCards": 4,
+        "redCards": 0,
+        "cleanSheets": 7,
+        "avgRating": 7.2
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "lb_iwb",
+        "roleName": "Inverted Wing-Back (IWB)",
+        "roleNameThai": "วิงแบ็คตัวใน (Inverted Wing-Back)",
+        "roleAbbreviation": "IWB",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "LB",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ แบ็คซ้าย (LB) ที่ขนบเดิมมักเข้าใจว่าจะต้องวิ่งเติมสุดเส้นริมเส้นเพื่อเปิดบอล (Cross) เข้ากลาง แต่ในระบบแทคติกจริงของสโมสร ผู้เล่นได้รับมอบหมายบทบาท \"Inverted Wing-Back\" โดยจะหุบเข้าพื้นที่ Half-space แดนกลางขณะที่ทีมครองบอลบิวด์อัพ เพื่อสร้าง Overload ทางตัวเลขในแดนกลางร่วมกับมิดฟิลด์ และปิดช่องว่างป้องกันเกมโต้กลับเร็วตรงจุดศูนย์กลางสนาม",
+        "tacticalInstructions": [
+          "หุบเข้าพื้นที่ Half-space แดนกลางเมื่อทีมเป็นฝ่ายครอบครองบอล",
+          "ทำหน้าที่เป็นมิดฟิลด์ตัวรับคนที่สองเพื่อคอยสกัดบอลจังหวะสอง (Second Ball)",
+          "จ่ายบอลสั้นทะลุแนวไปยังปีกซ้าย (LW) หรือกองกลางตัวรุก (CAM)",
+          "ไม่วิ่งโอเวอร์แล็ปสุดเส้นโดยไม่จำเป็น เพื่อรักษาสมดุลโครงสร้างแนวรับ"
+        ],
+        "tacticalPillars": [
+          "Overload แดนกลาง",
+          "ป้องกันเกมสวนกลับตรงกลาง (Rest Defense)",
+          "การบิวด์อัพบอลจากแดนหลัง (Build-up Phase)"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การสแกนพื้นที่รอบตัว (Scanning 360°)",
+            "current": 75,
+            "target": 82,
+            "priority": "สูงมาก",
+            "explanation": "มองรอบตัวก่อนรับบอลเพื่อตัดสินใจหุบเข้ากลางหรือแปะออกข้าง"
+          },
+          {
+            "name": "การจ่ายบอลสั้น-กลาง (Short Passing)",
+            "current": 78,
+            "target": 85,
+            "priority": "สูงมาก",
+            "explanation": "ออกบอลแม่นยำไม่เสียบอลในโซนอันตรายแดนกลาง"
+          },
+          {
+            "name": "ความเข้าใจเชิงตำแหน่ง (Positional Awareness)",
+            "current": 74,
+            "target": 80,
+            "priority": "สูง",
+            "explanation": "ยืนตำแหน่งขวางเส้นทางสวนกลับของคู่แข่งได้อย่างถูกต้อง"
+          },
+          {
+            "name": "ความฟิตและความอึด (Stamina/Recovery)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูง",
+            "explanation": "สปรินต์ถอยกลับมาประจำตำแหน่งแบ็คซ้ายเมื่อทีมเสียบอล"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-iwb-1",
+            "drillName": "Inverted Half-Space Build-Up & Transition Rondo",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "25 นาที",
+            "focus": "จำลองการหุบจากแนวหลังเข้ารับบอลในพื้นที่ Half-space ภายใต้แรงกดดัน",
+            "intensity": "หนัก",
+            "targetMetric": "อัตราจ่ายบอลสำเร็จ > 88%, สแกนพื้นที่เฉลี่ย 3 ครั้งต่อ 10 วินาที"
+          },
+          {
+            "id": "drill-iwb-2",
+            "drillName": "Counter-Attack Rest Defense Positioning Drill",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "ยืนตัดบอลจังหวะสองหน้ากรอบและตัดเกมทันทีเมื่อเสียการครอบครอง",
+            "intensity": "ปานกลาง",
+            "targetMetric": "ดักสกัดบอลสำเร็จ > 75%, ฟาวล์เชิงแทคติกไม่เกิน 1 ครั้ง"
+          },
+          {
+            "id": "drill-iwb-3",
+            "drillName": "Diagonal Long Switch to Weak Side",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "20 นาที",
+            "focus": "วางบอลยาวข้ามฟากจาก Half-space ซ้ายไปยังปีกขวาที่เติมขึ้นมา",
+            "intensity": "ปานกลาง",
+            "targetMetric": "ความแม่นยำการวางบอลระยะ 35-45 หลา > 70%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การเติมเกมรุกโอเวอร์แล็ปขึ้นสุดเส้นหลัง (Overlapping Runs)",
+        "การครอสบอลเลียดและลูกโด่งด้วยเท้าซ้าย",
+        "ความอึดวิ่งขึ้นลงริมเส้นตลอด 90 นาที"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การถอยลงมาปิดพื้นที่ด้านหลัง (Recovery Pace Defending)",
+        "การป้องกันลูกโด่งเสาไกลเมื่อคู่แข่งครอสบอลจากฝั่งตรงข้าม",
+        "การดักทางและไม่หลงเหลี่ยมปีกความเร็วสูง"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ทุ่มเทสูงสุด",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "เป็นหนึ่งในนักเตะที่ฟิตที่สุดในทีม วิ่งสปรินต์ครบตามเกณฑ์ทุกมื้อซ้อม"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ดูแลรักษากล้ามเนื้อขาและข้อเท้าดีมาก ทานโปรตีนเสริมและยืดกล้ามเนื้อสม่ำเสมอ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-7-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 7.8,
+          "tacticalAdherence": 8,
+          "technicalExecution": 8,
+          "workRateSpirit": 9,
+          "goals": 0,
+          "assists": 1,
+          "coachFeedback": "เติมเกมรุกทางกราบซ้ายได้อันตรายตลอดเกม เปิดบอลเข้าเป้าสร้างความได้เปรียบ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p8",
+      "number": 4,
+      "name": "Chinnawat Rattanasri (C)",
+      "nameThai": "ชินวัตร รัตนศรี (กัปตันทีม)",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 31,
+      "heightCm": 186,
+      "weightKg": 82,
+      "position": "CB",
+      "secondaryPositions": [
+        "CDM"
+      ],
+      "overall": 72,
+      "potential": 72,
+      "cardTier": "silver",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "workRateAttack": "ปานกลาง",
+      "workRateDefense": "สูง",
+      "stats": {
+        "pace": 65,
+        "shooting": 45,
+        "passing": 67,
+        "dribbling": 60,
+        "defending": 76,
+        "physical": 80
+      },
+      "sharpness": 89,
+      "fitness": 87,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 38000,
+      "marketValueThb": 1500000,
+      "contractUntilYear": 2026,
+      "squadRole": "ตัวหลักที่ขาดไม่ได้",
+      "playStyles": [
+        "Block",
+        "Power Header",
+        "Leadership"
+      ],
+      "developmentPlan": {
+        "planName": "No-Nonsense Centre-Back",
+        "weeksRemaining": 9,
+        "growthStat": "+1 ประกบตัว, +1 แย่งโหม่ง"
+      },
+      "seasonStats": {
+        "matchesPlayed": 20,
+        "goals": 3,
+        "assists": 1,
+        "yellowCards": 5,
+        "redCards": 0,
+        "cleanSheets": 8,
+        "avgRating": 7.5
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cb_bpd",
+        "roleName": "Ball-Playing Defender (BPD)",
+        "roleNameThai": "กองหลังออกบอลสร้างสรรค์เกม (Ball-Playing Defender)",
+        "roleAbbreviation": "BPD",
+        "duty": "เน้นรับ (Defend)",
+        "nominalPosition": "CB",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ เซ็นเตอร์แบ็ค (CB) แต่แตกต่างจากกองหลังทั่วไปที่เน้นเตะเคลียร์บอลทิ้งอย่างเดียว บทบาท \"Ball-Playing Defender\" ต้องมีความเยือกเย็น ครองบอลเหนียวแน่น สามารถจ่ายบอลทะลุไลน์แรกของคู่แข่ง (Line-breaking Passes) และวางบอลยาวเปลี่ยนแกนเพื่อเป็นจุดเริ่มต้นเกมรุกของสโมสร",
+        "tacticalInstructions": [
+          "กล้าเก็บบอลไว้กับตัวและดึงแนวเพรสซิ่งคู่แข่งเข้ามาก่อนจ่ายบอล",
+          "จ่ายบอลเลียดทะลุช่องเข้าสู่กองกลางตัวรุกโดยตรง",
+          "วางบอลยาวแนวทแยงมุมไปยังปีกทั้งสองฝั่งเมื่อคู่แข่งแพ็กโซนตรงกลางแน่น",
+          "คุมแนวตั้งรับสูงร่วมกับผู้รักษาประตูแบบ Sweeper Keeper"
+        ],
+        "tacticalPillars": [
+          "การตั้งเกมจากแนวหลัง (Progressive Build-up)",
+          "การควบคุมอารมณ์และความเยือกเย็นใต้ความกดดัน (Composure)",
+          "ระยะการจ่ายบอลสั้น-ยาว"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจ่ายบอลทะลุไลน์ (Line-breaking Pass)",
+            "current": 79,
+            "target": 86,
+            "priority": "สูงมาก",
+            "explanation": "จ่ายบอลผ่านกองหน้าและกองกลางคู่แข่งไปยังพื้นที่ว่าง"
+          },
+          {
+            "name": "ความเยือกเย็นเมื่อโดนเพรส (Composure)",
+            "current": 81,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "ไม่ตื่นตระหนกแม้ถูกกองหน้าคู่แข่งปรี่เข้าบีบ"
+          },
+          {
+            "name": "การอ่านจังหวะดักบอล (Interceptions)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูง",
+            "explanation": "ตัดบอลจังหวะจ่ายของคู่แข่งก่อนจะหลุดถึงกรอบเขตโทษ"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-bpd-1",
+            "drillName": "Press-Resistant Split Passing Session",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "จ่ายบอลเจาะทะลุหุ่นจำลองแนวรับ 2 แผงเข้าสู่เท้าผู้เล่นเบอร์ 8/10",
+            "intensity": "ปานกลาง",
+            "targetMetric": "ความแม่นยำ 90% โดยบอลต้องมีน้ำหนักและทิศทางที่รับง่าย"
+          },
+          {
+            "id": "drill-bpd-2",
+            "drillName": "High Defensive Line Coordination & Aerial Recovery",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "ซ้อมเช็กไลน์ล้ำหน้าและวิ่งสปีดกลับไปเคลียร์บอลยาวที่คู่แข่งสวนกลับ",
+            "intensity": "หนัก",
+            "targetMetric": "เช็กล้ำหน้าสำเร็จ > 85%, ชนะการดวลกลางอากาศ 100%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ความเป็นผู้นำและการสั่งการแนวรับ (Captain Leadership)",
+        "การโหม่งสกัดลูกกลางอากาศและการขึ้นโหม่งทำประตูจากลูกเตะมุม",
+        "การเข้าสกัดบอลจังหวะสุดท้ายหน้าปากประตู (Last-Ditch Tackle)"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การดันแนวรับเช็กล้ำหน้าแบบเป็นหนึ่งเดียวกัน (High Defensive Line)",
+        "การออกบอลสั้นจากแดนหลัง (Build-up from the Back)",
+        "การป้องกันจังหวะคู่แข่งแทงบอลทะลุช่องหลังไลน์"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ทุ่มเทสูงสุด",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "ทำหน้าที่กัปตันทีมอย่างสมบูรณ์แบบ ทั้งการเป็นผู้นำอบอุ่นร่างกายและคอยดูแลระเบียบการซ้อม"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เป็นผู้นำและสร้างบรรยากาศบวก",
+        "description": "เป็นตัวเชื่อมระหว่างสต๊าฟโค้ชกับนักเตะ ดูแลความเรียบร้อยของห้องแต่งตัว ไม่เคยมีประวัติด่างพร้อย"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-8-1",
+          "matchId": "m-20",
+          "matchTitle": "ม.เกษมบัณฑิต 1 - 2 บางกะปิ เอฟซี",
+          "date": "2026-08-30",
+          "opponent": "ม.เกษมบัณฑิต เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 8.1,
+          "tacticalAdherence": 9,
+          "technicalExecution": 8,
+          "workRateSpirit": 9,
+          "goals": 1,
+          "assists": 0,
+          "coachFeedback": "โขกประตูชัยนาทีที่ 88 พร้อมป้องกันจังหวะอันตรายได้หลายครั้ง พาทีมคว้า 3 แต้มล้ำค่า",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        },
+        {
+          "id": "pmr-8-2",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 7.7,
+          "tacticalAdherence": 8,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "สั่งการแนวรับมั่นคง เคลียร์บอลจังหวะสำคัญได้ถึง 6 ครั้ง",
+          "evaluatorCoachName": "โค้ชเอกภพ ศรีวิชัย"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p9",
+      "number": 5,
+      "name": "Panupong Srisuk",
+      "nameThai": "ภานุพงศ์ ศรีสุข",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 26,
+      "heightCm": 184,
+      "weightKg": 80,
+      "position": "CB",
+      "secondaryPositions": [
+        "RB"
+      ],
+      "overall": 69,
+      "potential": 73,
+      "cardTier": "bronze",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "workRateAttack": "ต่ำ",
+      "workRateDefense": "สูง",
+      "stats": {
+        "pace": 69,
+        "shooting": 38,
+        "passing": 62,
+        "dribbling": 59,
+        "defending": 72,
+        "physical": 77
+      },
+      "sharpness": 65,
+      "fitness": 75,
+      "morale": "พอใจ",
+      "wageWeeklyThb": 24000,
+      "marketValueThb": 1200000,
+      "contractUntilYear": 2027,
+      "squadRole": "ผู้เล่นสำคัญ",
+      "playStyles": [
+        "Slide Tackle",
+        "Bruiser"
+      ],
+      "developmentPlan": {
+        "planName": "Ball Playing Defender",
+        "weeksRemaining": 6,
+        "growthStat": "+2 จ่ายบอลยาว, +1 ตัดบอล"
+      },
+      "seasonStats": {
+        "matchesPlayed": 16,
+        "goals": 1,
+        "assists": 0,
+        "yellowCards": 3,
+        "redCards": 0,
+        "cleanSheets": 6,
+        "avgRating": 7.1
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cb_stopper",
+        "roleName": "No-Nonsense Stopper (STP)",
+        "roleNameThai": "สต็อปเปอร์ตัดเกมดุดัน (Stopper)",
+        "roleAbbreviation": "STP",
+        "duty": "เข้าปะทะ (Stopper)",
+        "nominalPosition": "CB",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ เซ็นเตอร์แบ็ค (CB) แต่ถูกมอบหมายให้ก้าวออกจากแผงหลัง (Step up) เข้าชนและดักสกัดกองหน้าคู่แข่งทันทีก่อนที่จะสามารถพลิกบอลได้ เน้นการปะทะ แย่งโหม่ง และเคลียร์บอลพื้นที่อันตรายให้เด็ดขาด ไม่เสี่ยงครองบอลนาน",
+        "tacticalInstructions": [
+          "ก้าวขึ้นบดขยี้กองหน้าคู่แข่งทันทีที่บอลถูกจ่ายมาถึงตัว",
+          "ชนะการดวลกลางอากาศทุกลูกในเขต 18 หลา",
+          "เคลียร์บอลให้พ้นจากโซนอันตรายโดยตรง ไม่เสี่ยงต่อบอลหน้าปากประตู"
+        ],
+        "tacticalPillars": [
+          "ความแข็งแกร่งและการดวลทางกายภาพ (Physical Duels)",
+          "การเข้าสกัดบอลจังหวะแรกอย่างแม่นยำ",
+          "ความเด็ดขาดในการป้องกัน (Zero Risk Defending)"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การเข้าปะทะและแย่งบอล (Tackling/Strength)",
+            "current": 85,
+            "target": 90,
+            "priority": "สูงมาก",
+            "explanation": "เบียดปะทะชนะกองหน้าคู่แข่งอย่างใสสะอาด"
+          },
+          {
+            "name": "การโหม่งสกัดกลางอากาศ (Heading & Jump)",
+            "current": 86,
+            "target": 91,
+            "priority": "สูงมาก",
+            "explanation": "ขึ้นโหม่งเคลียร์ลูกเตะมุมและลูกครอส"
+          },
+          {
+            "name": "ความดุดันและสมาธิ (Aggression/Focus)",
+            "current": 83,
+            "target": 88,
+            "priority": "สูง",
+            "explanation": "ไม่เสียสมาธิตลอด 90 นาที"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-stp-1",
+            "drillName": "Physical 1v1 Dominance & Step-Up Tackling",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "25 นาที",
+            "focus": "ดวลตัวต่อตัวกับศูนย์หน้าเป้าหมาย บีบไม่ให้พลิกบอลเข้าหาประตู",
+            "intensity": "หนักมาก",
+            "targetMetric": "แย่งบอลสำเร็จ > 80%, ไม่ทำฟาวล์ในระยะอันตราย"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ความเร็วในการวิ่งไล่กวดกองหน้า (Covering Pace)",
+        "การเข้าเบียดปะทะแย่งบอลด้วยความคล่องตัว",
+        "การส่งบอลเรียดขึ้นหน้าอย่างแม่นยำ"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การรักษาสมาธิไม่ให้เสียสมาธิตามการเคลื่อนที่หลอกของคู่แข่ง",
+        "การฟื้นฟูกล้ามเนื้อข้อเท้าเพื่อกลับมาลงสนามได้อย่างสมบูรณ์",
+        "การป้องกันลูกโด่งในลูกเซ็ตพีซ"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "ขยันทำกายภาพบำบัดฟื้นฟูอาการเจ็บข้อเท้า ปฏิบัติตามคำสั่งนักกายภาพอย่างเคร่งครัด"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ควบคุมน้ำหนักตัวช่วงพักฟื้นอาการเจ็บได้เป็นอย่างดี ทานอาหารที่มีประโยชน์ช่วยฟื้นฟูข้อต่อ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-9-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 7,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 7,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "ทำหน้าที่ได้ตามมาตรฐาน มีจังหวะสกัดบอลสวยๆ ก่อนจะรู้สึกตึงที่ข้อเท้า",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p10",
+      "number": 2,
+      "name": "Nattawut Chansang",
+      "nameThai": "ณัฐวุฒิ จันทร์แสง",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 24,
+      "heightCm": 177,
+      "weightKg": 72,
+      "position": "RB",
+      "secondaryPositions": [
+        "RWB",
+        "RM"
+      ],
+      "overall": 68,
+      "potential": 73,
+      "cardTier": "bronze",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 80,
+        "shooting": 52,
+        "passing": 66,
+        "dribbling": 67,
+        "defending": 66,
+        "physical": 72
+      },
+      "sharpness": 81,
+      "fitness": 89,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 19000,
+      "marketValueThb": 1050000,
+      "contractUntilYear": 2027,
+      "squadRole": "ผู้เล่นสำคัญ",
+      "playStyles": [
+        "Quick Step",
+        "Long Throw"
+      ],
+      "developmentPlan": {
+        "planName": "Complete Wing Back",
+        "weeksRemaining": 4,
+        "growthStat": "+1 สปีด, +1 เปิดบอลยาว"
+      },
+      "seasonStats": {
+        "matchesPlayed": 18,
+        "goals": 0,
+        "assists": 3,
+        "yellowCards": 4,
+        "redCards": 0,
+        "cleanSheets": 7,
+        "avgRating": 7
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "rb_wb",
+        "roleName": "Attacking Wing-Back (WB)",
+        "roleNameThai": "วิงแบ็คจอมบุกริมเส้น (Attacking Wing-Back)",
+        "roleAbbreviation": "WB",
+        "duty": "โจมตี (Attack)",
+        "nominalPosition": "RB",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ แบ็คขวา (RB) แต่มีคุณลักษณะเด่นด้านความเร็ว ความฟิต และการครอสบอล โค้ชจึงมอบหมายบทบาท \"Attacking Wing-Back\" ที่อนุญาตให้ดันเกมรุกสูงเทียบเท่าปีก เพื่อถ่างแนวรับคู่แข่งและเปิดพื้นที่ด้านในให้ปีกขวาตัดเข้าทำประตู",
+        "tacticalInstructions": [
+          "วิ่งโอเวอร์แล็ปขึ้นสุดเส้นหลังฝั่งขวาตลอด 90 นาที",
+          "ครอสบอลเลียดตัดหลังแผงกองหลังคู่แข่งเข้าจุดนัดพบเสาแรกและจุดโทษ",
+          "บีบเพรสซิ่งสูงใส่ฟูลแบ็คฝั่งตรงข้ามทันทีที่ทีมเสียบอลในแดนบน"
+        ],
+        "tacticalPillars": [
+          "สร้างความกว้างในสนาม (Width in Attack)",
+          "การครอสบอลหลากหลายรูปแบบ",
+          "สปีดสปรินต์ขึ้นลงริมเส้น"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "สปีดและความเร็วปลาย (Sprint Speed)",
+            "current": 84,
+            "target": 89,
+            "priority": "สูงมาก",
+            "explanation": "ฉีกหนีตัวประกบริมเส้นเพื่อเข้าถึงบอลก่อนสุดเส้นหลัง"
+          },
+          {
+            "name": "การเปิดบอลเข้าเขตโทษ (Crossing Accuracy)",
+            "current": 77,
+            "target": 84,
+            "priority": "สูงมาก",
+            "explanation": "ครอสบอลโค้งเข้าจุดนัดพบแม่นยำ"
+          },
+          {
+            "name": "ความทนทานของกล้ามเนื้อ (Stamina)",
+            "current": 86,
+            "target": 90,
+            "priority": "สูง",
+            "explanation": "คงสมรรถภาพการวิ่งต่อเนื่องตลอด 90 นาที"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-rb-1",
+            "drillName": "High Overlap & Cutback Delivery Drill",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "สปีดรับบอลทะลุช่องริมเส้นแล้วจ่ายตัดย้อนเข้ากลาง (Cutback) ให้เพื่อนยิง",
+            "intensity": "หนัก",
+            "targetMetric": "เปิดบอลเข้าเป้าหมายในกรอบเขตโทษ > 75%"
+          },
+          {
+            "id": "drill-rb-2",
+            "drillName": "Endurance Shuttle Sprint & Defensive Recovery",
+            "category": "ความฟิตและสมรรถภาพ",
+            "duration": "20 นาที",
+            "focus": "สปรินต์ไปข้างหน้า 40 เมตร แล้วสปีดถอยกลับมาช่วยเกมรับ",
+            "intensity": "หนักมาก",
+            "targetMetric": "ทำเวลาฟื้นตัวต่ำกว่า 12 วินาทีต่อรอบ"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ความคล่องตัวและสปีดการวิ่งเติมเกมรุกฝั่งขวา",
+        "การเข้าประกบตัวต่อตัวไม่ให้ปีกคู่แข่งเปิดบอล",
+        "การทุ่มไกลสร้างโอกาสในแดนคู่แข่ง"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การเปิดบอลโค้งครอสจากริมเส้นให้เข้าหัวกองหน้า",
+        "การสื่อสารกับเซ็นเตอร์แบ็กฝั่งขวาเมื่อเจอลูกชิพข้ามหัว",
+        "ความแข็งแกร่งของร่างกายในการปะทะด้านข้าง"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "รับฟังดี",
+        "description": "ซ้อมวิ่งระยะสั้นและการเติมเกมรุกริมเส้นอย่างสม่ำเสมอ รับฟังคำแนะนำเรื่องจังหวะเข้าบอล"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ใช้ชีวิตเรียบง่าย สนิทสนมกับเพื่อนร่วมทีมชาวไทย ช่วยเหลือเพื่อนในการซ้อม"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-10-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 7.2,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "หยุดเกมบุกฝั่งซ้ายของคู่แข่งได้ดี มีจังหวะเติมเกมเปิดบอลได้ลุ้น",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p11",
+      "number": 1,
+      "name": "Varut Somboon",
+      "nameThai": "วรุตม์ สมบูรณ์",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 27,
+      "heightCm": 189,
+      "weightKg": 84,
+      "position": "GK",
+      "secondaryPositions": [],
+      "overall": 71,
+      "potential": 74,
+      "cardTier": "silver",
+      "cardType": "rare",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "workRateAttack": "ปานกลาง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 45,
+        "shooting": 25,
+        "passing": 64,
+        "dribbling": 38,
+        "defending": 30,
+        "physical": 75,
+        "gkDiving": 73,
+        "gkHandling": 70,
+        "gkKicking": 68,
+        "gkReflexes": 75,
+        "gkSpeed": 45,
+        "gkPositioning": 72
+      },
+      "sharpness": 87,
+      "fitness": 93,
+      "morale": "ดีเยี่ยม",
+      "wageWeeklyThb": 32000,
+      "marketValueThb": 1700000,
+      "contractUntilYear": 2027,
+      "squadRole": "ตัวหลักที่ขาดไม่ได้",
+      "playStyles": [
+        "Footwork",
+        "Far Reach",
+        "Cross Claimer"
+      ],
+      "developmentPlan": {
+        "planName": "Sweeper Keeper (ผู้รักษาประตูตัวสวีปเปอร์)",
+        "weeksRemaining": 6,
+        "growthStat": "+1 ปฏิกิริยาเซฟ, +1 การออกบอลยาว"
+      },
+      "seasonStats": {
+        "matchesPlayed": 20,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 1,
+        "redCards": 0,
+        "cleanSheets": 8,
+        "avgRating": 7.4
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "gk_sweeper",
+        "roleName": "Sweeper Keeper (SK)",
+        "roleNameThai": "ผู้รักษาประตูสวีปเปอร์ (Sweeper Keeper)",
+        "roleAbbreviation": "SK",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "GK",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ ผู้รักษาประตู (GK) แต่แตกต่างจากโกลเฝ้าเสาทั่วไปอย่างสิ้นเชิง บทบาท \"Sweeper Keeper\" ต้องดันตำแหน่งออกมานอกกรอบเขตโทษ คอยอ่านเกมและวิ่งออกมาสกัดบอลยาวที่คู่แข่งเตะข้ามแผงกองหลังตัวสูง และมีส่วนร่วมในการบิวด์อัพเซ็ตเกมด้วยเท้าเหมือนกองหลังตัวสุดท้าย",
+        "tacticalInstructions": [
+          "ดันตำแหน่งออกมายืนนอกกรอบเขตโทษขณะที่ทีมบุกอยู่ในแดนคู่แข่ง",
+          "วิ่งสปีดออกมาตัดบอลยาวนอกกรอบก่อนที่กองหน้าคู่แข่งจะถึงบอล",
+          "ร่วมเป็นตัวเลือกในการส่งบอลคืนหลังเพื่อคลี่คลายแรงกดดัน",
+          "ออกบอลเร็วด้วยการขว้างหรือเตะเลียดแม่นยำเปิดเกมสวนกลับ"
+        ],
+        "tacticalPillars": [
+          "การคุมพื้นที่ว่างด้านหลังแผงกองหลัง (Sweeping)",
+          "การเล่นบอลด้วยเท้าและการบิวด์อัพ (Build-up with Feet)",
+          "ความกล้าหาญในการตัดสินใจนอกกรอบเขตโทษ"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การออกมาตัดบอลนอกกรอบ (Rushing Out/Sweeping)",
+            "current": 80,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "ตัดสินใจออกมาสไลด์สกัดบอลนอกกรอบอย่างแม่นยำ"
+          },
+          {
+            "name": "การจ่ายบอลสั้น-ยาวด้วยเท้า (Kicking/Passing)",
+            "current": 79,
+            "target": 86,
+            "priority": "สูงมาก",
+            "explanation": "ออกบอลเลียดไม่ลนลานแม้ถูกกองหน้าบีบ"
+          },
+          {
+            "name": "การอ่านเกมและความเร็วในการออกตัว (Anticipation/Pace)",
+            "current": 78,
+            "target": 85,
+            "priority": "สูง",
+            "explanation": "เริ่มสปรินต์ทันทีที่บอลออกจากเท้าคู่แข่ง"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-sk-1",
+            "drillName": "High Defensive Line Sweeping & 1v1 Slide",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "25 นาที",
+            "focus": "ยืนหน้ากรอบ 18 หลา สปรินต์ออกมาสไลด์ตัดบอลยาวระยะ 30-35 หลา",
+            "intensity": "หนัก",
+            "targetMetric": "ตัดบอลสำเร็จ > 85%, ไม่เกิดการฟาวล์นอกกรอบ"
+          },
+          {
+            "id": "drill-sk-2",
+            "drillName": "Goalkeeper Build-Up Passing & Distribution",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "20 นาที",
+            "focus": "รับบอลคืนหลังใต้แรงเพรสซิ่งจากกองหน้า แล้วจ่ายบอลเลียดเข้าเท้าฟูลแบ็ค",
+            "intensity": "ปานกลาง",
+            "targetMetric": "อัตราจ่ายบอลสำเร็จ > 90%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ปฏิกิริยาการพุ่งเซฟลูกยิงระยะเผาขน (Reflex Saves)",
+        "การออกมาตัดบอลกลางอากาศจากลูกเตะมุม (Cross Claiming)",
+        "การใช้เท้าเปิดบอลยาวสวนกลับแม่นยำ",
+        "การสั่งการจัดกำแพงและแนวรับ"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การออกมาเล่นนอกกรอบเขตโทษในฐานะ Sweeper Keeper ปัดกวาดบอลหลังไลน์",
+        "การตัดสินใจจังหวะดวลเดี่ยว 1-ต่อ-1 ดึงตัวรอบอลไม่ทิ้งตัวเร็วเกินไป",
+        "การออกบอลสั้นเพื่อสร้างเกมจากปากประตู"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ทุ่มเทสูงสุด",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "ซ้อมเซฟบอลกับโค้ชผู้รักษาประตูอย่างเข้มข้น มีความเป็นผู้นำสูง สั่งการแนวรับเสียงดังชัดเจน"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เป็นผู้นำและสร้างบรรยากาศบวก",
+        "description": "รักษาสภาพร่างกายและความยืดหยุ่นดีเยี่ยม นั่งสมาธิฝึกสมาธิก่อนวันแข่งขัน"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-11-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 90,
+          "rating": 7.6,
+          "tacticalAdherence": 8,
+          "technicalExecution": 8,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "เซฟลูกยิงหลุดเดี่ยวสำคัญ 2 ครั้ง ช่วยให้ทีมไม่เสียประตูเพิ่มและคุมเกมได้มั่นใจ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        },
+        {
+          "id": "pmr-11-2",
+          "matchId": "m-19",
+          "matchTitle": "บางกะปิ เอฟซี 0 - 0 โบลาเวน สมุทรปราการ",
+          "date": "2026-08-23",
+          "opponent": "โบลาเวน สมุทรปราการ เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 8.3,
+          "tacticalAdherence": 9,
+          "technicalExecution": 9,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "cleanSheet": true,
+          "coachFeedback": "คลีนชีตสุดยอด เซฟจุดโทษและลูกยิงจ่อๆ พาทีมแบ่งแต้มสำคัญ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p12",
+      "number": 9,
+      "name": "Tiago Santos",
+      "nameThai": "ติอาโก้ ซานโตส",
+      "nationality": "Brazil",
+      "nationalityThai": "บราซิล",
+      "flag": "🇧🇷",
+      "age": 29,
+      "heightCm": 188,
+      "weightKg": 86,
+      "position": "ST",
+      "secondaryPositions": [
+        "CF"
+      ],
+      "overall": 72,
+      "potential": 72,
+      "cardTier": "silver",
+      "cardType": "common",
+      "foot": "ขวา",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ต่ำ",
+      "stats": {
+        "pace": 75,
+        "shooting": 75,
+        "passing": 64,
+        "dribbling": 71,
+        "defending": 35,
+        "physical": 82
+      },
+      "sharpness": 72,
+      "fitness": 81,
+      "morale": "พอใจ",
+      "wageWeeklyThb": 42000,
+      "marketValueThb": 1900000,
+      "contractUntilYear": 2026,
+      "squadRole": "ผู้เล่นสำคัญ",
+      "playStyles": [
+        "Target Forward",
+        "Power Header",
+        "Bruiser"
+      ],
+      "developmentPlan": {
+        "planName": "Target Man (กองหน้าตัวพักบอล)",
+        "weeksRemaining": 5,
+        "growthStat": "+1 ลูกโหม่ง, +1 ครองบอลแกร่ง"
+      },
+      "seasonStats": {
+        "matchesPlayed": 15,
+        "goals": 7,
+        "assists": 2,
+        "yellowCards": 2,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 7.2
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "st_target_man",
+        "roleName": "Target Forward / Aerial Man (TM)",
+        "roleNameThai": "กองหน้าตัวพักบอลและลูกกลางอากาศ (Target Man)",
+        "roleAbbreviation": "TM",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "ST",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ กองหน้าตัวเป้า (ST) แต่เน้นใช้สรีระ ความสูง และความแข็งแกร่งในการพักบอล พิงกองหลังคู่แข่ง ชนะการดวลลูกกลางอากาศ และแปะบอลต่อให้เพื่อนร่วมทีม (ปีกและกองกลางตัวรุก) วิ่งสอดขึ้นมาทำประตู มากกว่าการเลี้ยงกระชากหนี",
+        "tacticalInstructions": [
+          "ใช้สรีระพิงเซ็นเตอร์แบ็คคู่แข่งเพื่อพักบอลแดนหน้า",
+          "ชนะลูกเปิดยาวจากแดนหลังและโหม่งเช็ดให้ปีกสองฝั่ง",
+          "ดึงเซ็นเตอร์แบ็คคู่แข่งให้อยู่ติดตัวเพื่อเปิดพื้นที่ว่างให้เพื่อน"
+        ],
+        "tacticalPillars": [
+          "การครองบอลและการพิงกองหลัง (Hold-up Play)",
+          "การชนะการดวลลูกกลางอากาศ (Aerial Prowess)",
+          "การแปะบอลต่อให้เพื่อนร่วมทีม (Lay-off Passes)"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "ความแข็งแกร่งและการพิงบังบอล (Strength/Hold-up)",
+            "current": 86,
+            "target": 92,
+            "priority": "สูงมาก",
+            "explanation": "ไม่เสียบอลแม้ถูกเซ็นเตอร์กระแทกด้านหลัง"
+          },
+          {
+            "name": "การโหม่งบอลและการเทกตัว (Heading/Jumping)",
+            "current": 85,
+            "target": 90,
+            "priority": "สูงมาก",
+            "explanation": "ชนะลูกกลางอากาศทั้งการยิงและการเช็ดบอล"
+          },
+          {
+            "name": "การจ่ายบอลคืนหลังและออกข้าง (Lay-off)",
+            "current": 77,
+            "target": 84,
+            "priority": "สูง",
+            "explanation": "จ่ายบอลต่อจังหวะเดียวแม่นยำ"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-tm-1",
+            "drillName": "Heavy Back-to-Goal Hold-up & Wall Passing",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "รับบอลยาว พิงกองหลัง แล้วแปะบอลจังหวะเดียวให้เพื่อนยิงแถวสอง",
+            "intensity": "หนัก",
+            "targetMetric": "เก็บบอลแดนหน้าสำเร็จ > 85%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การพักบอลและพิงตัวประกบด้วยสรีระแข็งแกร่ง (Target Man)",
+        "การโหม่งทำประตูและการชงบอลให้เพื่อนร่วมทีม",
+        "ประสบการณ์และความนิ่งในจังหวะทำประตู"
+      ],
+      "tacticalDevelopmentSkills": [
+        "ความเร็วสปีดในการวิ่งกดดันคู่แข่งเมื่อลงมาเป็นตัวสำรอง",
+        "ความยืดหยุ่นในการขยับออกมารับบอลริมเส้น",
+        "การลดความล้าของกล้ามเนื้อหลังลงสนามต่อเนื่อง"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "รับฟังดี",
+        "description": "ซ้อมอย่างมืออาชีพ ถ่ายทอดประสบการณ์เรื่องการยืนตำแหน่งในเขตโทษให้กับรุ่นน้อง"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "ใช้ชีวิตเรียบง่ายกับครอบครัว รักษาสภาพร่างกายด้วยอาหารเสริมและโปรแกรมฟิตเนสเฉพาะบุคคล"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-12-1",
+          "matchId": "m-20",
+          "matchTitle": "ม.เกษมบัณฑิต 1 - 2 บางกะปิ เอฟซี",
+          "date": "2026-08-30",
+          "opponent": "ม.เกษมบัณฑิต เอฟซี",
+          "minutesPlayed": 90,
+          "rating": 7.7,
+          "tacticalAdherence": 8,
+          "technicalExecution": 8,
+          "workRateSpirit": 8,
+          "goals": 1,
+          "assists": 0,
+          "coachFeedback": "ยิงประตูตีเสมอ 1-1 ด้วยลูกโหม่งสุดเฉียบขาด พักบอลให้เพื่อนได้เปรียบ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p13",
+      "number": 14,
+      "name": "Sitthichai Bunprasert",
+      "nameThai": "สิทธิชัย บุญประเสริฐ",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 21,
+      "heightCm": 172,
+      "weightKg": 66,
+      "position": "CAM",
+      "secondaryPositions": [
+        "LW",
+        "CM"
+      ],
+      "overall": 65,
+      "potential": 77,
+      "cardTier": "bronze",
+      "cardType": "common",
+      "foot": "ซ้าย",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ต่ำ",
+      "stats": {
+        "pace": 79,
+        "shooting": 62,
+        "passing": 68,
+        "dribbling": 72,
+        "defending": 38,
+        "physical": 58
+      },
+      "sharpness": 68,
+      "fitness": 95,
+      "morale": "เริ่มไม่พอใจ",
+      "wageWeeklyThb": 14000,
+      "marketValueThb": 700000,
+      "contractUntilYear": 2028,
+      "squadRole": "ดาวรุ่งอนาคต",
+      "playStyles": [
+        "Technical",
+        "Flair"
+      ],
+      "developmentPlan": {
+        "planName": "Playmaker (จอมทัพสร้างสรรค์เกม)",
+        "weeksRemaining": 2,
+        "growthStat": "+2 จ่ายคิลเลอร์พาส, +1 ยิงไกล"
+      },
+      "seasonStats": {
+        "matchesPlayed": 9,
+        "goals": 2,
+        "assists": 3,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 6.8
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cam_ap",
+        "roleName": "Advanced Playmaker / Half-Space Creator (AP)",
+        "roleNameThai": "เพลย์เมกเกอร์ตัวสร้างสรรค์เกม (Advanced Playmaker)",
+        "roleAbbreviation": "AP",
+        "duty": "โจมตี (Attack)",
+        "nominalPosition": "CAM",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ กองกลางตัวรุก (CAM) แต่ในระบบสมัยใหม่ไม่ได้ยืนรอรับบอลเฉยๆ แต่ต้องขยับออกไปรับบอลในช่องว่างระหว่างแนวรับกับแนวมิดฟิลด์ (Pockets of Space) หรือช่อง Half-space เพื่อดึงตัวประกบและจ่ายบอลทะลุช่องคิลเลอร์พาสให้ปีกและกองหน้า",
+        "tacticalInstructions": [
+          "เคลื่อนที่หาพื้นที่ว่างระหว่างแนว (Between the Lines)",
+          "จ่ายบอลทะลุช่องคิลเลอร์พาส (Through Balls) ให้กองหน้าและปีกตัดเข้าใน",
+          "พลิกบอลเข้าหาปากประตูเมื่อรับบอลหันหลัง"
+        ],
+        "tacticalPillars": [
+          "ความคล่องตัวและการจ่ายบอลคิลเลอร์พาส",
+          "การสร้างสรรค์โอกาสทำประตู (Chances Created)",
+          "การดึงตัวประกบเพื่อเปิดพื้นที่ว่าง"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจ่ายบอลคิลเลอร์พาส (Through Balls/Vision)",
+            "current": 84,
+            "target": 90,
+            "priority": "สูงมาก",
+            "explanation": "จ่ายบอลฉีกแนวรับคู่แข่งอย่างเฉียบคม"
+          },
+          {
+            "name": "การเลี้ยงบอลในพื้นที่แคบ (Close Control Dribbling)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูงมาก",
+            "explanation": "เอาตัวรอดจากการถูกรุมประกบ 2-3 คน"
+          },
+          {
+            "name": "ความเฉียบคมในการตัดสินใจ (Decision Making)",
+            "current": 80,
+            "target": 86,
+            "priority": "สูง",
+            "explanation": "เลือกว่าจะยิงเองหรือจ่ายให้เพื่อนในเสี้ยววินาที"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-ap-1",
+            "drillName": "Between the Lines Pocket Receiving & Killer Pass",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "เคลื่อนที่ออกจากเงามาร์กเกอร์ รับบอลแล้วจ่ายทะลุช่องทันที",
+            "intensity": "ปานกลาง",
+            "targetMetric": "สร้างจังหวะจ่ายเข้าเป้าสำเร็จ > 85%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "สปีดจัดจ้านและความคล่องตัวสูง",
+        "การเลี้ยงบอลจี้เข้าหากองหลัง",
+        "ความกระตือรือร้นและพลังงานล้นเหลือ"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การปล่อยบอลง่ายขึ้น ไม่หวงบอลหรือเลี้ยงมากเกินไป",
+        "การเพิ่มน้ำหนักและมวลกล้ามเนื้อเพื่อรับแรงปะทะระดับ T3",
+        "ความเข้าใจแทคติกการเคลื่อนที่ตามโซน"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "ดาวรุ่งไฟแรง มีความตั้งใจสูงมาก พร้อมเรียนรู้จากสตาฟโค้ชและรุ่นพี่"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "มีความสุภาพ อ่อนน้อมถ่อมตน เชื่อฟังกฎสโมสร"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-13-1",
+          "matchId": "m-21",
+          "matchTitle": "บางกะปิ เอฟซี 3 - 1 พราม แบงค็อก",
+          "date": "2026-09-06",
+          "opponent": "พราม แบงค็อก",
+          "minutesPlayed": 18,
+          "rating": 6.8,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "ลงมาสร้างความสดชื่นริมเส้นท้ายเกม เลี้ยงตัดเข้าในได้สวย 1 จังหวะ",
+          "evaluatorCoachName": "โค้ชเอกภพ ศรีวิชัย"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p14",
+      "number": 22,
+      "name": "Kittisak Prakoppol",
+      "nameThai": "กิตติศักดิ์ ประกอบผล",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 23,
+      "heightCm": 182,
+      "weightKg": 76,
+      "position": "CB",
+      "secondaryPositions": [
+        "LB"
+      ],
+      "overall": 64,
+      "potential": 71,
+      "cardTier": "bronze",
+      "cardType": "common",
+      "foot": "ซ้าย",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "workRateAttack": "ต่ำ",
+      "workRateDefense": "สูง",
+      "stats": {
+        "pace": 66,
+        "shooting": 35,
+        "passing": 58,
+        "dribbling": 55,
+        "defending": 67,
+        "physical": 72
+      },
+      "sharpness": 50,
+      "fitness": 60,
+      "morale": "พอใจ",
+      "wageWeeklyThb": 15000,
+      "marketValueThb": 650000,
+      "contractUntilYear": 2027,
+      "squadRole": "หมุนเวียนลงเล่น",
+      "playStyles": [
+        "Intercept"
+      ],
+      "developmentPlan": {
+        "planName": "Stopper",
+        "weeksRemaining": 7,
+        "growthStat": "+1 ประกบตัว, +1 โหม่ง"
+      },
+      "seasonStats": {
+        "matchesPlayed": 8,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 2,
+        "redCards": 0,
+        "cleanSheets": 2,
+        "avgRating": 6.7
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "cb_bpd",
+        "roleName": "Ball-Playing Defender (BPD)",
+        "roleNameThai": "กองหลังออกบอลสร้างสรรค์เกม (Ball-Playing Defender)",
+        "roleAbbreviation": "BPD",
+        "duty": "เน้นรับ (Defend)",
+        "nominalPosition": "CB",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ เซ็นเตอร์แบ็ค (CB) แต่แตกต่างจากกองหลังทั่วไปที่เน้นเตะเคลียร์บอลทิ้งอย่างเดียว บทบาท \"Ball-Playing Defender\" ต้องมีความเยือกเย็น ครองบอลเหนียวแน่น สามารถจ่ายบอลทะลุไลน์แรกของคู่แข่ง (Line-breaking Passes) และวางบอลยาวเปลี่ยนแกนเพื่อเป็นจุดเริ่มต้นเกมรุกของสโมสร",
+        "tacticalInstructions": [
+          "กล้าเก็บบอลไว้กับตัวและดึงแนวเพรสซิ่งคู่แข่งเข้ามาก่อนจ่ายบอล",
+          "จ่ายบอลเลียดทะลุช่องเข้าสู่กองกลางตัวรุกโดยตรง",
+          "วางบอลยาวแนวทแยงมุมไปยังปีกทั้งสองฝั่งเมื่อคู่แข่งแพ็กโซนตรงกลางแน่น",
+          "คุมแนวตั้งรับสูงร่วมกับผู้รักษาประตูแบบ Sweeper Keeper"
+        ],
+        "tacticalPillars": [
+          "การตั้งเกมจากแนวหลัง (Progressive Build-up)",
+          "การควบคุมอารมณ์และความเยือกเย็นใต้ความกดดัน (Composure)",
+          "ระยะการจ่ายบอลสั้น-ยาว"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การจ่ายบอลทะลุไลน์ (Line-breaking Pass)",
+            "current": 79,
+            "target": 86,
+            "priority": "สูงมาก",
+            "explanation": "จ่ายบอลผ่านกองหน้าและกองกลางคู่แข่งไปยังพื้นที่ว่าง"
+          },
+          {
+            "name": "ความเยือกเย็นเมื่อโดนเพรส (Composure)",
+            "current": 81,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "ไม่ตื่นตระหนกแม้ถูกกองหน้าคู่แข่งปรี่เข้าบีบ"
+          },
+          {
+            "name": "การอ่านจังหวะดักบอล (Interceptions)",
+            "current": 82,
+            "target": 88,
+            "priority": "สูง",
+            "explanation": "ตัดบอลจังหวะจ่ายของคู่แข่งก่อนจะหลุดถึงกรอบเขตโทษ"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-bpd-1",
+            "drillName": "Press-Resistant Split Passing Session",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "25 นาที",
+            "focus": "จ่ายบอลเจาะทะลุหุ่นจำลองแนวรับ 2 แผงเข้าสู่เท้าผู้เล่นเบอร์ 8/10",
+            "intensity": "ปานกลาง",
+            "targetMetric": "ความแม่นยำ 90% โดยบอลต้องมีน้ำหนักและทิศทางที่รับง่าย"
+          },
+          {
+            "id": "drill-bpd-2",
+            "drillName": "High Defensive Line Coordination & Aerial Recovery",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "20 นาที",
+            "focus": "ซ้อมเช็กไลน์ล้ำหน้าและวิ่งสปีดกลับไปเคลียร์บอลยาวที่คู่แข่งสวนกลับ",
+            "intensity": "หนัก",
+            "targetMetric": "เช็กล้ำหน้าสำเร็จ > 85%, ชนะการดวลกลางอากาศ 100%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "การจ่ายบอลสั้น-ยาวแม่นยำ",
+        "การเข้าสกัดบอลจังหวะสอง",
+        "ความเข้าใจเกมและการเคลื่อนที่สนับสนุนเพื่อน"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การฟื้นฟูกล้ามเนื้อแฮมสตริงให้หายสนิทและป้องกันการเจ็บซ้ำ",
+        "การเพิ่มความคล่องตัวในการกลับตัวแดนกลาง",
+        "การกล้าเล่นบอลบุกมากขึ้น"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "รับฟังดี",
+        "description": "ตั้งใจทำโปรแกรมฟื้นฟูร่างกาย มีทัศนคติที่ดีในการเอาชนะอาการบาดเจ็บ"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "เน้นการดูแลรักษาอาการบาดเจ็บและปฏิบัติตามคำแนะนำของนักกายภาพ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-14-1",
+          "matchId": "m-19",
+          "matchTitle": "บางกะปิ เอฟซี 0 - 0 โบลาเวน สมุทรปราการ",
+          "date": "2026-08-23",
+          "opponent": "โบลาเวน สมุทรปราการ เอฟซี",
+          "minutesPlayed": 45,
+          "rating": 6.9,
+          "tacticalAdherence": 7,
+          "technicalExecution": 7,
+          "workRateSpirit": 7,
+          "goals": 0,
+          "assists": 0,
+          "coachFeedback": "คุมแดนกลางได้นิ่งในครึ่งแรก ก่อนจะถูกเปลี่ยนตัวเพื่อป้องกันอาการตึงกล้ามเนื้อ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    },
+    {
+      "id": "p15",
+      "number": 99,
+      "name": "Theeradon Kaewkla",
+      "nameThai": "ธีรดนย์ แก้วกล้า",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 20,
+      "heightCm": 186,
+      "weightKg": 80,
+      "position": "GK",
+      "secondaryPositions": [],
+      "overall": 63,
+      "potential": 76,
+      "cardTier": "bronze",
+      "cardType": "common",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "workRateAttack": "ปานกลาง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 40,
+        "shooting": 20,
+        "passing": 58,
+        "dribbling": 30,
+        "defending": 25,
+        "physical": 68,
+        "gkDiving": 65,
+        "gkHandling": 62,
+        "gkKicking": 64,
+        "gkReflexes": 67,
+        "gkSpeed": 42,
+        "gkPositioning": 61
+      },
+      "sharpness": 60,
+      "fitness": 96,
+      "morale": "พอใจ",
+      "wageWeeklyThb": 12000,
+      "marketValueThb": 500000,
+      "contractUntilYear": 2029,
+      "squadRole": "ดาวรุ่งอนาคต",
+      "playStyles": [
+        "Reflex Save"
+      ],
+      "developmentPlan": {
+        "planName": "Traditional Goalkeeper",
+        "weeksRemaining": 4,
+        "growthStat": "+2 การยืนตำแหน่ง, +1 ปัดบอล"
+      },
+      "seasonStats": {
+        "matchesPlayed": 2,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": 1,
+        "avgRating": 7
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "tacticalRole": {
+        "roleKey": "gk_sweeper",
+        "roleName": "Sweeper Keeper (SK)",
+        "roleNameThai": "ผู้รักษาประตูสวีปเปอร์ (Sweeper Keeper)",
+        "roleAbbreviation": "SK",
+        "duty": "สนับสนุน (Support)",
+        "nominalPosition": "GK",
+        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ ผู้รักษาประตู (GK) แต่แตกต่างจากโกลเฝ้าเสาทั่วไปอย่างสิ้นเชิง บทบาท \"Sweeper Keeper\" ต้องดันตำแหน่งออกมานอกกรอบเขตโทษ คอยอ่านเกมและวิ่งออกมาสกัดบอลยาวที่คู่แข่งเตะข้ามแผงกองหลังตัวสูง และมีส่วนร่วมในการบิวด์อัพเซ็ตเกมด้วยเท้าเหมือนกองหลังตัวสุดท้าย",
+        "tacticalInstructions": [
+          "ดันตำแหน่งออกมายืนนอกกรอบเขตโทษขณะที่ทีมบุกอยู่ในแดนคู่แข่ง",
+          "วิ่งสปีดออกมาตัดบอลยาวนอกกรอบก่อนที่กองหน้าคู่แข่งจะถึงบอล",
+          "ร่วมเป็นตัวเลือกในการส่งบอลคืนหลังเพื่อคลี่คลายแรงกดดัน",
+          "ออกบอลเร็วด้วยการขว้างหรือเตะเลียดแม่นยำเปิดเกมสวนกลับ"
+        ],
+        "tacticalPillars": [
+          "การคุมพื้นที่ว่างด้านหลังแผงกองหลัง (Sweeping)",
+          "การเล่นบอลด้วยเท้าและการบิวด์อัพ (Build-up with Feet)",
+          "ความกล้าหาญในการตัดสินใจนอกกรอบเขตโทษ"
+        ],
+        "keyRoleAttributes": [
+          {
+            "name": "การออกมาตัดบอลนอกกรอบ (Rushing Out/Sweeping)",
+            "current": 80,
+            "target": 87,
+            "priority": "สูงมาก",
+            "explanation": "ตัดสินใจออกมาสไลด์สกัดบอลนอกกรอบอย่างแม่นยำ"
+          },
+          {
+            "name": "การจ่ายบอลสั้น-ยาวด้วยเท้า (Kicking/Passing)",
+            "current": 79,
+            "target": 86,
+            "priority": "สูงมาก",
+            "explanation": "ออกบอลเลียดไม่ลนลานแม้ถูกกองหน้าบีบ"
+          },
+          {
+            "name": "การอ่านเกมและความเร็วในการออกตัว (Anticipation/Pace)",
+            "current": 78,
+            "target": 85,
+            "priority": "สูง",
+            "explanation": "เริ่มสปรินต์ทันทีที่บอลออกจากเท้าคู่แข่ง"
+          }
+        ],
+        "roleSpecificTrainingDrills": [
+          {
+            "id": "drill-sk-1",
+            "drillName": "High Defensive Line Sweeping & 1v1 Slide",
+            "category": "แทคติกและการยืนตำแหน่ง",
+            "duration": "25 นาที",
+            "focus": "ยืนหน้ากรอบ 18 หลา สปรินต์ออกมาสไลด์ตัดบอลยาวระยะ 30-35 หลา",
+            "intensity": "หนัก",
+            "targetMetric": "ตัดบอลสำเร็จ > 85%, ไม่เกิดการฟาวล์นอกกรอบ"
+          },
+          {
+            "id": "drill-sk-2",
+            "drillName": "Goalkeeper Build-Up Passing & Distribution",
+            "category": "เทคนิคและการครองบอล",
+            "duration": "20 นาที",
+            "focus": "รับบอลคืนหลังใต้แรงเพรสซิ่งจากกองหน้า แล้วจ่ายบอลเลียดเข้าเท้าฟูลแบ็ค",
+            "intensity": "ปานกลาง",
+            "targetMetric": "อัตราจ่ายบอลสำเร็จ > 90%"
+          }
+        ]
+      },
+      "proficientSkills": [
+        "ส่วนสูงและช่วงแขนยาวในการป้องกันลูกโด่ง",
+        "ความมุ่งมั่นและปฏิกิริยาการเซฟบอล",
+        "การเตะเปิดบอลด้วยเท้าขวา"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การอ่านเกมและก้าวออกจากเส้นประตูเพื่อตัดบอลในเวลาที่เหมาะสม",
+        "การสื่อสารกับแนวรับด้วยความมั่นใจมากขึ้น",
+        "การยืนตำแหน่งมุมแคบ"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "เป็นโกลดาวรุ่งที่กระตือรือร้น ซ้อมหนักร่วมกับวรุตม์มือหนึ่งอย่างเข้มข้น"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ได้มาตรฐาน",
+        "socialMediaAndDiscipline": "ดี",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "มีวินัยในการพักผ่อน เข้ายิมเสริมสร้างกล้ามเนื้อแกนกลางสม่ำเสมอ"
+      },
+      "matchRatingHistory": [
+        {
+          "id": "pmr-15-1",
+          "matchId": "m-18",
+          "matchTitle": "บางกะปิ เอฟซี 2 - 0 จามจุรี ยูไนเต็ด (เอฟเอ คัพ)",
+          "date": "2026-08-16",
+          "opponent": "จามจุรี ยูไนเต็ด",
+          "minutesPlayed": 90,
+          "rating": 7.4,
+          "tacticalAdherence": 8,
+          "technicalExecution": 7,
+          "workRateSpirit": 8,
+          "goals": 0,
+          "assists": 0,
+          "cleanSheet": true,
+          "coachFeedback": "เก็บคลีนชีตในบอลถ้วยได้สำเร็จ ออกมาตัดบอลโด่งได้อย่างมั่นใจ",
+          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
+        }
+      ],
+      "recoveryLogs": []
+    }
+  ],
   "coachingStaff": [
     {
       "department": "coaching",
@@ -3234,5 +5596,9 @@
       "avgGoalsPerMatch": 2.5,
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
-  ]
+  ],
+  "lastUpdated": "2026-09-23T11:44:01.995Z",
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)"
 }
