@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:45:57.997Z",
+    "exportedAt": "2026-09-23T13:46:01.466Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2352,32 +2352,6 @@
   "leagueStandings": [
     {
       "pos": 1,
-      "team": "ทหารบก เอฟซี",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0,
-      "form": []
-    },
-    {
-      "pos": 2,
-      "team": "วีอาร์เอ็น เมืองนนท์ เอฟซี",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "points": 0,
-      "form": []
-    },
-    {
-      "pos": 3,
       "team": "อินเตอร์ แบงค็อก",
       "played": 0,
       "won": 0,
@@ -2390,7 +2364,7 @@
       "form": []
     },
     {
-      "pos": 4,
+      "pos": 2,
       "team": "เอสทีเค เมืองนนท์",
       "played": 0,
       "won": 0,
@@ -2403,7 +2377,7 @@
       "form": []
     },
     {
-      "pos": 5,
+      "pos": 3,
       "team": "ราชประชา เอฟซี",
       "played": 0,
       "won": 0,
@@ -2926,7 +2900,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:45:56.222Z",
+  "lastUpdated": "2026-09-23T13:45:58.838Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
