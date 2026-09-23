@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:22.036Z",
+    "exportedAt": "2026-09-23T13:46:25.624Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -2604,24 +2604,6 @@
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     },
     {
-      "id": "t3-fix-15",
-      "matchday": 15,
-      "roundName": "นัดที่ 15 (เลกสอง)",
-      "date": "2026-06-28",
-      "time": "18:00 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "อินเตอร์ แบงค็อก",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "ชานันท์ ทะมะเดช",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
       "id": "t3-fix-16",
       "matchday": 16,
       "roundName": "นัดที่ 16 (เลกสอง)",
@@ -2698,7 +2680,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:19.972Z",
+  "lastUpdated": "2026-09-23T13:46:23.053Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
