@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:49.392Z",
+    "exportedAt": "2026-09-23T13:46:52.841Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2352,24 +2352,6 @@
   "leagueStandings": [],
   "leagueFixtures": [
     {
-      "id": "t3-fix-1",
-      "matchday": 1,
-      "roundName": "นัดที่ 1 (เปิดฤดูกาล เลกแรก)",
-      "date": "2026-03-08",
-      "time": "18:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "ราชประชา เอฟซี",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "ชัยพร จันทรัศมี",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขันนัดเปิดฤดูกาล 2026-2027"
-    },
-    {
       "id": "t3-fix-2",
       "matchday": 2,
       "roundName": "นัดที่ 2 (เลกแรก)",
@@ -2446,7 +2428,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:48.174Z",
+  "lastUpdated": "2026-09-23T13:46:50.362Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
