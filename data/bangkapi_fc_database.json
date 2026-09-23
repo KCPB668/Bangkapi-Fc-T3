@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:35.218Z",
+    "exportedAt": "2026-09-23T13:46:38.326Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2494,42 +2494,6 @@
       "broadcastChannel": "Bolaven SP TV",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-9",
-      "matchday": 9,
-      "roundName": "นัดที่ 9 (เลกแรก)",
-      "date": "2026-05-10",
-      "time": "18:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "มหาวิทยาลัยเกษมบัณฑิต เอฟซี",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "วีรพล คำสะอาด",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-10",
-      "matchday": 10,
-      "roundName": "นัดที่ 10 (เลกแรก)",
-      "date": "2026-05-17",
-      "time": "16:00 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "พราม แบงค็อก",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามเฉลิมพระเกียรติ บางมด",
-      "status": "upcoming",
-      "referee": "ศราวุฒิ ปราโมทย์",
-      "broadcastChannel": "Prime BKK Official",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     }
   ],
   "leagueDetails": {
@@ -2590,7 +2554,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:32.502Z",
+  "lastUpdated": "2026-09-23T13:46:36.755Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
