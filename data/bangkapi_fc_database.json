@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:44:54.834Z",
+    "exportedAt": "2026-09-23T13:44:58.380Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -10,7 +10,7 @@
     "matchCount": 5,
     "trainingsCount": 2,
     "goalsCount": 0,
-    "annualRecordsCount": 3
+    "annualRecordsCount": 1
   },
   "players": [],
   "coachingStaff": [
@@ -3019,42 +3019,6 @@
   },
   "annualPerformanceRecords": [
     {
-      "monthKey": "2026-07",
-      "monthShortThai": "ก.ค. 69",
-      "monthFullThai": "กรกฎาคม 2569",
-      "yearTh": 2569,
-      "matchesPlayed": 4,
-      "won": 3,
-      "drawn": 0,
-      "lost": 1,
-      "goalsFor": 9,
-      "goalsAgainst": 3,
-      "goalDifference": 6,
-      "points": 9,
-      "cleanSheets": 2,
-      "winRate": 75,
-      "avgGoalsPerMatch": 2.25,
-      "keyHighlight": "คว้า 9 แต้มเต็มในบ้าน ชนะ ธนบุรี 2-0 และ นนทบุรี 4-1"
-    },
-    {
-      "monthKey": "2026-08",
-      "monthShortThai": "ส.ค. 69",
-      "monthFullThai": "สิงหาคม 2569",
-      "yearTh": 2569,
-      "matchesPlayed": 3,
-      "won": 2,
-      "drawn": 1,
-      "lost": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 2,
-      "goalDifference": 4,
-      "points": 7,
-      "cleanSheets": 1,
-      "winRate": 67,
-      "avgGoalsPerMatch": 2,
-      "keyHighlight": "ชนะ ม.เกษมบัณฑิต 2-1 (นัดที่ 20) รั้งจ่าฝูงเดี่ยวต่อเนื่อง"
-    },
-    {
       "monthKey": "2026-09",
       "monthShortThai": "ก.ย. 69",
       "monthFullThai": "กันยายน 2569",
@@ -3073,7 +3037,7 @@
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
   ],
-  "lastUpdated": "2026-09-23T13:44:49.824Z",
+  "lastUpdated": "2026-09-23T13:44:56.140Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
