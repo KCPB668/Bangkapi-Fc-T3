@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:52.841Z",
-    "author": "กรรัย ภูบังไม้ (COACH)",
+    "exportedAt": "2026-09-23T13:46:57.325Z",
+    "author": "โค้ช / แอดมินสโมสร",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
@@ -2350,26 +2350,7 @@
   },
   "clubGoals": [],
   "leagueStandings": [],
-  "leagueFixtures": [
-    {
-      "id": "t3-fix-2",
-      "matchday": 2,
-      "roundName": "นัดที่ 2 (เลกแรก)",
-      "date": "2026-03-15",
-      "time": "15:30 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "เอสทีเค เมืองนนท์",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "ศูนย์เยาวชนเฉลิมพระเกียรติ เทศบาลนครนนทบุรี",
-      "status": "upcoming",
-      "referee": "ศิวกร ภูอุดมการ",
-      "broadcastChannel": "T3 Official Stream",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    }
-  ],
+  "leagueFixtures": [],
   "leagueDetails": {
     "title": "โปรแกรมแข่งขัน & ตารางคะแนน",
     "highlightTitle": "ไทยลีก 3 2026-2027",
@@ -2427,9 +2408,5 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:50.362Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  "annualPerformanceRecords": []
 }
