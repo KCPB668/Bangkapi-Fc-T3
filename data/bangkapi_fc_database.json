@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:05.108Z",
+    "exportedAt": "2026-09-23T13:46:08.499Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2782,24 +2782,6 @@
       "broadcastChannel": "Thai League Official Channel",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมรอบเพลย์ออฟ"
-    },
-    {
-      "id": "t3-fix-u2",
-      "matchday": 25,
-      "roundName": "T3 รอบแชมเปี้ยนส์ลีก นัดที่ 2 (เยือนภาคเหนือ)",
-      "date": "2026-10-18",
-      "time": "17:00 น.",
-      "leg": "cup",
-      "competition": "ไทยลีก 3 เนชั่นแนล แชมเปี้ยนชิพ",
-      "homeTeam": "พิษณุโลก ยูนิตี้ (แชมป์โซนเหนือ)",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬากลางจังหวัดพิษณุโลก",
-      "status": "upcoming",
-      "referee": "รอประกาศจากสมาคมฯ",
-      "broadcastChannel": "Thai League Official Channel",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมรอบเพลย์ออฟ"
     }
   ],
   "leagueDetails": {
@@ -2860,7 +2842,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:03.323Z",
+  "lastUpdated": "2026-09-23T13:46:06.026Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
