@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:44:44.200Z",
+    "exportedAt": "2026-09-23T13:44:47.138Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -10,7 +10,7 @@
     "matchCount": 5,
     "trainingsCount": 2,
     "goalsCount": 0,
-    "annualRecordsCount": 6
+    "annualRecordsCount": 5
   },
   "players": [],
   "coachingStaff": [
@@ -3019,24 +3019,6 @@
   },
   "annualPerformanceRecords": [
     {
-      "monthKey": "2026-04",
-      "monthShortThai": "เม.ย. 69",
-      "monthFullThai": "เมษายน 2569",
-      "yearTh": 2569,
-      "matchesPlayed": 2,
-      "won": 1,
-      "drawn": 1,
-      "lost": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 2,
-      "goalDifference": 2,
-      "points": 4,
-      "cleanSheets": 1,
-      "winRate": 50,
-      "avgGoalsPerMatch": 2,
-      "keyHighlight": "ช่วงพักเบรกสงกรานต์ อุ่นเครื่องชนะ อัสสัมชัญ ยูไนเต็ด 3-1"
-    },
-    {
       "monthKey": "2026-05",
       "monthShortThai": "พ.ค. 69",
       "monthFullThai": "พฤษภาคม 2569",
@@ -3127,7 +3109,7 @@
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
   ],
-  "lastUpdated": "2026-09-23T13:44:43.196Z",
+  "lastUpdated": "2026-09-23T13:44:44.959Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
