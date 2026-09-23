@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:28.717Z",
+    "exportedAt": "2026-09-23T13:46:32.409Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -2566,24 +2566,6 @@
       "broadcastChannel": "T3 Official Stream",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-14",
-      "matchday": 14,
-      "roundName": "นัดที่ 14 (เลกสอง)",
-      "date": "2026-06-21",
-      "time": "17:00 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "สมุทรสาคร ซิตี้",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬากลางจังหวัดสมุทรสาคร",
-      "status": "upcoming",
-      "referee": "ต่อพงษ์ สมสิงห์",
-      "broadcastChannel": "Samut Sakhon City LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     }
   ],
   "leagueDetails": {
@@ -2644,7 +2626,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:26.522Z",
+  "lastUpdated": "2026-09-23T13:46:28.950Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
