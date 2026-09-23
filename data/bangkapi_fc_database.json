@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:16.071Z",
+    "exportedAt": "2026-09-23T13:46:19.521Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -2640,24 +2640,6 @@
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     },
     {
-      "id": "t3-fix-17",
-      "matchday": 17,
-      "roundName": "นัดที่ 17 (เลกสอง)",
-      "date": "2026-07-19",
-      "time": "18:00 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "ทหารบก เอฟซี",
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "status": "upcoming",
-      "referee": "อาคม เจริญสุข",
-      "broadcastChannel": "Bangkapi FC LIVE",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
       "id": "t3-fix-18",
       "matchday": 18,
       "roundName": "ช้าง เอฟเอ คัพ รอบ 64 ทีม",
@@ -2674,24 +2656,6 @@
       "broadcastChannel": "AIS PLAY & FA Cup Live",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขันฟุตบอลถ้วย"
-    },
-    {
-      "id": "t3-fix-20",
-      "matchday": 20,
-      "roundName": "นัดที่ 20 (เลกสอง)",
-      "date": "2026-08-30",
-      "time": "16:00 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "มหาวิทยาลัยเกษมบัณฑิต เอฟซี",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬามหาวิทยาลัยเกษมบัณฑิต ร่มเกล้า",
-      "status": "upcoming",
-      "referee": "มงคลชัย เพชรศรี",
-      "broadcastChannel": "Kasem Bundit Live",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     }
   ],
   "leagueDetails": {
@@ -2752,7 +2716,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:14.336Z",
+  "lastUpdated": "2026-09-23T13:46:17.155Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
