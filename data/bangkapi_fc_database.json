@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T11:53:51.816Z",
+    "exportedAt": "2026-09-23T11:52:47.424Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -890,396 +890,6 @@
       "completed": true
     }
   ],
-  "injuries": [
-    {
-      "id": "inj-1",
-      "severity": "ปานกลาง (3-6 สัปดาห์)",
-      "expectedReturnDate": "2026-09-22",
-      "status": "rehabilitating",
-      "physioNotes": "อาการบวมยุบตัวแล้ว 90% เริ่มวิ่งจ็อกกิ้งเส้นตรงและเตะบอลเบาๆ ได้โดยไม่ปวด คาดว่าจะคืนสู่การซ้อมทีมในอีก 10 วัน",
-      "phase": 3,
-      "playerId": "p9",
-      "occurredDate": "2026-08-28",
-      "progressPercent": 75,
-      "injuryName": "ข้อเท้าพลิกระดับ 2 (Grade II Ankle Sprain)",
-      "treatmentDetails": [
-        "อัลตราซาวด์สลายพังผืดข้อต่อ",
-        "ฝึกทรงตัวบน Bosu Ball เพิ่มความมั่นคงของเอ็นข้อเท้า",
-        "พันเทป Kinesiology ล็อคข้อเท้าขณะลงวิ่ง"
-      ],
-      "bodyPart": "ข้อเท้าขวา"
-    },
-    {
-      "occurredDate": "2026-09-04",
-      "physioNotes": "การรักษาตอบสนองดีมาก ไม่มีรอยฟกช้ำหลงเหลือ กำลังเพิ่มแรงต้านด้วยการปั่นจักรยานไฟฟ้าและยืดเหยียดเบาๆ",
-      "severity": "เล็กน้อย (1-2 สัปดาห์)",
-      "injuryName": "กล้ามเนื้อต้นขาด้านหลังกระตุกฉีกขาด (Hamstring Tear Gr. 1)",
-      "treatmentDetails": [
-        "ประคบเย็นและคลื่นวิทยุความถี่สูงลดปวด",
-        "กายภาพบำบัดด้วยการยืดเส้น Isometric",
-        "ว่ายน้ำในสระสโมสรเพื่อรักษาความจุปอด"
-      ],
-      "expectedReturnDate": "2026-09-18",
-      "progressPercent": 55,
-      "playerId": "p14",
-      "id": "inj-2",
-      "phase": 2,
-      "status": "rehabilitating",
-      "bodyPart": "ต้นขาซ้ายด้านหลัง"
-    },
-    {
-      "id": "inj-3",
-      "severity": "เล็กน้อย (1-2 สัปดาห์)",
-      "status": "cleared",
-      "physioNotes": "ผ่านการทดสอบความพร้อมทางกายภาพ 100% กลับมาซ้อมร่วมกับทีมชุดใหญ่ได้แล้ว",
-      "injuryName": "กล้ามเนื้อน่องตึงตัวสะสม (Calf Muscle Tightness)",
-      "progressPercent": 95,
-      "playerId": "p6",
-      "occurredDate": "2026-09-02",
-      "expectedReturnDate": "2026-09-10",
-      "bodyPart": "น่องขวา",
-      "treatmentDetails": [
-        "นวดสปอร์ตคลายกล้ามเนื้อ",
-        "แช่ถังน้ำแข็ง Cryotherapy"
-      ],
-      "phase": 4
-    }
-  ],
-  "tactics": {
-    "substitutePlayerIds": [
-      "p12",
-      "p13",
-      "p14",
-      "p15"
-    ],
-    "captainPlayerId": "p8",
-    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
-    "slots": [
-      {
-        "posY": 90,
-        "slotId": "slot-gk",
-        "playerId": "p11",
-        "posX": 50,
-        "label": "GK"
-      },
-      {
-        "playerId": "p7",
-        "posX": 16,
-        "slotId": "slot-lb",
-        "label": "LB",
-        "posY": 72
-      },
-      {
-        "posX": 38,
-        "label": "LCB",
-        "slotId": "slot-lcb",
-        "playerId": "p9",
-        "posY": 75
-      },
-      {
-        "posY": 75,
-        "playerId": "p8",
-        "label": "RCB",
-        "posX": 62,
-        "slotId": "slot-rcb"
-      },
-      {
-        "posX": 84,
-        "label": "RB",
-        "playerId": "p10",
-        "posY": 72,
-        "slotId": "slot-rb"
-      },
-      {
-        "posY": 58,
-        "slotId": "slot-cdm",
-        "label": "CDM",
-        "posX": 50,
-        "playerId": "p5"
-      },
-      {
-        "playerId": "p6",
-        "posY": 44,
-        "slotId": "slot-lcm",
-        "label": "LCM",
-        "posX": 34
-      },
-      {
-        "posX": 66,
-        "playerId": "p4",
-        "slotId": "slot-cam",
-        "posY": 40,
-        "label": "CAM"
-      },
-      {
-        "playerId": "p2",
-        "posX": 18,
-        "posY": 24,
-        "slotId": "slot-lw",
-        "label": "LW"
-      },
-      {
-        "posY": 18,
-        "slotId": "slot-st",
-        "playerId": "p1",
-        "posX": 50,
-        "label": "ST"
-      },
-      {
-        "posY": 24,
-        "playerId": "p3",
-        "posX": 82,
-        "slotId": "slot-rw",
-        "label": "RW"
-      }
-    ],
-    "cornerTakerPlayerId": "p2",
-    "defensiveDepth": 72,
-    "buildUpSpeed": 68,
-    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
-    "freeKickTakerPlayerId": "p4",
-    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
-    "formation": "4-3-3 Attacking",
-    "penaltyTakerPlayerId": "p1",
-    "teamWidth": 65
-  },
-  "calendarEvents": [
-    {
-      "time": "16:00 น.",
-      "description": "ทดสอบความทนทานของกล้ามเนื้อก่อนเข้าสู่โปรแกรมแข่งสุดสัปดาห์",
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "venue": "สนามซ้อมเคหะคลองจั่น",
-      "date": "2026-09-02",
-      "notes": "ทดสอบความทนทานของกล้ามเนื้อก่อนเข้าสู่โปรแกรมแข่งสุดสัปดาห์",
-      "type": "training",
-      "id": "cal-pre-1",
-      "title": "ซ้อมความฟิต & แอโรบิกพาวเวอร์ (High Intensity Interval)"
-    },
-    {
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "title": "ซ้อมแทคติกเกมรับลูกตั้งเตะ & Transition ด่วน",
-      "id": "cal-pre-2",
-      "type": "training",
-      "description": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
-      "notes": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
-      "date": "2026-09-04",
-      "venue": "สนามซ้อมเคหะคลองจั่น",
-      "time": "17:00 น."
-    },
-    {
-      "title": "⚽ แมตช์เดย์ 21: บางกะปิ เอฟซี 3 - 0 ธนบุรี ยูไนเต็ด",
-      "notes": "เก็บ 3 แต้มสำคัญ พร้อมทำสถิติคลีนชีตนัดที่ 18 ของฤดูกาล",
-      "time": "17:30 น.",
-      "date": "2026-09-06",
-      "type": "match",
-      "description": "เก็บ 3 แต้มสำคัญ พร้อมทำสถิติคลีนชีตนัดที่ 18 ของฤดูกาล",
-      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "id": "cal-pre-3"
-    },
-    {
-      "id": "cal-pre-4",
-      "notes": "แช่บ่อน้ำเย็นและยืดเหยียดกล้ามเนื้อ",
-      "venue": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
-      "description": "แช่บ่อน้ำเย็นและยืดเหยียดกล้ามเนื้อ",
-      "title": "ฟื้นฟูกล้ามเนื้อ & Hydrotherapy",
-      "type": "recovery",
-      "date": "2026-09-07",
-      "location": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
-      "time": "09:00 น."
-    },
-    {
-      "venue": "ห้องพยาบาลสโมสรบางกะปิ",
-      "type": "medical",
-      "description": "ทีมแพทย์และนักกายภาพบันทึกข้อมูลความพร้อมของนักเตะทุกคน",
-      "date": "2026-09-09",
-      "id": "cal-pre-5",
-      "notes": "ทีมแพทย์และนักกายภาพบันทึกข้อมูลความพร้อมของนักเตะทุกคน",
-      "time": "14:00 น.",
-      "location": "ห้องพยาบาลสโมสรบางกะปิ",
-      "title": "ตรวจเช็คค่าความล้าและระดับแลคเตทประจำสัปดาห์"
-    },
-    {
-      "date": "2026-09-11",
-      "time": "16:30 น.",
-      "venue": "สนามซ้อมคลองจั่น",
-      "notes": "เช็คชื่อและทดสอบความเฉียบคมของแนวรุก",
-      "id": "cal-1",
-      "type": "training",
-      "description": "เช็คชื่อและทดสอบความเฉียบคมของแนวรุก",
-      "title": "ฝึกซ้อมประจำวัน: แทคติกเจาะริมเส้น & Overlap",
-      "location": "สนามซ้อมคลองจั่น"
-    },
-    {
-      "date": "2026-09-12",
-      "venue": "ห้องประชุมสโมสรบางกะปิ ชั้น 2",
-      "time": "10:00 น.",
-      "location": "ห้องประชุมสโมสรบางกะปิ ชั้น 2",
-      "id": "cal-2",
-      "notes": "เจาะลึกจุดอ่อนแผงมิดฟิลด์คู่แข่งและการเข้าทำลูกนิ่ง",
-      "type": "meeting",
-      "description": "เจาะลึกจุดอ่อนแผงมิดฟิลด์คู่แข่งและการเข้าทำลูกนิ่ง",
-      "title": "ประชุมแทคติกวิดีโอ วิเคราะห์ฟอร์ม ม.นอร์ทกรุงเทพ"
-    },
-    {
-      "time": "18:00 น.",
-      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "date": "2026-09-13",
-      "notes": "ศึกตัดแต้มชิงแชมป์ไทยลีก 3 โซน กทม.",
-      "type": "match",
-      "urgent": true,
-      "description": "ศึกตัดแต้มชิงแชมป์ไทยลีก 3 โซน กทม.",
-      "id": "cal-3",
-      "title": "⚽ แมตช์เดย์ 22: บางกะปิ เอฟซี vs ม.นอร์ทกรุงเทพ (บิ๊กแมตช์ชิงจ่าฝูง)"
-    },
-    {
-      "notes": "ตรวจเช็คกล้ามเนื้อและอาการล้าหลังบิ๊กแมตช์",
-      "id": "cal-4",
-      "location": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
-      "venue": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
-      "title": "ฟื้นฟูสภาพร่างกายในสระน้ำ & Ice Bath",
-      "date": "2026-09-14",
-      "time": "09:30 น.",
-      "description": "ตรวจเช็คกล้ามเนื้อและอาการล้าหลังบิ๊กแมตช์",
-      "type": "recovery"
-    },
-    {
-      "notes": "ฟื้นฟูจิตใจและเติมพลังงานสำหรับสัปดาห์ใหม่",
-      "venue": "พักผ่อนตามอัธยาศัย",
-      "location": "-",
-      "description": "ฟื้นฟูจิตใจและเติมพลังงานสำหรับสัปดาห์ใหม่",
-      "title": "วันหยุดพักผ่อนของสโมสร (Team Rest Day)",
-      "time": "ทั้งวัน",
-      "date": "2026-09-15",
-      "type": "rest",
-      "id": "cal-5"
-    },
-    {
-      "id": "cal-6",
-      "notes": "แจกลายเซ็น เปิดคลินิกฟุตบอลเยาวชน และเปิดตัวเสื้อแข่งคอลเลกชันพิเศษ",
-      "venue": "ลานคนเมือง เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
-      "location": "ลานคนเมือง เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
-      "title": "กิจกรรมสโมสรพบปะแฟนบอล & คลินิกเยาวชนเขตบางกะปิ",
-      "type": "community",
-      "date": "2026-09-16",
-      "time": "15:00 น.",
-      "description": "แจกลายเซ็น เปิดคลินิกฟุตบอลเยาวชน และเปิดตัวเสื้อแข่งคอลเลกชันพิเศษ"
-    },
-    {
-      "title": "ซ้อมเข้มข้น Small-Sided Game 6v6 + Transition",
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "id": "cal-post-1",
-      "date": "2026-09-17",
-      "notes": "ยกระดับการเคลื่อนที่ในพื้นที่แคบและการแย่งบอลกลับมาครอง",
-      "time": "16:30 น.",
-      "description": "ยกระดับการเคลื่อนที่ในพื้นที่แคบและการแย่งบอลกลับมาครอง",
-      "type": "training",
-      "venue": "สนามซ้อมเคหะคลองจั่น"
-    },
-    {
-      "title": "ซ้อมแทคติกเกมเยือน & ซ้อมเตะมุมและลูกโทษ",
-      "id": "cal-post-2",
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "description": "ปรับแทคติกรับมือเกมโต้กลับของสมุทรสาคร ซิตี้",
-      "date": "2026-09-18",
-      "notes": "ปรับแทคติกรับมือเกมโต้กลับของสมุทรสาคร ซิตี้",
-      "time": "17:00 น.",
-      "type": "training",
-      "venue": "สนามซ้อมเคหะคลองจั่น"
-    },
-    {
-      "type": "meeting",
-      "time": "14:00 น.",
-      "title": "ประชุมทีมสตาฟโค้ช & ออกเดินทางสู่ที่พัก จ.สมุทรสาคร",
-      "date": "2026-09-19",
-      "description": "สรุป 11 ผู้เล่นตัวจริงและข้อตกลงแทคติกก่อนแข่ง",
-      "venue": "สโมสรบางกะปิ / แคมป์โรงแรมสมุทรสาคร",
-      "id": "cal-post-3",
-      "location": "สโมสรบางกะปิ / แคมป์โรงแรมสมุทรสาคร",
-      "notes": "สรุป 11 ผู้เล่นตัวจริงและข้อตกลงแทคติกก่อนแข่ง"
-    },
-    {
-      "venue": "สนามกีฬากลางจังหวัดสมุทรสาคร (เยือน)",
-      "type": "match",
-      "id": "cal-7",
-      "date": "2026-09-20",
-      "time": "16:00 น.",
-      "description": "เกมเยือนสำคัญ รักษาตำแหน่งจ่าฝูงไร้พ่าย",
-      "notes": "เกมเยือนสำคัญ รักษาตำแหน่งจ่าฝูงไร้พ่าย",
-      "urgent": true,
-      "location": "สนามกีฬากลางจังหวัดสมุทรสาคร (เยือน)",
-      "title": "⚽ แมตช์เดย์ 23: สมุทรสาคร ซิตี้ vs บางกะปิ เอฟซี"
-    },
-    {
-      "title": "ซ้อมทบทวนเกมการเล่น & แก้ไขจุดบกพร่องแดนกลาง",
-      "description": "วิเคราะห์สถิติ Pass completion และการเก็บบอลจังหวะสอง",
-      "type": "training",
-      "notes": "วิเคราะห์สถิติ Pass completion และการเก็บบอลจังหวะสอง",
-      "venue": "สนามซ้อมเคหะคลองจั่น",
-      "id": "cal-post-4",
-      "time": "16:30 น.",
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "date": "2026-09-22"
-    },
-    {
-      "date": "2026-09-24",
-      "description": "วิทยากรพิเศษจากสถาบันเวชศาสตร์การกีฬาแห่งประเทศไทย",
-      "time": "11:00 น.",
-      "venue": "ห้องบรรยายสโมสร ชั้น 2",
-      "notes": "วิทยากรพิเศษจากสถาบันเวชศาสตร์การกีฬาแห่งประเทศไทย",
-      "id": "cal-post-5",
-      "type": "meeting",
-      "location": "ห้องบรรยายสโมสร ชั้น 2",
-      "title": "บรรยายโภชนาการกีฬาและการนอนหลับเพื่อสมรรถนะสูงสุด"
-    },
-    {
-      "notes": "เกมในบ้านนัดสำคัญประจำสัปดาห์สุดท้ายของเดือนกันยายน",
-      "id": "cal-post-6",
-      "urgent": true,
-      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "date": "2026-09-27",
-      "title": "⚽ แมตช์เดย์ 24: บางกะปิ เอฟซี vs ม.เกษมบัณฑิต",
-      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
-      "time": "18:00 น.",
-      "description": "เกมในบ้านนัดสำคัญประจำสัปดาห์สุดท้ายของเดือนกันยายน",
-      "type": "match"
-    },
-    {
-      "time": "09:30 น.",
-      "date": "2026-09-28",
-      "title": "Active Recovery & ยืดกล้ามเนื้อด้วย Foam Roller",
-      "type": "recovery",
-      "description": "คลายกรดแลคติกและเช็คสภาพร่างกายรายบุคคล",
-      "id": "cal-post-7",
-      "venue": "ศูนย์วิทยาศาสตร์การกีฬาคลองจั่น",
-      "notes": "คลายกรดแลคติกและเช็คสภาพร่างกายรายบุคคล",
-      "location": "ศูนย์วิทยาศาสตร์การกีฬาคลองจั่น"
-    },
-    {
-      "venue": "ห้องประชุมใหญ่ บิ๊กแบงกะปิ สเตเดียม",
-      "id": "cal-post-8",
-      "type": "meeting",
-      "date": "2026-09-30",
-      "time": "13:30 น.",
-      "notes": "ประเมิน KPIs สโมสร, สรุปอันดับลีก และวางแผนรอบเดือนตุลาคม",
-      "location": "ห้องประชุมใหญ่ บิ๊กแบงกะปิ สเตเดียม",
-      "description": "ประเมิน KPIs สโมสร, สรุปอันดับลีก และวางแผนรอบเดือนตุลาคม",
-      "title": "ประชุมสรุปผลงานและสถิติการเล่นประจำเดือนกันยายน 2569"
-    },
-    {
-      "location": "สนามจุฬาลงกรณ์มหาวิทยาลัย (เยือน)",
-      "notes": "เปิดเดือนตุลาคมด้วยศึกลอนดอนดาร์บี้เมืองหลวง",
-      "id": "cal-oct-1",
-      "description": "เปิดเดือนตุลาคมด้วยศึกลอนดอนดาร์บี้เมืองหลวง",
-      "venue": "สนามจุฬาลงกรณ์มหาวิทยาลัย (เยือน)",
-      "title": "⚽ แมตช์เดย์ 25: จามจุรี ยูไนเต็ด vs บางกะปิ เอฟซี",
-      "type": "match",
-      "date": "2026-10-04",
-      "urgent": true,
-      "time": "16:00 น."
-    }
-  ],
   "oneOnOneMeetings": [
     {
       "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
@@ -1427,331 +1037,6 @@
       "topicCategory": "สภาพจิตใจและวินัย",
       "topic": "การนำทีมสู้ศึกชิงจ่าฝูงและการเป็นผู้นำแดนหน้า (Big Match Mindset)",
       "moraleImpact": "เพิ่มขึ้นมาก (+15)"
-    }
-  ],
-  "playerIDPs": [
-    {
-      "id": "idp-1",
-      "startedDate": "2026-07-01",
-      "physicalGoals": [
-        {
-          "currentValue": "1.72 วินาที",
-          "progressPercent": 75,
-          "focusArea": "Plyometrics box jumps & Sled pushes กับ ดร. วรภัทร",
-          "id": "phys-1",
-          "targetValue": "1.64 วินาที",
-          "attributeName": "สปีดออกตัว 10 เมตรแรก (Acceleration)",
-          "status": "on_track"
-        },
-        {
-          "currentValue": "66 กก. (Body Fat 10.8%)",
-          "progressPercent": 68,
-          "attributeName": "มวลกล้ามเนื้อและความแข็งแกร่งช่วงบน (Upper Body Strength)",
-          "id": "phys-2",
-          "focusArea": "Hypertrophy lifting & Protein intake 140g/day",
-          "status": "on_track",
-          "targetValue": "69 กก. (Hypertrophy lean mass)"
-        }
-      ],
-      "playerId": "p13",
-      "assignedCoachId": "staff-2",
-      "status": "active",
-      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-      "tacticalMentalGoals": [
-        {
-          "id": "tac-1",
-          "description": "วิ่งตัดหลังเซ็นเตอร์แบ็กคู่แข่งในจังหวะที่ปีกกำลังจะเปิดบอล ไม่ยืนรอบอลนิ่งๆ",
-          "targetBehavior": "สร้างโอกาสยิงอย่างน้อย 2 ครั้งต่อ 45 นาทีที่ลงสนาม",
-          "topic": "การหาช่องว่างระหว่างไลน์กองหลัง (Blindside Runs)",
-          "progressPercent": 82,
-          "status": "ahead"
-        },
-        {
-          "targetBehavior": "เพิ่มเปอร์เซ็นต์ยิงตรงกรอบจาก 45% เป็น 65%",
-          "id": "tac-2",
-          "status": "on_track",
-          "progressPercent": 65,
-          "description": "อ่านการทิ้งน้ำหนักของนายทวารคู่แข่ง เลือกแปเล่นทางแทนที่จะซัดเต็มแรงอย่างเดียว",
-          "topic": "ความนิ่งเมื่อดวล 1-on-1 กับผู้รักษาประตู (Composure)"
-        }
-      ],
-      "targetRoleThai": "หน้าต่ำสอดทำประตู (Shadow Striker)",
-      "reviewDate": "2026-09-25",
-      "overallProgress": 72,
-      "weeklyLogs": [
-        {
-          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-          "score": 9,
-          "feedback": "ลงมาเป็นซูเปอร์ซับในเกมชนะธนบุรี 3-1 แล้วยิงประตูสุดสวย จังหวะวิ่งสอดเข้าเขตโทษทำได้สมบูรณ์แบบตามที่ซ้อม ให้รักษามาตรฐานนี้ไว้",
-          "weekNumber": 8,
-          "date": "2026-09-07",
-          "id": "log-1",
-          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1",
-          "status": "ahead"
-        },
-        {
-          "id": "log-2",
-          "evaluatorRole": "หัวหน้าฝ่ายสมรรถภาพ",
-          "date": "2026-08-31",
-          "feedback": "ผลการทดสอบ Sprint 10m ทำเวลาได้ดีขึ้น 0.04 วินาที กล้ามเนื้อหลังขาไม่มีอาการล้าสะสม พร้อมเพิ่มโหลดน้ำหนักสควอทในยิม",
-          "evaluatorName": "ดร. วรภัทร ชาญวิทย์",
-          "score": 8,
-          "status": "on_track",
-          "weekNumber": 7
-        },
-        {
-          "weekNumber": 6,
-          "evaluatorName": "โค้ชเอกภพ ศรีวิชัย",
-          "status": "needs_focus",
-          "id": "log-3",
-          "score": 7,
-          "feedback": "ยังต้องระวังเรื่องการใช้เท้าซ้าย บางจังหวะมีโอกาสยิงเท้าซ้ายแต่ฝืนแต่งเข้าขวาทำให้กองหลังเข้ามาบล็อกได้ทัน ให้ซ้อมเท้าซ้ายเพิ่มสัปดาห์ละ 2 เซสชัน",
-          "date": "2026-08-24",
-          "evaluatorRole": "หัวหน้าผู้ฝึกสอน"
-        }
-      ],
-      "targetRole": "Inside Forward / Shadow Striker",
-      "technicalGoals": [
-        {
-          "progressPercent": 78,
-          "category": "ยิงประตู",
-          "recommendedDrill": "Rapid Box Finishing & Cross volley reactions",
-          "id": "tech-1",
-          "status": "ahead",
-          "targetRating": 72,
-          "currentRating": 64,
-          "skillName": "การจบสกอร์จังหวะแรก (First-time Finishing)"
-        },
-        {
-          "currentRating": 66,
-          "progressPercent": 70,
-          "recommendedDrill": "Tight Space Rondos & Through-ball control under tackle",
-          "status": "on_track",
-          "skillName": "การจับบอลแรกขณะเคลื่อนที่ด้วยความเร็ว (High-speed First Touch)",
-          "targetRating": 73,
-          "id": "tech-2",
-          "category": "เลี้ยงบอล"
-        },
-        {
-          "progressPercent": 62,
-          "status": "needs_focus",
-          "recommendedDrill": "200 Reps Left-foot Target Net Practice weekly",
-          "category": "ยิงประตู",
-          "id": "tech-3",
-          "skillName": "การยิงด้วยเท้าซ้าย (Weak Foot Accuracy)",
-          "targetRating": 68,
-          "currentRating": 58
-        }
-      ],
-      "longTermObjective": "ก้าวขึ้นเป็นกองหน้าตัวหลักของสโมสรและติดทีมชาติไทยรุ่นอายุไม่เกิน 23 ปี ภายในฤดูกาล 2027",
-      "shortTermObjective": "พัฒนาความเฉียบคมในการยิงจังหวะแรก (First-time Finishing) และการตัดสินใจในกรอบ 18 หลา เพื่อยกระดับจากการเป็นสำรองลงมาเปลี่ยนเกมสู่การลุ้นตำแหน่งตัวจริงในเลก 2"
-    },
-    {
-      "reviewDate": "2026-09-30",
-      "tacticalMentalGoals": [
-        {
-          "status": "on_track",
-          "id": "tac-3",
-          "description": "เงยหน้ามองตำแหน่งของ Lucas Silva ในกรอบเขตโทษ หากมุมยิงเหลือน้อยกว่า 30 องศาให้จ่าย Cutback",
-          "progressPercent": 80,
-          "topic": "การตัดสินใจระหว่างยิงเองกับจ่ายให้กองหน้า (Vision Decision)",
-          "targetBehavior": "แอสซิสต์เพิ่มขึ้นเป็น 8 ครั้งในฤดูกาลนี้"
-        }
-      ],
-      "id": "idp-2",
-      "overallProgress": 80,
-      "targetRole": "Inverted Winger (Inside Finisher)",
-      "weeklyLogs": [
-        {
-          "id": "log-4",
-          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-          "weekNumber": 8,
-          "date": "2026-09-08",
-          "score": 8.5,
-          "status": "ahead",
-          "feedback": "ฟอร์มการเล่นโดดเด่นมาก ได้ 1 ประตู 1 แอสซิสต์ในเกมล่าสุด การปั่นโค้งเสาไกลทำได้อย่างมั่นใจ",
-          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1"
-        }
-      ],
-      "longTermObjective": "พัฒนาสู่การเป็นหนึ่งในปีกที่อันตรายที่สุดในไทยลีก 3 และมีมูลค่าประเมินเกิน 3 ล้านบาท",
-      "physicalGoals": [
-        {
-          "progressPercent": 80,
-          "focusArea": "Aerobic Interval Training 4x4 min",
-          "targetValue": "วิ่งระยะ High-speed เกิน 1,000 เมตร/แมตช์",
-          "status": "on_track",
-          "attributeName": "ความทนทานช่วง 15 นาทีสุดท้าย (Match Stamina)",
-          "currentValue": "วิ่งระยะ High-speed เฉลี่ย 820 เมตร",
-          "id": "phys-3"
-        }
-      ],
-      "playerId": "p2",
-      "assignedCoachId": "staff-2",
-      "targetRoleThai": "ปีกตัดเข้าในทำประตู (Inverted Winger)",
-      "shortTermObjective": "ยกระดับการเลี้ยงตัดเข้าในเพื่อยิงไกลด้วยเท้าขวา (Curled Long Shots) และสร้างตัวเลขทำประตูเกิน 8 ประตูในลีก",
-      "startedDate": "2026-06-15",
-      "status": "active",
-      "technicalGoals": [
-        {
-          "currentRating": 72,
-          "targetRating": 78,
-          "progressPercent": 85,
-          "recommendedDrill": "Edge of the Box Curler Drill & Cut-inside Shooting",
-          "id": "tech-4",
-          "skillName": "การยิงปั่นโค้งเสาไกล (Finesse Curve Shot)",
-          "status": "ahead",
-          "category": "ยิงประตู"
-        },
-        {
-          "category": "ส่งบอล",
-          "status": "on_track",
-          "id": "tech-5",
-          "progressPercent": 76,
-          "targetRating": 74,
-          "currentRating": 68,
-          "recommendedDrill": "Low Whipped Crosses to the Penalty Spot",
-          "skillName": "การเปิดบอลเลียดจากพื้นที่ฮาล์ฟสเปซ (Cutback Delivery)"
-        }
-      ],
-      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์"
-    },
-    {
-      "targetRole": "Ball-Playing Center Back",
-      "longTermObjective": "ก้าวขึ้นเป็นเซ็นเตอร์แบ็กตัวจริงถาวรคู่กับ ฐิติพันธ์ หรือ อิบราฮิม โกเน่",
-      "startedDate": "2026-07-15",
-      "weeklyLogs": [
-        {
-          "score": 7,
-          "status": "on_track",
-          "evaluatorRole": "หัวหน้านักกายภาพบำบัด",
-          "id": "log-5",
-          "date": "2026-09-05",
-          "feedback": "กล้ามเนื้อแฮมสตริงฟื้นตัวสู่ระดับเกือบสมบูรณ์แล้ว ผ่านการทดสอบวิ่งสปรินต์ 85% โดยไม่มีอาการกระตุก",
-          "evaluatorName": "กภ. ธนกฤต มั่งมีทรัพย์",
-          "weekNumber": 7
-        }
-      ],
-      "technicalGoals": [
-        {
-          "targetRating": 70,
-          "recommendedDrill": "Pressure Passing Channels & Diagonals to Wingers",
-          "id": "tech-6",
-          "skillName": "การจ่ายบอลทะลุช่องแดนกลาง (Line-breaking Passing)",
-          "progressPercent": 65,
-          "status": "on_track",
-          "category": "ส่งบอล",
-          "currentRating": 62
-        },
-        {
-          "status": "on_track",
-          "recommendedDrill": "Heading Under Pressure & Aerial Clearance Trajectory",
-          "skillName": "การชิงโหม่งเคลียร์บอลจังหวะเปิด (Aerial Duel Clearance)",
-          "id": "tech-7",
-          "currentRating": 69,
-          "category": "เกมรับ",
-          "targetRating": 76,
-          "progressPercent": 72
-        }
-      ],
-      "targetRoleThai": "ปราการหลังตัวเปิดเกม (Ball-Playing Defender)",
-      "assignedCoachId": "staff-1",
-      "reviewDate": "2026-10-15",
-      "tacticalMentalGoals": [
-        {
-          "status": "on_track",
-          "id": "tac-4",
-          "progressPercent": 68,
-          "description": "สื่อสารเสียงดังกับแบ็กซ้าย-ขวา ไม่หลุดต่ำกว่าแนวเกิน 1 ก้าว",
-          "targetBehavior": "ดักล้ำหน้าคู่แข่งสำเร็จเฉลี่ย 3 ครั้งต่อเกม",
-          "topic": "การสั่งการและรักษาแนวดักล้ำหน้า (Offside Line Command)"
-        }
-      ],
-      "shortTermObjective": "ปรับปรุงทักษะการจ่ายบอลตัดไลน์ (Line-breaking passes) และการป้องกันการโดนสวนกลับด้านหลัง",
-      "assignedCoachName": "โค้ชเอกภพ ศรีวิชัย",
-      "physicalGoals": [
-        {
-          "targetValue": "ความยืดหยุ่นมากกว่า 95 องศา",
-          "status": "needs_focus",
-          "attributeName": "การฟื้นฟูกล้ามเนื้อแฮมสตริง & ความยืดหยุ่นสะโพก",
-          "focusArea": "Nordic Hamstring Curls & Dynamic Hip Mobility กับ กภ. ธนกฤต",
-          "currentValue": "ความยืดหยุ่น Hip Flexor 78 องศา",
-          "progressPercent": 60,
-          "id": "phys-4"
-        }
-      ],
-      "id": "idp-3",
-      "overallProgress": 65,
-      "playerId": "p14",
-      "status": "active"
-    },
-    {
-      "tacticalMentalGoals": [
-        {
-          "status": "ahead",
-          "progressPercent": 92,
-          "targetBehavior": "ไม่เกิดจังหวะชนกันเองระหว่างประตูกับกองหลัง 100%",
-          "description": "ออกคำสั่ง \"ปล่อย\" หรือ \"เคลียร์\" ชัดเจนก่อนลูกบอลถึงตัวอย่างน้อย 1 วินาที",
-          "id": "tac-5",
-          "topic": "การสั่งการแผงแบ็กโฟร์ด้วยเสียงดังเด็ดขาด (Penalty Box Leadership)"
-        }
-      ],
-      "reviewDate": "2026-09-20",
-      "startedDate": "2026-06-01",
-      "playerId": "p11",
-      "weeklyLogs": [
-        {
-          "evaluatorName": "โค้ชสุริยา แสงแก้ว",
-          "status": "ahead",
-          "id": "log-6",
-          "date": "2026-09-09",
-          "weekNumber": 8,
-          "feedback": "เซฟจังหวะสำคัญช่วยทีมเก็บคลีนชีตในนัดที่ผ่านมา การออกบอลเร็วให้ปีกเปิดเกมรุกทำได้เฉียบคมมาก",
-          "score": 9.5,
-          "evaluatorRole": "หัวหน้าโค้ชผู้รักษาประตู"
-        }
-      ],
-      "assignedCoachId": "staff-3",
-      "assignedCoachName": "โค้ชสุริยา แสงแก้ว",
-      "targetRole": "Sweeper Keeper (Commanding Stopper)",
-      "physicalGoals": [
-        {
-          "attributeName": "พลังสปริงข้อเท้ากระโดดปัดบอล (Vertical Jump Reach)",
-          "targetValue": "แตะความสูง 3.25 เมตร",
-          "currentValue": "แตะความสูง 3.18 เมตร",
-          "progressPercent": 88,
-          "status": "ahead",
-          "focusArea": "Depth Jumps & Core Explosiveness",
-          "id": "phys-5"
-        }
-      ],
-      "status": "active",
-      "id": "idp-4",
-      "targetRoleThai": "ผู้รักษาประตูสมัยใหม่ออกบอลเร็ว (Sweeper Keeper)",
-      "shortTermObjective": "เพิ่มความแม่นยำในการเตะบอลยาวเปลี่ยนแกน (Side Volley Distribution) และลดจังหวะเสียประตูจากลูกเตะมุม",
-      "longTermObjective": "รักษาสถิติคลีนชีตอันดับ 1 ของไทยลีก 3 โซนกรุงเทพฯ ให้ครบ 12 นัดในฤดูกาลนี้",
-      "technicalGoals": [
-        {
-          "skillName": "การเปิดบอลยาวด้วยเท้า (Long Kick Distribution)",
-          "recommendedDrill": "Target Barrel Kicking & Rapid Counter Distribution",
-          "currentRating": 68,
-          "category": "ผู้รักษาประตู",
-          "targetRating": 75,
-          "status": "ahead",
-          "id": "tech-8",
-          "progressPercent": 90
-        },
-        {
-          "currentRating": 66,
-          "progressPercent": 86,
-          "recommendedDrill": "Through-ball anticipation & 1-on-1 closing angles",
-          "status": "on_track",
-          "category": "ผู้รักษาประตู",
-          "targetRating": 72,
-          "skillName": "การอ่านจังหวะออกมาตัดบอลนอกกรอบ (Sweeper Rushing Out)",
-          "id": "tech-9"
-        }
-      ],
-      "overallProgress": 88
     }
   ],
   "disciplinaryCards": [
@@ -2349,6 +1634,722 @@
     "currentRanking": "จ่าฝูง (อันดับ 1)"
   },
   "clubGoals": [],
+  "lastUpdated": "2026-09-23T11:53:50.453Z",
+  "injuries": [
+    {
+      "id": "inj-1",
+      "severity": "ปานกลาง (3-6 สัปดาห์)",
+      "expectedReturnDate": "2026-09-22",
+      "status": "rehabilitating",
+      "physioNotes": "อาการบวมยุบตัวแล้ว 90% เริ่มวิ่งจ็อกกิ้งเส้นตรงและเตะบอลเบาๆ ได้โดยไม่ปวด คาดว่าจะคืนสู่การซ้อมทีมในอีก 10 วัน",
+      "phase": 3,
+      "playerId": "p9",
+      "occurredDate": "2026-08-28",
+      "progressPercent": 75,
+      "injuryName": "ข้อเท้าพลิกระดับ 2 (Grade II Ankle Sprain)",
+      "treatmentDetails": [
+        "อัลตราซาวด์สลายพังผืดข้อต่อ",
+        "ฝึกทรงตัวบน Bosu Ball เพิ่มความมั่นคงของเอ็นข้อเท้า",
+        "พันเทป Kinesiology ล็อคข้อเท้าขณะลงวิ่ง"
+      ],
+      "bodyPart": "ข้อเท้าขวา"
+    },
+    {
+      "occurredDate": "2026-09-04",
+      "physioNotes": "การรักษาตอบสนองดีมาก ไม่มีรอยฟกช้ำหลงเหลือ กำลังเพิ่มแรงต้านด้วยการปั่นจักรยานไฟฟ้าและยืดเหยียดเบาๆ",
+      "severity": "เล็กน้อย (1-2 สัปดาห์)",
+      "injuryName": "กล้ามเนื้อต้นขาด้านหลังกระตุกฉีกขาด (Hamstring Tear Gr. 1)",
+      "treatmentDetails": [
+        "ประคบเย็นและคลื่นวิทยุความถี่สูงลดปวด",
+        "กายภาพบำบัดด้วยการยืดเส้น Isometric",
+        "ว่ายน้ำในสระสโมสรเพื่อรักษาความจุปอด"
+      ],
+      "expectedReturnDate": "2026-09-18",
+      "progressPercent": 55,
+      "playerId": "p14",
+      "id": "inj-2",
+      "phase": 2,
+      "status": "rehabilitating",
+      "bodyPart": "ต้นขาซ้ายด้านหลัง"
+    },
+    {
+      "id": "inj-3",
+      "severity": "เล็กน้อย (1-2 สัปดาห์)",
+      "status": "cleared",
+      "physioNotes": "ผ่านการทดสอบความพร้อมทางกายภาพ 100% กลับมาซ้อมร่วมกับทีมชุดใหญ่ได้แล้ว",
+      "injuryName": "กล้ามเนื้อน่องตึงตัวสะสม (Calf Muscle Tightness)",
+      "progressPercent": 95,
+      "playerId": "p6",
+      "occurredDate": "2026-09-02",
+      "expectedReturnDate": "2026-09-10",
+      "bodyPart": "น่องขวา",
+      "treatmentDetails": [
+        "นวดสปอร์ตคลายกล้ามเนื้อ",
+        "แช่ถังน้ำแข็ง Cryotherapy"
+      ],
+      "phase": 4
+    }
+  ],
+  "tactics": {
+    "substitutePlayerIds": [
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "captainPlayerId": "p8",
+    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
+    "slots": [
+      {
+        "posY": 90,
+        "slotId": "slot-gk",
+        "playerId": "p11",
+        "posX": 50,
+        "label": "GK"
+      },
+      {
+        "playerId": "p7",
+        "posX": 16,
+        "slotId": "slot-lb",
+        "label": "LB",
+        "posY": 72
+      },
+      {
+        "posX": 38,
+        "label": "LCB",
+        "slotId": "slot-lcb",
+        "playerId": "p9",
+        "posY": 75
+      },
+      {
+        "posY": 75,
+        "playerId": "p8",
+        "label": "RCB",
+        "posX": 62,
+        "slotId": "slot-rcb"
+      },
+      {
+        "posX": 84,
+        "label": "RB",
+        "playerId": "p10",
+        "posY": 72,
+        "slotId": "slot-rb"
+      },
+      {
+        "posY": 58,
+        "slotId": "slot-cdm",
+        "label": "CDM",
+        "posX": 50,
+        "playerId": "p5"
+      },
+      {
+        "playerId": "p6",
+        "posY": 44,
+        "slotId": "slot-lcm",
+        "label": "LCM",
+        "posX": 34
+      },
+      {
+        "posX": 66,
+        "playerId": "p4",
+        "slotId": "slot-cam",
+        "posY": 40,
+        "label": "CAM"
+      },
+      {
+        "playerId": "p2",
+        "posX": 18,
+        "posY": 24,
+        "slotId": "slot-lw",
+        "label": "LW"
+      },
+      {
+        "posY": 18,
+        "slotId": "slot-st",
+        "playerId": "p1",
+        "posX": 50,
+        "label": "ST"
+      },
+      {
+        "posY": 24,
+        "playerId": "p3",
+        "posX": 82,
+        "slotId": "slot-rw",
+        "label": "RW"
+      }
+    ],
+    "cornerTakerPlayerId": "p2",
+    "defensiveDepth": 72,
+    "buildUpSpeed": 68,
+    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
+    "freeKickTakerPlayerId": "p4",
+    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
+    "formation": "4-3-3 Attacking",
+    "penaltyTakerPlayerId": "p1",
+    "teamWidth": 65
+  },
+  "calendarEvents": [
+    {
+      "time": "16:00 น.",
+      "description": "ทดสอบความทนทานของกล้ามเนื้อก่อนเข้าสู่โปรแกรมแข่งสุดสัปดาห์",
+      "location": "สนามซ้อมเคหะคลองจั่น",
+      "venue": "สนามซ้อมเคหะคลองจั่น",
+      "date": "2026-09-02",
+      "notes": "ทดสอบความทนทานของกล้ามเนื้อก่อนเข้าสู่โปรแกรมแข่งสุดสัปดาห์",
+      "type": "training",
+      "id": "cal-pre-1",
+      "title": "ซ้อมความฟิต & แอโรบิกพาวเวอร์ (High Intensity Interval)"
+    },
+    {
+      "location": "สนามซ้อมเคหะคลองจั่น",
+      "title": "ซ้อมแทคติกเกมรับลูกตั้งเตะ & Transition ด่วน",
+      "id": "cal-pre-2",
+      "type": "training",
+      "description": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
+      "notes": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
+      "date": "2026-09-04",
+      "venue": "สนามซ้อมเคหะคลองจั่น",
+      "time": "17:00 น."
+    },
+    {
+      "title": "⚽ แมตช์เดย์ 21: บางกะปิ เอฟซี 3 - 0 ธนบุรี ยูไนเต็ด",
+      "notes": "เก็บ 3 แต้มสำคัญ พร้อมทำสถิติคลีนชีตนัดที่ 18 ของฤดูกาล",
+      "time": "17:30 น.",
+      "date": "2026-09-06",
+      "type": "match",
+      "description": "เก็บ 3 แต้มสำคัญ พร้อมทำสถิติคลีนชีตนัดที่ 18 ของฤดูกาล",
+      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "id": "cal-pre-3"
+    },
+    {
+      "id": "cal-pre-4",
+      "notes": "แช่บ่อน้ำเย็นและยืดเหยียดกล้ามเนื้อ",
+      "venue": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
+      "description": "แช่บ่อน้ำเย็นและยืดเหยียดกล้ามเนื้อ",
+      "title": "ฟื้นฟูกล้ามเนื้อ & Hydrotherapy",
+      "type": "recovery",
+      "date": "2026-09-07",
+      "location": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
+      "time": "09:00 น."
+    },
+    {
+      "venue": "ห้องพยาบาลสโมสรบางกะปิ",
+      "type": "medical",
+      "description": "ทีมแพทย์และนักกายภาพบันทึกข้อมูลความพร้อมของนักเตะทุกคน",
+      "date": "2026-09-09",
+      "id": "cal-pre-5",
+      "notes": "ทีมแพทย์และนักกายภาพบันทึกข้อมูลความพร้อมของนักเตะทุกคน",
+      "time": "14:00 น.",
+      "location": "ห้องพยาบาลสโมสรบางกะปิ",
+      "title": "ตรวจเช็คค่าความล้าและระดับแลคเตทประจำสัปดาห์"
+    },
+    {
+      "date": "2026-09-11",
+      "time": "16:30 น.",
+      "venue": "สนามซ้อมคลองจั่น",
+      "notes": "เช็คชื่อและทดสอบความเฉียบคมของแนวรุก",
+      "id": "cal-1",
+      "type": "training",
+      "description": "เช็คชื่อและทดสอบความเฉียบคมของแนวรุก",
+      "title": "ฝึกซ้อมประจำวัน: แทคติกเจาะริมเส้น & Overlap",
+      "location": "สนามซ้อมคลองจั่น"
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "ห้องประชุมสโมสรบางกะปิ ชั้น 2",
+      "time": "10:00 น.",
+      "location": "ห้องประชุมสโมสรบางกะปิ ชั้น 2",
+      "id": "cal-2",
+      "notes": "เจาะลึกจุดอ่อนแผงมิดฟิลด์คู่แข่งและการเข้าทำลูกนิ่ง",
+      "type": "meeting",
+      "description": "เจาะลึกจุดอ่อนแผงมิดฟิลด์คู่แข่งและการเข้าทำลูกนิ่ง",
+      "title": "ประชุมแทคติกวิดีโอ วิเคราะห์ฟอร์ม ม.นอร์ทกรุงเทพ"
+    },
+    {
+      "time": "18:00 น.",
+      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "date": "2026-09-13",
+      "notes": "ศึกตัดแต้มชิงแชมป์ไทยลีก 3 โซน กทม.",
+      "type": "match",
+      "urgent": true,
+      "description": "ศึกตัดแต้มชิงแชมป์ไทยลีก 3 โซน กทม.",
+      "id": "cal-3",
+      "title": "⚽ แมตช์เดย์ 22: บางกะปิ เอฟซี vs ม.นอร์ทกรุงเทพ (บิ๊กแมตช์ชิงจ่าฝูง)"
+    },
+    {
+      "notes": "ตรวจเช็คกล้ามเนื้อและอาการล้าหลังบิ๊กแมตช์",
+      "id": "cal-4",
+      "location": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
+      "venue": "ศูนย์เวชศาสตร์ฟื้นฟูบางกะปิ",
+      "title": "ฟื้นฟูสภาพร่างกายในสระน้ำ & Ice Bath",
+      "date": "2026-09-14",
+      "time": "09:30 น.",
+      "description": "ตรวจเช็คกล้ามเนื้อและอาการล้าหลังบิ๊กแมตช์",
+      "type": "recovery"
+    },
+    {
+      "notes": "ฟื้นฟูจิตใจและเติมพลังงานสำหรับสัปดาห์ใหม่",
+      "venue": "พักผ่อนตามอัธยาศัย",
+      "location": "-",
+      "description": "ฟื้นฟูจิตใจและเติมพลังงานสำหรับสัปดาห์ใหม่",
+      "title": "วันหยุดพักผ่อนของสโมสร (Team Rest Day)",
+      "time": "ทั้งวัน",
+      "date": "2026-09-15",
+      "type": "rest",
+      "id": "cal-5"
+    },
+    {
+      "id": "cal-6",
+      "notes": "แจกลายเซ็น เปิดคลินิกฟุตบอลเยาวชน และเปิดตัวเสื้อแข่งคอลเลกชันพิเศษ",
+      "venue": "ลานคนเมือง เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
+      "location": "ลานคนเมือง เดอะมอลล์ไลฟ์สโตร์ บางกะปิ",
+      "title": "กิจกรรมสโมสรพบปะแฟนบอล & คลินิกเยาวชนเขตบางกะปิ",
+      "type": "community",
+      "date": "2026-09-16",
+      "time": "15:00 น.",
+      "description": "แจกลายเซ็น เปิดคลินิกฟุตบอลเยาวชน และเปิดตัวเสื้อแข่งคอลเลกชันพิเศษ"
+    },
+    {
+      "title": "ซ้อมเข้มข้น Small-Sided Game 6v6 + Transition",
+      "location": "สนามซ้อมเคหะคลองจั่น",
+      "id": "cal-post-1",
+      "date": "2026-09-17",
+      "notes": "ยกระดับการเคลื่อนที่ในพื้นที่แคบและการแย่งบอลกลับมาครอง",
+      "time": "16:30 น.",
+      "description": "ยกระดับการเคลื่อนที่ในพื้นที่แคบและการแย่งบอลกลับมาครอง",
+      "type": "training",
+      "venue": "สนามซ้อมเคหะคลองจั่น"
+    },
+    {
+      "title": "ซ้อมแทคติกเกมเยือน & ซ้อมเตะมุมและลูกโทษ",
+      "id": "cal-post-2",
+      "location": "สนามซ้อมเคหะคลองจั่น",
+      "description": "ปรับแทคติกรับมือเกมโต้กลับของสมุทรสาคร ซิตี้",
+      "date": "2026-09-18",
+      "notes": "ปรับแทคติกรับมือเกมโต้กลับของสมุทรสาคร ซิตี้",
+      "time": "17:00 น.",
+      "type": "training",
+      "venue": "สนามซ้อมเคหะคลองจั่น"
+    },
+    {
+      "type": "meeting",
+      "time": "14:00 น.",
+      "title": "ประชุมทีมสตาฟโค้ช & ออกเดินทางสู่ที่พัก จ.สมุทรสาคร",
+      "date": "2026-09-19",
+      "description": "สรุป 11 ผู้เล่นตัวจริงและข้อตกลงแทคติกก่อนแข่ง",
+      "venue": "สโมสรบางกะปิ / แคมป์โรงแรมสมุทรสาคร",
+      "id": "cal-post-3",
+      "location": "สโมสรบางกะปิ / แคมป์โรงแรมสมุทรสาคร",
+      "notes": "สรุป 11 ผู้เล่นตัวจริงและข้อตกลงแทคติกก่อนแข่ง"
+    },
+    {
+      "venue": "สนามกีฬากลางจังหวัดสมุทรสาคร (เยือน)",
+      "type": "match",
+      "id": "cal-7",
+      "date": "2026-09-20",
+      "time": "16:00 น.",
+      "description": "เกมเยือนสำคัญ รักษาตำแหน่งจ่าฝูงไร้พ่าย",
+      "notes": "เกมเยือนสำคัญ รักษาตำแหน่งจ่าฝูงไร้พ่าย",
+      "urgent": true,
+      "location": "สนามกีฬากลางจังหวัดสมุทรสาคร (เยือน)",
+      "title": "⚽ แมตช์เดย์ 23: สมุทรสาคร ซิตี้ vs บางกะปิ เอฟซี"
+    },
+    {
+      "title": "ซ้อมทบทวนเกมการเล่น & แก้ไขจุดบกพร่องแดนกลาง",
+      "description": "วิเคราะห์สถิติ Pass completion และการเก็บบอลจังหวะสอง",
+      "type": "training",
+      "notes": "วิเคราะห์สถิติ Pass completion และการเก็บบอลจังหวะสอง",
+      "venue": "สนามซ้อมเคหะคลองจั่น",
+      "id": "cal-post-4",
+      "time": "16:30 น.",
+      "location": "สนามซ้อมเคหะคลองจั่น",
+      "date": "2026-09-22"
+    },
+    {
+      "date": "2026-09-24",
+      "description": "วิทยากรพิเศษจากสถาบันเวชศาสตร์การกีฬาแห่งประเทศไทย",
+      "time": "11:00 น.",
+      "venue": "ห้องบรรยายสโมสร ชั้น 2",
+      "notes": "วิทยากรพิเศษจากสถาบันเวชศาสตร์การกีฬาแห่งประเทศไทย",
+      "id": "cal-post-5",
+      "type": "meeting",
+      "location": "ห้องบรรยายสโมสร ชั้น 2",
+      "title": "บรรยายโภชนาการกีฬาและการนอนหลับเพื่อสมรรถนะสูงสุด"
+    },
+    {
+      "notes": "เกมในบ้านนัดสำคัญประจำสัปดาห์สุดท้ายของเดือนกันยายน",
+      "id": "cal-post-6",
+      "urgent": true,
+      "venue": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "date": "2026-09-27",
+      "title": "⚽ แมตช์เดย์ 24: บางกะปิ เอฟซี vs ม.เกษมบัณฑิต",
+      "location": "เคหะคลองจั่น สเตเดียม (เหย้า)",
+      "time": "18:00 น.",
+      "description": "เกมในบ้านนัดสำคัญประจำสัปดาห์สุดท้ายของเดือนกันยายน",
+      "type": "match"
+    },
+    {
+      "time": "09:30 น.",
+      "date": "2026-09-28",
+      "title": "Active Recovery & ยืดกล้ามเนื้อด้วย Foam Roller",
+      "type": "recovery",
+      "description": "คลายกรดแลคติกและเช็คสภาพร่างกายรายบุคคล",
+      "id": "cal-post-7",
+      "venue": "ศูนย์วิทยาศาสตร์การกีฬาคลองจั่น",
+      "notes": "คลายกรดแลคติกและเช็คสภาพร่างกายรายบุคคล",
+      "location": "ศูนย์วิทยาศาสตร์การกีฬาคลองจั่น"
+    },
+    {
+      "venue": "ห้องประชุมใหญ่ บิ๊กแบงกะปิ สเตเดียม",
+      "id": "cal-post-8",
+      "type": "meeting",
+      "date": "2026-09-30",
+      "time": "13:30 น.",
+      "notes": "ประเมิน KPIs สโมสร, สรุปอันดับลีก และวางแผนรอบเดือนตุลาคม",
+      "location": "ห้องประชุมใหญ่ บิ๊กแบงกะปิ สเตเดียม",
+      "description": "ประเมิน KPIs สโมสร, สรุปอันดับลีก และวางแผนรอบเดือนตุลาคม",
+      "title": "ประชุมสรุปผลงานและสถิติการเล่นประจำเดือนกันยายน 2569"
+    },
+    {
+      "location": "สนามจุฬาลงกรณ์มหาวิทยาลัย (เยือน)",
+      "notes": "เปิดเดือนตุลาคมด้วยศึกลอนดอนดาร์บี้เมืองหลวง",
+      "id": "cal-oct-1",
+      "description": "เปิดเดือนตุลาคมด้วยศึกลอนดอนดาร์บี้เมืองหลวง",
+      "venue": "สนามจุฬาลงกรณ์มหาวิทยาลัย (เยือน)",
+      "title": "⚽ แมตช์เดย์ 25: จามจุรี ยูไนเต็ด vs บางกะปิ เอฟซี",
+      "type": "match",
+      "date": "2026-10-04",
+      "urgent": true,
+      "time": "16:00 น."
+    }
+  ],
+  "playerIDPs": [
+    {
+      "id": "idp-1",
+      "startedDate": "2026-07-01",
+      "physicalGoals": [
+        {
+          "currentValue": "1.72 วินาที",
+          "progressPercent": 75,
+          "focusArea": "Plyometrics box jumps & Sled pushes กับ ดร. วรภัทร",
+          "id": "phys-1",
+          "targetValue": "1.64 วินาที",
+          "attributeName": "สปีดออกตัว 10 เมตรแรก (Acceleration)",
+          "status": "on_track"
+        },
+        {
+          "currentValue": "66 กก. (Body Fat 10.8%)",
+          "progressPercent": 68,
+          "attributeName": "มวลกล้ามเนื้อและความแข็งแกร่งช่วงบน (Upper Body Strength)",
+          "id": "phys-2",
+          "focusArea": "Hypertrophy lifting & Protein intake 140g/day",
+          "status": "on_track",
+          "targetValue": "69 กก. (Hypertrophy lean mass)"
+        }
+      ],
+      "playerId": "p13",
+      "assignedCoachId": "staff-2",
+      "status": "active",
+      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
+      "tacticalMentalGoals": [
+        {
+          "id": "tac-1",
+          "description": "วิ่งตัดหลังเซ็นเตอร์แบ็กคู่แข่งในจังหวะที่ปีกกำลังจะเปิดบอล ไม่ยืนรอบอลนิ่งๆ",
+          "targetBehavior": "สร้างโอกาสยิงอย่างน้อย 2 ครั้งต่อ 45 นาทีที่ลงสนาม",
+          "topic": "การหาช่องว่างระหว่างไลน์กองหลัง (Blindside Runs)",
+          "progressPercent": 82,
+          "status": "ahead"
+        },
+        {
+          "targetBehavior": "เพิ่มเปอร์เซ็นต์ยิงตรงกรอบจาก 45% เป็น 65%",
+          "id": "tac-2",
+          "status": "on_track",
+          "progressPercent": 65,
+          "description": "อ่านการทิ้งน้ำหนักของนายทวารคู่แข่ง เลือกแปเล่นทางแทนที่จะซัดเต็มแรงอย่างเดียว",
+          "topic": "ความนิ่งเมื่อดวล 1-on-1 กับผู้รักษาประตู (Composure)"
+        }
+      ],
+      "targetRoleThai": "หน้าต่ำสอดทำประตู (Shadow Striker)",
+      "reviewDate": "2026-09-25",
+      "overallProgress": 72,
+      "weeklyLogs": [
+        {
+          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
+          "score": 9,
+          "feedback": "ลงมาเป็นซูเปอร์ซับในเกมชนะธนบุรี 3-1 แล้วยิงประตูสุดสวย จังหวะวิ่งสอดเข้าเขตโทษทำได้สมบูรณ์แบบตามที่ซ้อม ให้รักษามาตรฐานนี้ไว้",
+          "weekNumber": 8,
+          "date": "2026-09-07",
+          "id": "log-1",
+          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1",
+          "status": "ahead"
+        },
+        {
+          "id": "log-2",
+          "evaluatorRole": "หัวหน้าฝ่ายสมรรถภาพ",
+          "date": "2026-08-31",
+          "feedback": "ผลการทดสอบ Sprint 10m ทำเวลาได้ดีขึ้น 0.04 วินาที กล้ามเนื้อหลังขาไม่มีอาการล้าสะสม พร้อมเพิ่มโหลดน้ำหนักสควอทในยิม",
+          "evaluatorName": "ดร. วรภัทร ชาญวิทย์",
+          "score": 8,
+          "status": "on_track",
+          "weekNumber": 7
+        },
+        {
+          "weekNumber": 6,
+          "evaluatorName": "โค้ชเอกภพ ศรีวิชัย",
+          "status": "needs_focus",
+          "id": "log-3",
+          "score": 7,
+          "feedback": "ยังต้องระวังเรื่องการใช้เท้าซ้าย บางจังหวะมีโอกาสยิงเท้าซ้ายแต่ฝืนแต่งเข้าขวาทำให้กองหลังเข้ามาบล็อกได้ทัน ให้ซ้อมเท้าซ้ายเพิ่มสัปดาห์ละ 2 เซสชัน",
+          "date": "2026-08-24",
+          "evaluatorRole": "หัวหน้าผู้ฝึกสอน"
+        }
+      ],
+      "targetRole": "Inside Forward / Shadow Striker",
+      "technicalGoals": [
+        {
+          "progressPercent": 78,
+          "category": "ยิงประตู",
+          "recommendedDrill": "Rapid Box Finishing & Cross volley reactions",
+          "id": "tech-1",
+          "status": "ahead",
+          "targetRating": 72,
+          "currentRating": 64,
+          "skillName": "การจบสกอร์จังหวะแรก (First-time Finishing)"
+        },
+        {
+          "currentRating": 66,
+          "progressPercent": 70,
+          "recommendedDrill": "Tight Space Rondos & Through-ball control under tackle",
+          "status": "on_track",
+          "skillName": "การจับบอลแรกขณะเคลื่อนที่ด้วยความเร็ว (High-speed First Touch)",
+          "targetRating": 73,
+          "id": "tech-2",
+          "category": "เลี้ยงบอล"
+        },
+        {
+          "progressPercent": 62,
+          "status": "needs_focus",
+          "recommendedDrill": "200 Reps Left-foot Target Net Practice weekly",
+          "category": "ยิงประตู",
+          "id": "tech-3",
+          "skillName": "การยิงด้วยเท้าซ้าย (Weak Foot Accuracy)",
+          "targetRating": 68,
+          "currentRating": 58
+        }
+      ],
+      "longTermObjective": "ก้าวขึ้นเป็นกองหน้าตัวหลักของสโมสรและติดทีมชาติไทยรุ่นอายุไม่เกิน 23 ปี ภายในฤดูกาล 2027",
+      "shortTermObjective": "พัฒนาความเฉียบคมในการยิงจังหวะแรก (First-time Finishing) และการตัดสินใจในกรอบ 18 หลา เพื่อยกระดับจากการเป็นสำรองลงมาเปลี่ยนเกมสู่การลุ้นตำแหน่งตัวจริงในเลก 2"
+    },
+    {
+      "reviewDate": "2026-09-30",
+      "tacticalMentalGoals": [
+        {
+          "status": "on_track",
+          "id": "tac-3",
+          "description": "เงยหน้ามองตำแหน่งของ Lucas Silva ในกรอบเขตโทษ หากมุมยิงเหลือน้อยกว่า 30 องศาให้จ่าย Cutback",
+          "progressPercent": 80,
+          "topic": "การตัดสินใจระหว่างยิงเองกับจ่ายให้กองหน้า (Vision Decision)",
+          "targetBehavior": "แอสซิสต์เพิ่มขึ้นเป็น 8 ครั้งในฤดูกาลนี้"
+        }
+      ],
+      "id": "idp-2",
+      "overallProgress": 80,
+      "targetRole": "Inverted Winger (Inside Finisher)",
+      "weeklyLogs": [
+        {
+          "id": "log-4",
+          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
+          "weekNumber": 8,
+          "date": "2026-09-08",
+          "score": 8.5,
+          "status": "ahead",
+          "feedback": "ฟอร์มการเล่นโดดเด่นมาก ได้ 1 ประตู 1 แอสซิสต์ในเกมล่าสุด การปั่นโค้งเสาไกลทำได้อย่างมั่นใจ",
+          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1"
+        }
+      ],
+      "longTermObjective": "พัฒนาสู่การเป็นหนึ่งในปีกที่อันตรายที่สุดในไทยลีก 3 และมีมูลค่าประเมินเกิน 3 ล้านบาท",
+      "physicalGoals": [
+        {
+          "progressPercent": 80,
+          "focusArea": "Aerobic Interval Training 4x4 min",
+          "targetValue": "วิ่งระยะ High-speed เกิน 1,000 เมตร/แมตช์",
+          "status": "on_track",
+          "attributeName": "ความทนทานช่วง 15 นาทีสุดท้าย (Match Stamina)",
+          "currentValue": "วิ่งระยะ High-speed เฉลี่ย 820 เมตร",
+          "id": "phys-3"
+        }
+      ],
+      "playerId": "p2",
+      "assignedCoachId": "staff-2",
+      "targetRoleThai": "ปีกตัดเข้าในทำประตู (Inverted Winger)",
+      "shortTermObjective": "ยกระดับการเลี้ยงตัดเข้าในเพื่อยิงไกลด้วยเท้าขวา (Curled Long Shots) และสร้างตัวเลขทำประตูเกิน 8 ประตูในลีก",
+      "startedDate": "2026-06-15",
+      "status": "active",
+      "technicalGoals": [
+        {
+          "currentRating": 72,
+          "targetRating": 78,
+          "progressPercent": 85,
+          "recommendedDrill": "Edge of the Box Curler Drill & Cut-inside Shooting",
+          "id": "tech-4",
+          "skillName": "การยิงปั่นโค้งเสาไกล (Finesse Curve Shot)",
+          "status": "ahead",
+          "category": "ยิงประตู"
+        },
+        {
+          "category": "ส่งบอล",
+          "status": "on_track",
+          "id": "tech-5",
+          "progressPercent": 76,
+          "targetRating": 74,
+          "currentRating": 68,
+          "recommendedDrill": "Low Whipped Crosses to the Penalty Spot",
+          "skillName": "การเปิดบอลเลียดจากพื้นที่ฮาล์ฟสเปซ (Cutback Delivery)"
+        }
+      ],
+      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์"
+    },
+    {
+      "targetRole": "Ball-Playing Center Back",
+      "longTermObjective": "ก้าวขึ้นเป็นเซ็นเตอร์แบ็กตัวจริงถาวรคู่กับ ฐิติพันธ์ หรือ อิบราฮิม โกเน่",
+      "startedDate": "2026-07-15",
+      "weeklyLogs": [
+        {
+          "score": 7,
+          "status": "on_track",
+          "evaluatorRole": "หัวหน้านักกายภาพบำบัด",
+          "id": "log-5",
+          "date": "2026-09-05",
+          "feedback": "กล้ามเนื้อแฮมสตริงฟื้นตัวสู่ระดับเกือบสมบูรณ์แล้ว ผ่านการทดสอบวิ่งสปรินต์ 85% โดยไม่มีอาการกระตุก",
+          "evaluatorName": "กภ. ธนกฤต มั่งมีทรัพย์",
+          "weekNumber": 7
+        }
+      ],
+      "technicalGoals": [
+        {
+          "targetRating": 70,
+          "recommendedDrill": "Pressure Passing Channels & Diagonals to Wingers",
+          "id": "tech-6",
+          "skillName": "การจ่ายบอลทะลุช่องแดนกลาง (Line-breaking Passing)",
+          "progressPercent": 65,
+          "status": "on_track",
+          "category": "ส่งบอล",
+          "currentRating": 62
+        },
+        {
+          "status": "on_track",
+          "recommendedDrill": "Heading Under Pressure & Aerial Clearance Trajectory",
+          "skillName": "การชิงโหม่งเคลียร์บอลจังหวะเปิด (Aerial Duel Clearance)",
+          "id": "tech-7",
+          "currentRating": 69,
+          "category": "เกมรับ",
+          "targetRating": 76,
+          "progressPercent": 72
+        }
+      ],
+      "targetRoleThai": "ปราการหลังตัวเปิดเกม (Ball-Playing Defender)",
+      "assignedCoachId": "staff-1",
+      "reviewDate": "2026-10-15",
+      "tacticalMentalGoals": [
+        {
+          "status": "on_track",
+          "id": "tac-4",
+          "progressPercent": 68,
+          "description": "สื่อสารเสียงดังกับแบ็กซ้าย-ขวา ไม่หลุดต่ำกว่าแนวเกิน 1 ก้าว",
+          "targetBehavior": "ดักล้ำหน้าคู่แข่งสำเร็จเฉลี่ย 3 ครั้งต่อเกม",
+          "topic": "การสั่งการและรักษาแนวดักล้ำหน้า (Offside Line Command)"
+        }
+      ],
+      "shortTermObjective": "ปรับปรุงทักษะการจ่ายบอลตัดไลน์ (Line-breaking passes) และการป้องกันการโดนสวนกลับด้านหลัง",
+      "assignedCoachName": "โค้ชเอกภพ ศรีวิชัย",
+      "physicalGoals": [
+        {
+          "targetValue": "ความยืดหยุ่นมากกว่า 95 องศา",
+          "status": "needs_focus",
+          "attributeName": "การฟื้นฟูกล้ามเนื้อแฮมสตริง & ความยืดหยุ่นสะโพก",
+          "focusArea": "Nordic Hamstring Curls & Dynamic Hip Mobility กับ กภ. ธนกฤต",
+          "currentValue": "ความยืดหยุ่น Hip Flexor 78 องศา",
+          "progressPercent": 60,
+          "id": "phys-4"
+        }
+      ],
+      "id": "idp-3",
+      "overallProgress": 65,
+      "playerId": "p14",
+      "status": "active"
+    },
+    {
+      "tacticalMentalGoals": [
+        {
+          "status": "ahead",
+          "progressPercent": 92,
+          "targetBehavior": "ไม่เกิดจังหวะชนกันเองระหว่างประตูกับกองหลัง 100%",
+          "description": "ออกคำสั่ง \"ปล่อย\" หรือ \"เคลียร์\" ชัดเจนก่อนลูกบอลถึงตัวอย่างน้อย 1 วินาที",
+          "id": "tac-5",
+          "topic": "การสั่งการแผงแบ็กโฟร์ด้วยเสียงดังเด็ดขาด (Penalty Box Leadership)"
+        }
+      ],
+      "reviewDate": "2026-09-20",
+      "startedDate": "2026-06-01",
+      "playerId": "p11",
+      "weeklyLogs": [
+        {
+          "evaluatorName": "โค้ชสุริยา แสงแก้ว",
+          "status": "ahead",
+          "id": "log-6",
+          "date": "2026-09-09",
+          "weekNumber": 8,
+          "feedback": "เซฟจังหวะสำคัญช่วยทีมเก็บคลีนชีตในนัดที่ผ่านมา การออกบอลเร็วให้ปีกเปิดเกมรุกทำได้เฉียบคมมาก",
+          "score": 9.5,
+          "evaluatorRole": "หัวหน้าโค้ชผู้รักษาประตู"
+        }
+      ],
+      "assignedCoachId": "staff-3",
+      "assignedCoachName": "โค้ชสุริยา แสงแก้ว",
+      "targetRole": "Sweeper Keeper (Commanding Stopper)",
+      "physicalGoals": [
+        {
+          "attributeName": "พลังสปริงข้อเท้ากระโดดปัดบอล (Vertical Jump Reach)",
+          "targetValue": "แตะความสูง 3.25 เมตร",
+          "currentValue": "แตะความสูง 3.18 เมตร",
+          "progressPercent": 88,
+          "status": "ahead",
+          "focusArea": "Depth Jumps & Core Explosiveness",
+          "id": "phys-5"
+        }
+      ],
+      "status": "active",
+      "id": "idp-4",
+      "targetRoleThai": "ผู้รักษาประตูสมัยใหม่ออกบอลเร็ว (Sweeper Keeper)",
+      "shortTermObjective": "เพิ่มความแม่นยำในการเตะบอลยาวเปลี่ยนแกน (Side Volley Distribution) และลดจังหวะเสียประตูจากลูกเตะมุม",
+      "longTermObjective": "รักษาสถิติคลีนชีตอันดับ 1 ของไทยลีก 3 โซนกรุงเทพฯ ให้ครบ 12 นัดในฤดูกาลนี้",
+      "technicalGoals": [
+        {
+          "skillName": "การเปิดบอลยาวด้วยเท้า (Long Kick Distribution)",
+          "recommendedDrill": "Target Barrel Kicking & Rapid Counter Distribution",
+          "currentRating": 68,
+          "category": "ผู้รักษาประตู",
+          "targetRating": 75,
+          "status": "ahead",
+          "id": "tech-8",
+          "progressPercent": 90
+        },
+        {
+          "currentRating": 66,
+          "progressPercent": 86,
+          "recommendedDrill": "Through-ball anticipation & 1-on-1 closing angles",
+          "status": "on_track",
+          "category": "ผู้รักษาประตู",
+          "targetRating": 72,
+          "skillName": "การอ่านจังหวะออกมาตัดบอลนอกกรอบ (Sweeper Rushing Out)",
+          "id": "tech-9"
+        }
+      ],
+      "overallProgress": 88
+    }
+  ],
   "leagueStandings": [
     {
       "pos": 1,
@@ -2991,6 +2992,9 @@
       "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี"
     }
   ],
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)",
   "nextMatchInfo": {
     "date": "เสาร์ 19 ก.ย. 2026",
     "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
@@ -3234,9 +3238,5 @@
       "avgGoalsPerMatch": 2.5,
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
-  ],
-  "lastUpdated": "2026-09-23T11:53:50.452Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  ]
 }
