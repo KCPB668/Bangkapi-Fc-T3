@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:19.521Z",
+    "exportedAt": "2026-09-23T13:46:22.036Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -2638,24 +2638,6 @@
       "broadcastChannel": "VRN Channel",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-18",
-      "matchday": 18,
-      "roundName": "ช้าง เอฟเอ คัพ รอบ 64 ทีม",
-      "date": "2026-08-16",
-      "time": "15:30 น.",
-      "leg": "cup",
-      "competition": "ช้าง เอฟเอ คัพ 2026-2027",
-      "homeTeam": "ธนบุรี ยูไนเต็ด",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามธนบุรี สเตเดียม",
-      "status": "upcoming",
-      "referee": "ศิวกร ภูอุดมการ",
-      "broadcastChannel": "AIS PLAY & FA Cup Live",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขันฟุตบอลถ้วย"
     }
   ],
   "leagueDetails": {
@@ -2716,7 +2698,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:17.155Z",
+  "lastUpdated": "2026-09-23T13:46:19.972Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
