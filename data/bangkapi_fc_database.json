@@ -1,186 +1,18 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T08:15:58.129Z",
+    "exportedAt": "2026-09-23T08:16:01.979Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
-    "playerCount": 1,
+    "playerCount": 0,
     "staffCount": 1,
     "matchCount": 5,
     "trainingsCount": 2,
     "goalsCount": 0,
     "annualRecordsCount": 12
   },
-  "players": [
-    {
-      "id": "p15",
-      "number": 99,
-      "name": "Theeradon Kaewkla",
-      "nameThai": "ธีรดนย์ แก้วกล้า",
-      "nationality": "Thailand",
-      "nationalityThai": "ไทย",
-      "flag": "🇹🇭",
-      "age": 20,
-      "heightCm": 186,
-      "weightKg": 80,
-      "position": "GK",
-      "secondaryPositions": [],
-      "overall": 63,
-      "potential": 76,
-      "cardTier": "bronze",
-      "cardType": "common",
-      "foot": "ขวา",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "workRateAttack": "ปานกลาง",
-      "workRateDefense": "ปานกลาง",
-      "stats": {
-        "pace": 40,
-        "shooting": 20,
-        "passing": 58,
-        "dribbling": 30,
-        "defending": 25,
-        "physical": 68,
-        "gkDiving": 65,
-        "gkHandling": 62,
-        "gkKicking": 64,
-        "gkReflexes": 67,
-        "gkSpeed": 42,
-        "gkPositioning": 61
-      },
-      "sharpness": 60,
-      "fitness": 96,
-      "morale": "พอใจ",
-      "wageWeeklyThb": 12000,
-      "marketValueThb": 500000,
-      "contractUntilYear": 2029,
-      "squadRole": "ดาวรุ่งอนาคต",
-      "playStyles": [
-        "Reflex Save"
-      ],
-      "developmentPlan": {
-        "planName": "Traditional Goalkeeper",
-        "weeksRemaining": 4,
-        "growthStat": "+2 การยืนตำแหน่ง, +1 ปัดบอล"
-      },
-      "seasonStats": {
-        "matchesPlayed": 2,
-        "goals": 0,
-        "assists": 0,
-        "yellowCards": 0,
-        "redCards": 0,
-        "cleanSheets": 1,
-        "avgRating": 7
-      },
-      "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
-      "tacticalRole": {
-        "roleKey": "gk_sweeper",
-        "roleName": "Sweeper Keeper (SK)",
-        "roleNameThai": "ผู้รักษาประตูสวีปเปอร์ (Sweeper Keeper)",
-        "roleAbbreviation": "SK",
-        "duty": "สนับสนุน (Support)",
-        "nominalPosition": "GK",
-        "roleDiscrepancyReason": "ตำแหน่งเดิมคือ ผู้รักษาประตู (GK) แต่แตกต่างจากโกลเฝ้าเสาทั่วไปอย่างสิ้นเชิง บทบาท \"Sweeper Keeper\" ต้องดันตำแหน่งออกมานอกกรอบเขตโทษ คอยอ่านเกมและวิ่งออกมาสกัดบอลยาวที่คู่แข่งเตะข้ามแผงกองหลังตัวสูง และมีส่วนร่วมในการบิวด์อัพเซ็ตเกมด้วยเท้าเหมือนกองหลังตัวสุดท้าย",
-        "tacticalInstructions": [
-          "ดันตำแหน่งออกมายืนนอกกรอบเขตโทษขณะที่ทีมบุกอยู่ในแดนคู่แข่ง",
-          "วิ่งสปีดออกมาตัดบอลยาวนอกกรอบก่อนที่กองหน้าคู่แข่งจะถึงบอล",
-          "ร่วมเป็นตัวเลือกในการส่งบอลคืนหลังเพื่อคลี่คลายแรงกดดัน",
-          "ออกบอลเร็วด้วยการขว้างหรือเตะเลียดแม่นยำเปิดเกมสวนกลับ"
-        ],
-        "tacticalPillars": [
-          "การคุมพื้นที่ว่างด้านหลังแผงกองหลัง (Sweeping)",
-          "การเล่นบอลด้วยเท้าและการบิวด์อัพ (Build-up with Feet)",
-          "ความกล้าหาญในการตัดสินใจนอกกรอบเขตโทษ"
-        ],
-        "keyRoleAttributes": [
-          {
-            "name": "การออกมาตัดบอลนอกกรอบ (Rushing Out/Sweeping)",
-            "current": 80,
-            "target": 87,
-            "priority": "สูงมาก",
-            "explanation": "ตัดสินใจออกมาสไลด์สกัดบอลนอกกรอบอย่างแม่นยำ"
-          },
-          {
-            "name": "การจ่ายบอลสั้น-ยาวด้วยเท้า (Kicking/Passing)",
-            "current": 79,
-            "target": 86,
-            "priority": "สูงมาก",
-            "explanation": "ออกบอลเลียดไม่ลนลานแม้ถูกกองหน้าบีบ"
-          },
-          {
-            "name": "การอ่านเกมและความเร็วในการออกตัว (Anticipation/Pace)",
-            "current": 78,
-            "target": 85,
-            "priority": "สูง",
-            "explanation": "เริ่มสปรินต์ทันทีที่บอลออกจากเท้าคู่แข่ง"
-          }
-        ],
-        "roleSpecificTrainingDrills": [
-          {
-            "id": "drill-sk-1",
-            "drillName": "High Defensive Line Sweeping & 1v1 Slide",
-            "category": "แทคติกและการยืนตำแหน่ง",
-            "duration": "25 นาที",
-            "focus": "ยืนหน้ากรอบ 18 หลา สปรินต์ออกมาสไลด์ตัดบอลยาวระยะ 30-35 หลา",
-            "intensity": "หนัก",
-            "targetMetric": "ตัดบอลสำเร็จ > 85%, ไม่เกิดการฟาวล์นอกกรอบ"
-          },
-          {
-            "id": "drill-sk-2",
-            "drillName": "Goalkeeper Build-Up Passing & Distribution",
-            "category": "เทคนิคและการครองบอล",
-            "duration": "20 นาที",
-            "focus": "รับบอลคืนหลังใต้แรงเพรสซิ่งจากกองหน้า แล้วจ่ายบอลเลียดเข้าเท้าฟูลแบ็ค",
-            "intensity": "ปานกลาง",
-            "targetMetric": "อัตราจ่ายบอลสำเร็จ > 90%"
-          }
-        ]
-      },
-      "proficientSkills": [
-        "ส่วนสูงและช่วงแขนยาวในการป้องกันลูกโด่ง",
-        "ความมุ่งมั่นและปฏิกิริยาการเซฟบอล",
-        "การเตะเปิดบอลด้วยเท้าขวา"
-      ],
-      "tacticalDevelopmentSkills": [
-        "การอ่านเกมและก้าวออกจากเส้นประตูเพื่อตัดบอลในเวลาที่เหมาะสม",
-        "การสื่อสารกับแนวรับด้วยความมั่นใจมากขึ้น",
-        "การยืนตำแหน่งมุมแคบ"
-      ],
-      "trainingBehavior": {
-        "workEthic": "ดีมาก",
-        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
-        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
-        "description": "เป็นโกลดาวรุ่งที่กระตือรือร้น ซ้อมหนักร่วมกับวรุตม์มือหนึ่งอย่างเข้มข้น"
-      },
-      "offPitchLifestyle": {
-        "nutritionSleep": "ได้มาตรฐาน",
-        "socialMediaAndDiscipline": "ดี",
-        "teamHarmony": "เข้ากับทุกคนได้ดี",
-        "description": "มีวินัยในการพักผ่อน เข้ายิมเสริมสร้างกล้ามเนื้อแกนกลางสม่ำเสมอ"
-      },
-      "matchRatingHistory": [
-        {
-          "id": "pmr-15-1",
-          "matchId": "m-18",
-          "matchTitle": "บางกะปิ เอฟซี 2 - 0 จามจุรี ยูไนเต็ด (เอฟเอ คัพ)",
-          "date": "2026-08-16",
-          "opponent": "จามจุรี ยูไนเต็ด",
-          "minutesPlayed": 90,
-          "rating": 7.4,
-          "tacticalAdherence": 8,
-          "technicalExecution": 7,
-          "workRateSpirit": 8,
-          "goals": 0,
-          "assists": 0,
-          "cleanSheet": true,
-          "coachFeedback": "เก็บคลีนชีตในบอลถ้วยได้สำเร็จ ออกมาตัดบอลโด่งได้อย่างมั่นใจ",
-          "evaluatorCoachName": "โค้ชมานพ สุวรรณโชติ"
-        }
-      ],
-      "recoveryLogs": []
-    }
-  ],
+  "players": [],
   "coachingStaff": [
     {
       "department": "coaching",
@@ -3403,7 +3235,7 @@
       "keyHighlight": "ชนะ พราม แบงค็อก 3-1 (นัดที่ 21) พร้อมทำศึกล่าแชมป์กับ ม.นอร์ทกรุงเทพ"
     }
   ],
-  "lastUpdated": "2026-09-23T08:15:56.199Z",
+  "lastUpdated": "2026-09-23T08:15:58.171Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
