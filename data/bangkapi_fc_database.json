@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-23T13:46:32.409Z",
+    "exportedAt": "2026-09-23T13:46:35.218Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
@@ -2530,42 +2530,6 @@
       "broadcastChannel": "Prime BKK Official",
       "highlights": [],
       "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-11",
-      "matchday": 11,
-      "roundName": "นัดที่ 11 (ปิดเลกแรก)",
-      "date": "2026-05-24",
-      "time": "16:30 น.",
-      "leg": 1,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "มหาวิทยาลัยนอร์ทกรุงเทพ",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามกีฬามหาวิทยาลัยนอร์ทกรุงเทพ วิทยาเขตรังสิต",
-      "status": "upcoming",
-      "referee": "วิวรรธน์ จำปาอ่อน",
-      "broadcastChannel": "North BKK Channel",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
-    },
-    {
-      "id": "t3-fix-12",
-      "matchday": 12,
-      "roundName": "นัดที่ 12 (เปิดเลกสอง)",
-      "date": "2026-06-07",
-      "time": "15:30 น.",
-      "leg": 2,
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "ราชประชา เอฟซี",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "isBangkapiHome": false,
-      "venue": "สนามธนบุรี ซิตี้ สเตเดียม",
-      "status": "upcoming",
-      "referee": "กฤษณะ พันธุ์เพชร",
-      "broadcastChannel": "T3 Official Stream",
-      "highlights": [],
-      "coachNotes": "เตรียมความพร้อมสำหรับโปรแกรมแข่งขัน"
     }
   ],
   "leagueDetails": {
@@ -2626,7 +2590,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-23T13:46:28.950Z",
+  "lastUpdated": "2026-09-23T13:46:32.502Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
