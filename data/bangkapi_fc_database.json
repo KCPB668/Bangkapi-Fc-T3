@@ -1,13 +1,13 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-24T12:34:07.468Z",
+    "exportedAt": "2026-09-24T12:34:12.263Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 0,
     "staffCount": 1,
-    "matchCount": 4,
+    "matchCount": 2,
     "trainingsCount": 2,
     "goalsCount": 0,
     "annualRecordsCount": 0
@@ -310,232 +310,6 @@
         }
       ],
       "matchSummary": "กัปตันชินวัตรโขกลูกเตะมุมนาทีที่ 88 พาทีมแซงชนะเจ้าถิ่นเกษมบัณฑิตแบบระทึกใจ 2-1"
-    },
-    {
-      "id": "m-19",
-      "matchday": 19,
-      "date": "2026-08-23",
-      "time": "18:00 น.",
-      "competition": "ไทยลีก 3 โซนกรุงเทพฯ",
-      "homeTeam": "บางกะปิ เอฟซี",
-      "awayTeam": "โบลาเวน สมุทรปราการ เอฟซี",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isBangkapiHome": true,
-      "venue": "สนามกีฬาเคหะคลองจั่น บางกะปิ สเตเดียม",
-      "result": "D",
-      "possession": [
-        62,
-        38
-      ],
-      "shotsOnTarget": [
-        7,
-        1
-      ],
-      "totalShots": [
-        18,
-        4
-      ],
-      "corners": [
-        9,
-        1
-      ],
-      "fouls": [
-        8,
-        15
-      ],
-      "xG": [
-        2.1,
-        0.3
-      ],
-      "goals": [],
-      "cards": [
-        {
-          "minute": 67,
-          "playerName": "อิบราฮิม โกเน่",
-          "cardType": "yellow"
-        }
-      ],
-      "lineup": [
-        {
-          "playerId": "p11",
-          "position": "GK",
-          "rating": 7.1
-        },
-        {
-          "playerId": "p10",
-          "position": "RB",
-          "rating": 7
-        },
-        {
-          "playerId": "p8",
-          "position": "CB",
-          "rating": 7.4
-        },
-        {
-          "playerId": "p9",
-          "position": "CB",
-          "rating": 7.2
-        },
-        {
-          "playerId": "p7",
-          "position": "LB",
-          "rating": 7.3
-        },
-        {
-          "playerId": "p5",
-          "position": "CDM",
-          "rating": 7.7
-        },
-        {
-          "playerId": "p4",
-          "position": "CAM",
-          "rating": 7.5
-        },
-        {
-          "playerId": "p6",
-          "position": "CM",
-          "rating": 6.9
-        },
-        {
-          "playerId": "p3",
-          "position": "RW",
-          "rating": 6.7
-        },
-        {
-          "playerId": "p2",
-          "position": "LW",
-          "rating": 7.4
-        },
-        {
-          "playerId": "p1",
-          "position": "ST",
-          "rating": 6.9
-        }
-      ],
-      "matchSummary": "บุกแหลกแต่ผู้รักษาประตูคู่แข่งผีเข้า เซฟอุตลุด จบเกมแบ่งแต้มกันไป 0-0"
-    },
-    {
-      "id": "m-18",
-      "matchday": 18,
-      "date": "2026-08-16",
-      "time": "15:30 น.",
-      "competition": "ช้าง เอฟเอ คัพ รอบ 64 ทีม",
-      "homeTeam": "ธนบุรี ยูไนเต็ด",
-      "awayTeam": "บางกะปิ เอฟซี",
-      "homeScore": 1,
-      "awayScore": 3,
-      "isBangkapiHome": false,
-      "venue": "สนามธนบุรี สเตเดียม",
-      "result": "W",
-      "possession": [
-        45,
-        55
-      ],
-      "shotsOnTarget": [
-        3,
-        8
-      ],
-      "totalShots": [
-        8,
-        14
-      ],
-      "corners": [
-        4,
-        7
-      ],
-      "fouls": [
-        14,
-        9
-      ],
-      "xG": [
-        0.9,
-        2.5
-      ],
-      "goals": [
-        {
-          "minute": 9,
-          "scorer": "ศุภณัฐ ธนวุฒิ",
-          "scorerPlayerId": "p2"
-        },
-        {
-          "minute": 31,
-          "scorer": "Lucas Silva",
-          "scorerPlayerId": "p1"
-        },
-        {
-          "minute": 58,
-          "scorer": "อนุชา สุวรรณฉัตร",
-          "isOpponent": true
-        },
-        {
-          "minute": 76,
-          "scorer": "สิทธิชัย บุญประเสริฐ",
-          "scorerPlayerId": "p13"
-        }
-      ],
-      "cards": [],
-      "lineup": [
-        {
-          "playerId": "p15",
-          "position": "GK",
-          "rating": 7.4
-        },
-        {
-          "playerId": "p10",
-          "position": "RB",
-          "rating": 7
-        },
-        {
-          "playerId": "p8",
-          "position": "CB",
-          "rating": 7.5
-        },
-        {
-          "playerId": "p14",
-          "position": "CB",
-          "rating": 6.9
-        },
-        {
-          "playerId": "p7",
-          "position": "LB",
-          "rating": 7.2
-        },
-        {
-          "playerId": "p5",
-          "position": "CDM",
-          "rating": 7.8
-        },
-        {
-          "playerId": "p13",
-          "position": "CAM",
-          "rating": 8,
-          "goals": 1
-        },
-        {
-          "playerId": "p6",
-          "position": "CM",
-          "rating": 7.2
-        },
-        {
-          "playerId": "p3",
-          "position": "RW",
-          "rating": 7.3
-        },
-        {
-          "playerId": "p2",
-          "position": "LW",
-          "rating": 8.3,
-          "goals": 1
-        },
-        {
-          "playerId": "p1",
-          "position": "ST",
-          "rating": 8.1,
-          "goals": 1
-        }
-      ],
-      "matchSummary": "ดาวรุ่ง สิทธิชัย บุญประเสริฐ สอดเข้ามายิงประตูปิดกล่อง พาทีมบุกชนะธนบุรี 3-1 ตีตั๋วสู่รอบ 32 ทีมช้าง เอฟเอ คัพ"
     }
   ],
   "trainings": [
@@ -2284,7 +2058,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-24T12:34:06.225Z",
+  "lastUpdated": "2026-09-24T12:34:09.724Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
