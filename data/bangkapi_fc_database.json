@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-24T13:30:02.866Z",
+    "exportedAt": "2026-09-24T13:27:49.954Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -274,6 +274,353 @@
       "completed": true
     }
   ],
+  "oneOnOneMeetings": [
+    {
+      "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
+      "followUpDate": "2026-09-15",
+      "trackingProgressPercent": 100,
+      "status": "completed",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "topicCategory": "โอกาสลงสนาม",
+      "playerId": "p13",
+      "messages": [
+        {
+          "text": "โค้ชครับ ผมรู้สึกว่าตัวเองพร้อมแล้วสำหรับเกมลีก อยากขอโอกาสลงเล่นตัวจริงสักนัดครับ",
+          "timestamp": "11:15 น.",
+          "sender": "player"
+        },
+        {
+          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
+          "timestamp": "11:18 น.",
+          "sender": "manager"
+        },
+        {
+          "text": "ขอบคุณมากครับโค้ช! ผมจะไม่ทำให้ผิดหวังและจะวิ่งสุดใจเพื่อสโมสรครับ",
+          "sender": "player",
+          "timestamp": "11:20 น."
+        },
+        {
+          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
+          "sender": "manager",
+          "timestamp": "เมื่อสักครู่"
+        },
+        {
+          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
+          "timestamp": "เมื่อสักครู่",
+          "sender": "player"
+        }
+      ],
+      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5",
+      "moraleImpact": "เพิ่มขึ้น (+10)",
+      "ratingScale": 5,
+      "keyDiscussionNotes": "นักเตะเข้าพบเพื่อสอบถามโอกาสลงตัวจริงหลังทำผลงานเด่นในฟุตบอลถ้วย โค้ชได้อธิบายแทคติกและกระตุ้นให้รักษาวินัยการวิ่งเพรสซิ่งแดนบนต่อเนื่องตลอด 90 นาที",
+      "trackingStatus": "completed",
+      "id": "meet-1",
+      "trackingOutcomeNotes": "การฝึกซ้อมตลอดสัปดาห์พัฒนาอย่างเห็นได้ชัด ซ้อมยิงเข้ากรอบได้แม่นยำ พร้อมส่งลงสนามแมตช์ต่อไป",
+      "date": "2026-09-08",
+      "actionItemsList": [
+        {
+          "isDone": true,
+          "title": "ซ้อมสปรินต์เพรสซิ่งแดนบน 15 นาทีหลังการซ้อมร่วมทีม",
+          "dueDate": "2026-09-12",
+          "id": "act-1"
+        },
+        {
+          "dueDate": "2026-09-13",
+          "isDone": true,
+          "id": "act-2",
+          "title": "ทบทวนวิดีโอวิเคราะห์การยืนตำแหน่งของแนวรับ ม.นอร์ทกรุงเทพ"
+        },
+        {
+          "title": "เตรียมความพร้อมสำหรับออกสตาร์ตตัวจริง 60-70 นาทีแรก",
+          "dueDate": "2026-09-14",
+          "isDone": false,
+          "id": "act-3"
+        }
+      ],
+      "topic": "โอกาสในการลงสนามและเป้าหมายการยิงประตูในลีก"
+    },
+    {
+      "moraleImpact": "เพิ่มขึ้น (+10)",
+      "keyDiscussionNotes": "นักเตะขอคำปรึกษาเนื่องจากคู่แข่งเริ่มจับทางจังหวะเปิดบอลเลียบเส้นได้ จึงขอปรับบทบาทให้หุบเข้ากลางเพื่อยิงด้วยเท้าขวาและประสานงานกับแบ็กซ้าย",
+      "id": "meet-2",
+      "topic": "การปรับบทบาทแทคติกเกมรุก (Inverted Winger & Free Roam)",
+      "topicCategory": "บทบาทแทคติก",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "followUpDate": "2026-09-18",
+      "managerNotes": "เห็นชอบในการให้ความยืดหยุ่นในแดนสุดท้าย โดยประสานงานกับโค้ชฝ่ายแทคติกให้ปรับแผนการเติมเกมของแบ็กซ้าย",
+      "ratingScale": 4,
+      "date": "2026-09-10",
+      "actionItemsList": [
+        {
+          "title": "ซ้อมจับบอลแรกหันหน้าเข้าหาประตูในกรอบ 18 หลา",
+          "id": "act-4",
+          "isDone": true,
+          "dueDate": "2026-09-11"
+        },
+        {
+          "isDone": false,
+          "title": "นัดติวแทคติก overlap กับ อภิสิทธิ์ วงษ์คำ (แบ็กซ้าย)",
+          "id": "act-5",
+          "dueDate": "2026-09-13"
+        },
+        {
+          "id": "act-6",
+          "isDone": false,
+          "title": "ประเมินจำนวนโอกาสยิงในเกมลีกนัดถัดไป (เป้าหมาย 3 ครั้งขึ้นไป)",
+          "dueDate": "2026-09-15"
+        }
+      ],
+      "trackingOutcomeNotes": "เริ่มทดลองในมินิเกมสมอลไซด์ 7v7 การตัดเข้าในสร้างมิติใหม่และยิงประตูได้ 2 ลูก",
+      "trackingProgressPercent": 40,
+      "messages": [
+        {
+          "text": "สวัสดีครับโค้ช ช่วงนี้ผมรู้สึกว่าเกมรับคู่แข่งดักทางเปิดบอลของผมได้ ผมอยากขอลองหุบเข้าในไปยิงด้วยเท้าขวาบ่อยขึ้นครับ",
+          "sender": "player",
+          "timestamp": "14:30 น."
+        }
+      ],
+      "trackingStatus": "pending",
+      "playerId": "p2",
+      "status": "pending"
+    },
+    {
+      "ratingScale": 5,
+      "actionItemsList": [
+        {
+          "id": "act-7",
+          "title": "รักษาความนิ่งและไม่ตอบโต้การยั่วยุของกองหลังคู่แข่ง",
+          "isDone": true,
+          "dueDate": "2026-09-14"
+        },
+        {
+          "id": "act-8",
+          "dueDate": "2026-09-12",
+          "title": "ซ้อมลูกตั้งเตะและโหม่งทำประตูกับโค้ชเซ็ตพีซ",
+          "isDone": true
+        }
+      ],
+      "id": "meet-3",
+      "status": "completed",
+      "keyDiscussionNotes": "พูดคุยกระตุ้นความเป็นผู้นำในฐานะกองหน้าตัวเป้าประสบการณ์สูงของทีม ย้ำเตือนเรื่องการควบคุมอารมณ์เมื่อโดนเซ็นเตอร์แบ็กคู่แข่งประกบติดและเข้าปะทะหนัก",
+      "trackingStatus": "in_progress",
+      "trackingProgressPercent": 80,
+      "managerNotes": "นักเตะมีความมุ่งมั่นสูงมาก สภาพร่างกายฟิตสมบูรณ์พร้อมเป็นหัวหอกตัวจริง",
+      "followUpDate": "2026-09-14",
+      "trackingOutcomeNotes": "นักเตะตอบรับอย่างมืออาชีพ รับปากว่าจะโฟกัสกับการเก็บบอลและสร้างจังหวะให้เพื่อนร่วมทีม",
+      "date": "2026-09-11",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "playerId": "p1",
+      "messages": [
+        {
+          "sender": "player",
+          "timestamp": "09:00 น.",
+          "text": "Boss, I am ready for Sunday match against North Bangkok. We must take all 3 points and stay top of the table!"
+        }
+      ],
+      "topicCategory": "สภาพจิตใจและวินัย",
+      "topic": "การนำทีมสู้ศึกชิงจ่าฝูงและการเป็นผู้นำแดนหน้า (Big Match Mindset)",
+      "moraleImpact": "เพิ่มขึ้นมาก (+15)"
+    }
+  ],
+  "disciplinaryCards": [
+    {
+      "id": "card-1",
+      "competition": "ไทยลีก 3",
+      "cardType": "yellow",
+      "playerPosition": "CDM",
+      "foulReason": "ตัดฟาวล์ทางยุทธวิธีกลางสนามเพื่อหยุดเกมสวนกลับ",
+      "date": "2026-02-21",
+      "refereeName": "มงคลชัย เพชรศรี",
+      "playerNumber": 6,
+      "playerName": "Tanapat Chaowat (ธนภัทร เชาวน์วัฒน์)",
+      "minute": 74,
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "matchday": 18,
+      "playerId": "p4"
+    },
+    {
+      "foulReason": "เข้าสกัดช้าบริเวณริมเส้นฝั่งขวา",
+      "playerId": "p3",
+      "matchday": 18,
+      "competition": "ไทยลีก 3",
+      "playerPosition": "CB",
+      "date": "2026-02-21",
+      "cardType": "yellow",
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "minute": 88,
+      "id": "card-2",
+      "playerNumber": 4,
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "refereeName": "มงคลชัย เพชรศรี"
+    },
+    {
+      "playerPosition": "RB",
+      "refereeName": "ศิวกร ภูอุดม",
+      "id": "card-3",
+      "cardType": "yellow",
+      "foulReason": "ดึงเสื้อคู่แข่งในจังหวะกระชากหลบ",
+      "playerName": "Kritpong Somchai (กฤตพงศ์ สมชาย)",
+      "competition": "ไทยลีก 3",
+      "date": "2026-02-14",
+      "matchday": 17,
+      "playerId": "p5",
+      "minute": 62,
+      "matchTitle": "พราม แบงค็อก 1 - 3 บางกะปิ เอฟซี",
+      "playerNumber": 2
+    },
+    {
+      "cardType": "yellow",
+      "foulReason": "เสียบสกัดเปิดปุ่มเสี่ยงอันตราย",
+      "playerPosition": "CB",
+      "competition": "ไทยลีก 3",
+      "matchday": 16,
+      "playerId": "p3",
+      "playerNumber": 4,
+      "id": "card-4",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "refereeName": "วิวรรธน์ จำปาอ่อน",
+      "date": "2026-02-07",
+      "minute": 33,
+      "matchTitle": "บางกะปิ เอฟซี 1 - 0 โบลาเวน สมุทรปราการ"
+    },
+    {
+      "playerNumber": 4,
+      "competition": "ไทยลีก 3",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "playerId": "p3",
+      "matchday": 14,
+      "matchTitle": "ธนบุรี ยูไนเต็ด 0 - 2 บางกะปิ เอฟซี",
+      "id": "card-5",
+      "date": "2026-01-24",
+      "minute": 41,
+      "refereeName": "ชัยฤกษ์ งามสม",
+      "foulReason": "ชนกระแทกทางด้านหลังในจังหวะแย่งโหม่ง",
+      "playerPosition": "CB",
+      "cardType": "yellow"
+    },
+    {
+      "competition": "ไทยลีก 3",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "id": "card-6",
+      "playerPosition": "CB",
+      "matchTitle": "บางกะปิ เอฟซี 4 - 0 ทหารอากาศ เอฟซี",
+      "date": "2026-01-10",
+      "playerId": "p3",
+      "matchday": 12,
+      "cardType": "yellow",
+      "refereeName": "สงกรานต์ บุญมีเกียรติ",
+      "minute": 82,
+      "playerNumber": 4,
+      "foulReason": "เตะบอลทิ้งหลังผู้ตัดสินเป่าฟาวล์ (ถ่วงเวลา)"
+    },
+    {
+      "minute": 89,
+      "playerNumber": 11,
+      "refereeName": "มงคลชัย เพชรศรี",
+      "matchday": 18,
+      "playerId": "p8",
+      "foulReason": "ใบแดงโดยตรง: เจตนาย่ำข้อเท้าคู่แข่งนอกเกมหลังมีปากเสียง",
+      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
+      "competition": "ไทยลีก 3",
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "date": "2026-02-21",
+      "playerPosition": "RW",
+      "cardType": "red",
+      "id": "card-7"
+    }
+  ],
+  "suspensions": [
+    {
+      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก",
+      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
+      "remainingMatches": 0,
+      "status": "appealed",
+      "matchesServed": 1,
+      "playerPosition": "ST",
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน)"
+      ],
+      "id": "susp-1789322096586",
+      "playerId": "p1",
+      "playerNumber": 10,
+      "effectiveDate": "2026-09-13",
+      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในวันแข่งขัน [อุทธรณ์ผ่าน / สโมสรล้างโทษแบน]",
+      "competition": "ไทยลีก 3",
+      "playerName": "Lucas Silva (ลูคัส ซิลวา)",
+      "totalMatchesBanned": 1,
+      "suspensionType": "yellow_accumulation"
+    },
+    {
+      "playerNumber": 4,
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569"
+      ],
+      "effectiveDate": "2026-02-28",
+      "playerId": "p3",
+      "competition": "ไทยลีก 3",
+      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
+      "remainingMatches": 0,
+      "playerPosition": "CB",
+      "status": "served",
+      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในเกมลีกนัดที่ 19",
+      "id": "susp-1",
+      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก (นัดที่ 12, 14, 16, 18)",
+      "matchesServed": 1,
+      "suspensionType": "yellow_accumulation",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "totalMatchesBanned": 1
+    },
+    {
+      "playerNumber": 11,
+      "reason": "ใบแดงโดยตรง นัดที่ 18 พบ ม.เกษมบัณฑิต (เจตนาย่ำข้อเท้าคู่แข่ง)",
+      "id": "susp-2",
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569",
+        "นัดที่ 20 พบ ทหารอากาศ เอฟซี (เหย้า) - 8 มี.ค. 2569"
+      ],
+      "status": "served",
+      "matchesServed": 2,
+      "suspensionType": "direct_red",
+      "playerId": "p8",
+      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
+      "playerPosition": "RW",
+      "competition": "ไทยลีก 3",
+      "remainingMatches": 0,
+      "sanctionSource": "คณะกรรมการพิจารณาวินัย สมาคมฯ",
+      "totalMatchesBanned": 2,
+      "effectiveDate": "2026-02-28",
+      "notes": "โทษแบน 2 นัด พร้อมปรับเงินตามระเบียบวินัยไทยลีก"
+    }
+  ],
+  "scoutingReports": [],
+  "postMatchReviews": [],
+  "clubInfo": {
+    "contactEmail": "contact@bangkapifc.com",
+    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
+    "facebookPage": "facebook.com/BangkapiFCOfficial",
+    "nameEn": "Bangkapi Football Club",
+    "stadiumCapacity": 5000,
+    "foundedYear": 2018,
+    "division": "ไทยลีก 3 (T3)",
+    "boardExpectation": "เลื่อนชั้นสู่ไทยลีก 2 และคว้าแชมป์โซนกรุงเทพฯ",
+    "logoPreset": "eagle_gold",
+    "headCoach": "โค้ชเอกภพ ศรีวิชัย",
+    "primaryColor": "#f59e0b",
+    "secondaryColor": "#0f172a",
+    "logoUrl": "",
+    "shortName": "BKFC",
+    "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
+    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
+    "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
+    "slogan": "พลังแห่งบางกะปิ รวมใจเป็นหนึ่งสู่ชัยชนะ",
+    "budgetThb": 8500000,
+    "president": "คุณศุภชัย กิจเจริญไพศาล",
+    "contactPhone": "02-310-8000",
+    "currentRanking": "จ่าฝูง (อันดับ 1)"
+  },
+  "clubGoals": [],
+  "lastUpdated": "2026-09-24T13:30:01.426Z",
   "injuries": [
     {
       "id": "inj-1",
@@ -664,353 +1011,7 @@
       "time": "16:00 น."
     }
   ],
-  "oneOnOneMeetings": [
-    {
-      "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
-      "followUpDate": "2026-09-15",
-      "trackingProgressPercent": 100,
-      "status": "completed",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "topicCategory": "โอกาสลงสนาม",
-      "playerId": "p13",
-      "messages": [
-        {
-          "text": "โค้ชครับ ผมรู้สึกว่าตัวเองพร้อมแล้วสำหรับเกมลีก อยากขอโอกาสลงเล่นตัวจริงสักนัดครับ",
-          "timestamp": "11:15 น.",
-          "sender": "player"
-        },
-        {
-          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
-          "timestamp": "11:18 น.",
-          "sender": "manager"
-        },
-        {
-          "text": "ขอบคุณมากครับโค้ช! ผมจะไม่ทำให้ผิดหวังและจะวิ่งสุดใจเพื่อสโมสรครับ",
-          "sender": "player",
-          "timestamp": "11:20 น."
-        },
-        {
-          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
-          "sender": "manager",
-          "timestamp": "เมื่อสักครู่"
-        },
-        {
-          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
-          "timestamp": "เมื่อสักครู่",
-          "sender": "player"
-        }
-      ],
-      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5",
-      "moraleImpact": "เพิ่มขึ้น (+10)",
-      "ratingScale": 5,
-      "keyDiscussionNotes": "นักเตะเข้าพบเพื่อสอบถามโอกาสลงตัวจริงหลังทำผลงานเด่นในฟุตบอลถ้วย โค้ชได้อธิบายแทคติกและกระตุ้นให้รักษาวินัยการวิ่งเพรสซิ่งแดนบนต่อเนื่องตลอด 90 นาที",
-      "trackingStatus": "completed",
-      "id": "meet-1",
-      "trackingOutcomeNotes": "การฝึกซ้อมตลอดสัปดาห์พัฒนาอย่างเห็นได้ชัด ซ้อมยิงเข้ากรอบได้แม่นยำ พร้อมส่งลงสนามแมตช์ต่อไป",
-      "date": "2026-09-08",
-      "actionItemsList": [
-        {
-          "isDone": true,
-          "title": "ซ้อมสปรินต์เพรสซิ่งแดนบน 15 นาทีหลังการซ้อมร่วมทีม",
-          "dueDate": "2026-09-12",
-          "id": "act-1"
-        },
-        {
-          "dueDate": "2026-09-13",
-          "isDone": true,
-          "id": "act-2",
-          "title": "ทบทวนวิดีโอวิเคราะห์การยืนตำแหน่งของแนวรับ ม.นอร์ทกรุงเทพ"
-        },
-        {
-          "title": "เตรียมความพร้อมสำหรับออกสตาร์ตตัวจริง 60-70 นาทีแรก",
-          "dueDate": "2026-09-14",
-          "isDone": false,
-          "id": "act-3"
-        }
-      ],
-      "topic": "โอกาสในการลงสนามและเป้าหมายการยิงประตูในลีก"
-    },
-    {
-      "moraleImpact": "เพิ่มขึ้น (+10)",
-      "keyDiscussionNotes": "นักเตะขอคำปรึกษาเนื่องจากคู่แข่งเริ่มจับทางจังหวะเปิดบอลเลียบเส้นได้ จึงขอปรับบทบาทให้หุบเข้ากลางเพื่อยิงด้วยเท้าขวาและประสานงานกับแบ็กซ้าย",
-      "id": "meet-2",
-      "topic": "การปรับบทบาทแทคติกเกมรุก (Inverted Winger & Free Roam)",
-      "topicCategory": "บทบาทแทคติก",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "followUpDate": "2026-09-18",
-      "managerNotes": "เห็นชอบในการให้ความยืดหยุ่นในแดนสุดท้าย โดยประสานงานกับโค้ชฝ่ายแทคติกให้ปรับแผนการเติมเกมของแบ็กซ้าย",
-      "ratingScale": 4,
-      "date": "2026-09-10",
-      "actionItemsList": [
-        {
-          "title": "ซ้อมจับบอลแรกหันหน้าเข้าหาประตูในกรอบ 18 หลา",
-          "id": "act-4",
-          "isDone": true,
-          "dueDate": "2026-09-11"
-        },
-        {
-          "isDone": false,
-          "title": "นัดติวแทคติก overlap กับ อภิสิทธิ์ วงษ์คำ (แบ็กซ้าย)",
-          "id": "act-5",
-          "dueDate": "2026-09-13"
-        },
-        {
-          "id": "act-6",
-          "isDone": false,
-          "title": "ประเมินจำนวนโอกาสยิงในเกมลีกนัดถัดไป (เป้าหมาย 3 ครั้งขึ้นไป)",
-          "dueDate": "2026-09-15"
-        }
-      ],
-      "trackingOutcomeNotes": "เริ่มทดลองในมินิเกมสมอลไซด์ 7v7 การตัดเข้าในสร้างมิติใหม่และยิงประตูได้ 2 ลูก",
-      "trackingProgressPercent": 40,
-      "messages": [
-        {
-          "text": "สวัสดีครับโค้ช ช่วงนี้ผมรู้สึกว่าเกมรับคู่แข่งดักทางเปิดบอลของผมได้ ผมอยากขอลองหุบเข้าในไปยิงด้วยเท้าขวาบ่อยขึ้นครับ",
-          "sender": "player",
-          "timestamp": "14:30 น."
-        }
-      ],
-      "trackingStatus": "pending",
-      "playerId": "p2",
-      "status": "pending"
-    },
-    {
-      "ratingScale": 5,
-      "actionItemsList": [
-        {
-          "id": "act-7",
-          "title": "รักษาความนิ่งและไม่ตอบโต้การยั่วยุของกองหลังคู่แข่ง",
-          "isDone": true,
-          "dueDate": "2026-09-14"
-        },
-        {
-          "id": "act-8",
-          "dueDate": "2026-09-12",
-          "title": "ซ้อมลูกตั้งเตะและโหม่งทำประตูกับโค้ชเซ็ตพีซ",
-          "isDone": true
-        }
-      ],
-      "id": "meet-3",
-      "status": "completed",
-      "keyDiscussionNotes": "พูดคุยกระตุ้นความเป็นผู้นำในฐานะกองหน้าตัวเป้าประสบการณ์สูงของทีม ย้ำเตือนเรื่องการควบคุมอารมณ์เมื่อโดนเซ็นเตอร์แบ็กคู่แข่งประกบติดและเข้าปะทะหนัก",
-      "trackingStatus": "in_progress",
-      "trackingProgressPercent": 80,
-      "managerNotes": "นักเตะมีความมุ่งมั่นสูงมาก สภาพร่างกายฟิตสมบูรณ์พร้อมเป็นหัวหอกตัวจริง",
-      "followUpDate": "2026-09-14",
-      "trackingOutcomeNotes": "นักเตะตอบรับอย่างมืออาชีพ รับปากว่าจะโฟกัสกับการเก็บบอลและสร้างจังหวะให้เพื่อนร่วมทีม",
-      "date": "2026-09-11",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "playerId": "p1",
-      "messages": [
-        {
-          "sender": "player",
-          "timestamp": "09:00 น.",
-          "text": "Boss, I am ready for Sunday match against North Bangkok. We must take all 3 points and stay top of the table!"
-        }
-      ],
-      "topicCategory": "สภาพจิตใจและวินัย",
-      "topic": "การนำทีมสู้ศึกชิงจ่าฝูงและการเป็นผู้นำแดนหน้า (Big Match Mindset)",
-      "moraleImpact": "เพิ่มขึ้นมาก (+15)"
-    }
-  ],
   "playerIDPs": [],
-  "disciplinaryCards": [
-    {
-      "id": "card-1",
-      "competition": "ไทยลีก 3",
-      "cardType": "yellow",
-      "playerPosition": "CDM",
-      "foulReason": "ตัดฟาวล์ทางยุทธวิธีกลางสนามเพื่อหยุดเกมสวนกลับ",
-      "date": "2026-02-21",
-      "refereeName": "มงคลชัย เพชรศรี",
-      "playerNumber": 6,
-      "playerName": "Tanapat Chaowat (ธนภัทร เชาวน์วัฒน์)",
-      "minute": 74,
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "matchday": 18,
-      "playerId": "p4"
-    },
-    {
-      "foulReason": "เข้าสกัดช้าบริเวณริมเส้นฝั่งขวา",
-      "playerId": "p3",
-      "matchday": 18,
-      "competition": "ไทยลีก 3",
-      "playerPosition": "CB",
-      "date": "2026-02-21",
-      "cardType": "yellow",
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "minute": 88,
-      "id": "card-2",
-      "playerNumber": 4,
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "refereeName": "มงคลชัย เพชรศรี"
-    },
-    {
-      "playerPosition": "RB",
-      "refereeName": "ศิวกร ภูอุดม",
-      "id": "card-3",
-      "cardType": "yellow",
-      "foulReason": "ดึงเสื้อคู่แข่งในจังหวะกระชากหลบ",
-      "playerName": "Kritpong Somchai (กฤตพงศ์ สมชาย)",
-      "competition": "ไทยลีก 3",
-      "date": "2026-02-14",
-      "matchday": 17,
-      "playerId": "p5",
-      "minute": 62,
-      "matchTitle": "พราม แบงค็อก 1 - 3 บางกะปิ เอฟซี",
-      "playerNumber": 2
-    },
-    {
-      "cardType": "yellow",
-      "foulReason": "เสียบสกัดเปิดปุ่มเสี่ยงอันตราย",
-      "playerPosition": "CB",
-      "competition": "ไทยลีก 3",
-      "matchday": 16,
-      "playerId": "p3",
-      "playerNumber": 4,
-      "id": "card-4",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "refereeName": "วิวรรธน์ จำปาอ่อน",
-      "date": "2026-02-07",
-      "minute": 33,
-      "matchTitle": "บางกะปิ เอฟซี 1 - 0 โบลาเวน สมุทรปราการ"
-    },
-    {
-      "playerNumber": 4,
-      "competition": "ไทยลีก 3",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "playerId": "p3",
-      "matchday": 14,
-      "matchTitle": "ธนบุรี ยูไนเต็ด 0 - 2 บางกะปิ เอฟซี",
-      "id": "card-5",
-      "date": "2026-01-24",
-      "minute": 41,
-      "refereeName": "ชัยฤกษ์ งามสม",
-      "foulReason": "ชนกระแทกทางด้านหลังในจังหวะแย่งโหม่ง",
-      "playerPosition": "CB",
-      "cardType": "yellow"
-    },
-    {
-      "competition": "ไทยลีก 3",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "id": "card-6",
-      "playerPosition": "CB",
-      "matchTitle": "บางกะปิ เอฟซี 4 - 0 ทหารอากาศ เอฟซี",
-      "date": "2026-01-10",
-      "playerId": "p3",
-      "matchday": 12,
-      "cardType": "yellow",
-      "refereeName": "สงกรานต์ บุญมีเกียรติ",
-      "minute": 82,
-      "playerNumber": 4,
-      "foulReason": "เตะบอลทิ้งหลังผู้ตัดสินเป่าฟาวล์ (ถ่วงเวลา)"
-    },
-    {
-      "minute": 89,
-      "playerNumber": 11,
-      "refereeName": "มงคลชัย เพชรศรี",
-      "matchday": 18,
-      "playerId": "p8",
-      "foulReason": "ใบแดงโดยตรง: เจตนาย่ำข้อเท้าคู่แข่งนอกเกมหลังมีปากเสียง",
-      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
-      "competition": "ไทยลีก 3",
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "date": "2026-02-21",
-      "playerPosition": "RW",
-      "cardType": "red",
-      "id": "card-7"
-    }
-  ],
-  "suspensions": [
-    {
-      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก",
-      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
-      "remainingMatches": 0,
-      "status": "appealed",
-      "matchesServed": 1,
-      "playerPosition": "ST",
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน)"
-      ],
-      "id": "susp-1789322096586",
-      "playerId": "p1",
-      "playerNumber": 10,
-      "effectiveDate": "2026-09-13",
-      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในวันแข่งขัน [อุทธรณ์ผ่าน / สโมสรล้างโทษแบน]",
-      "competition": "ไทยลีก 3",
-      "playerName": "Lucas Silva (ลูคัส ซิลวา)",
-      "totalMatchesBanned": 1,
-      "suspensionType": "yellow_accumulation"
-    },
-    {
-      "playerNumber": 4,
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569"
-      ],
-      "effectiveDate": "2026-02-28",
-      "playerId": "p3",
-      "competition": "ไทยลีก 3",
-      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
-      "remainingMatches": 0,
-      "playerPosition": "CB",
-      "status": "served",
-      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในเกมลีกนัดที่ 19",
-      "id": "susp-1",
-      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก (นัดที่ 12, 14, 16, 18)",
-      "matchesServed": 1,
-      "suspensionType": "yellow_accumulation",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "totalMatchesBanned": 1
-    },
-    {
-      "playerNumber": 11,
-      "reason": "ใบแดงโดยตรง นัดที่ 18 พบ ม.เกษมบัณฑิต (เจตนาย่ำข้อเท้าคู่แข่ง)",
-      "id": "susp-2",
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569",
-        "นัดที่ 20 พบ ทหารอากาศ เอฟซี (เหย้า) - 8 มี.ค. 2569"
-      ],
-      "status": "served",
-      "matchesServed": 2,
-      "suspensionType": "direct_red",
-      "playerId": "p8",
-      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
-      "playerPosition": "RW",
-      "competition": "ไทยลีก 3",
-      "remainingMatches": 0,
-      "sanctionSource": "คณะกรรมการพิจารณาวินัย สมาคมฯ",
-      "totalMatchesBanned": 2,
-      "effectiveDate": "2026-02-28",
-      "notes": "โทษแบน 2 นัด พร้อมปรับเงินตามระเบียบวินัยไทยลีก"
-    }
-  ],
-  "scoutingReports": [],
-  "postMatchReviews": [],
-  "clubInfo": {
-    "contactEmail": "contact@bangkapifc.com",
-    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
-    "facebookPage": "facebook.com/BangkapiFCOfficial",
-    "nameEn": "Bangkapi Football Club",
-    "stadiumCapacity": 5000,
-    "foundedYear": 2018,
-    "division": "ไทยลีก 3 (T3)",
-    "boardExpectation": "เลื่อนชั้นสู่ไทยลีก 2 และคว้าแชมป์โซนกรุงเทพฯ",
-    "logoPreset": "eagle_gold",
-    "headCoach": "โค้ชเอกภพ ศรีวิชัย",
-    "primaryColor": "#f59e0b",
-    "secondaryColor": "#0f172a",
-    "logoUrl": "",
-    "shortName": "BKFC",
-    "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
-    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
-    "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
-    "slogan": "พลังแห่งบางกะปิ รวมใจเป็นหนึ่งสู่ชัยชนะ",
-    "budgetThb": 8500000,
-    "president": "คุณศุภชัย กิจเจริญไพศาล",
-    "contactPhone": "02-310-8000",
-    "currentRanking": "จ่าฝูง (อันดับ 1)"
-  },
-  "clubGoals": [],
   "leagueStandings": [],
   "leagueFixtures": [],
   "leagueDetails": {
@@ -1044,6 +1045,9 @@
       "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี"
     }
   ],
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)",
   "nextMatchInfo": {
     "date": "เสาร์ 19 ก.ย. 2026",
     "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
@@ -1070,9 +1074,5 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-24T13:30:01.425Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  "annualPerformanceRecords": []
 }
