@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-24T12:39:47.294Z",
+    "exportedAt": "2026-09-24T13:27:46.169Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -274,751 +274,6 @@
       "completed": true
     }
   ],
-  "oneOnOneMeetings": [
-    {
-      "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
-      "followUpDate": "2026-09-15",
-      "trackingProgressPercent": 100,
-      "status": "completed",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "topicCategory": "โอกาสลงสนาม",
-      "playerId": "p13",
-      "messages": [
-        {
-          "text": "โค้ชครับ ผมรู้สึกว่าตัวเองพร้อมแล้วสำหรับเกมลีก อยากขอโอกาสลงเล่นตัวจริงสักนัดครับ",
-          "timestamp": "11:15 น.",
-          "sender": "player"
-        },
-        {
-          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
-          "timestamp": "11:18 น.",
-          "sender": "manager"
-        },
-        {
-          "text": "ขอบคุณมากครับโค้ช! ผมจะไม่ทำให้ผิดหวังและจะวิ่งสุดใจเพื่อสโมสรครับ",
-          "sender": "player",
-          "timestamp": "11:20 น."
-        },
-        {
-          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
-          "sender": "manager",
-          "timestamp": "เมื่อสักครู่"
-        },
-        {
-          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
-          "timestamp": "เมื่อสักครู่",
-          "sender": "player"
-        }
-      ],
-      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5",
-      "moraleImpact": "เพิ่มขึ้น (+10)",
-      "ratingScale": 5,
-      "keyDiscussionNotes": "นักเตะเข้าพบเพื่อสอบถามโอกาสลงตัวจริงหลังทำผลงานเด่นในฟุตบอลถ้วย โค้ชได้อธิบายแทคติกและกระตุ้นให้รักษาวินัยการวิ่งเพรสซิ่งแดนบนต่อเนื่องตลอด 90 นาที",
-      "trackingStatus": "completed",
-      "id": "meet-1",
-      "trackingOutcomeNotes": "การฝึกซ้อมตลอดสัปดาห์พัฒนาอย่างเห็นได้ชัด ซ้อมยิงเข้ากรอบได้แม่นยำ พร้อมส่งลงสนามแมตช์ต่อไป",
-      "date": "2026-09-08",
-      "actionItemsList": [
-        {
-          "isDone": true,
-          "title": "ซ้อมสปรินต์เพรสซิ่งแดนบน 15 นาทีหลังการซ้อมร่วมทีม",
-          "dueDate": "2026-09-12",
-          "id": "act-1"
-        },
-        {
-          "dueDate": "2026-09-13",
-          "isDone": true,
-          "id": "act-2",
-          "title": "ทบทวนวิดีโอวิเคราะห์การยืนตำแหน่งของแนวรับ ม.นอร์ทกรุงเทพ"
-        },
-        {
-          "title": "เตรียมความพร้อมสำหรับออกสตาร์ตตัวจริง 60-70 นาทีแรก",
-          "dueDate": "2026-09-14",
-          "isDone": false,
-          "id": "act-3"
-        }
-      ],
-      "topic": "โอกาสในการลงสนามและเป้าหมายการยิงประตูในลีก"
-    },
-    {
-      "moraleImpact": "เพิ่มขึ้น (+10)",
-      "keyDiscussionNotes": "นักเตะขอคำปรึกษาเนื่องจากคู่แข่งเริ่มจับทางจังหวะเปิดบอลเลียบเส้นได้ จึงขอปรับบทบาทให้หุบเข้ากลางเพื่อยิงด้วยเท้าขวาและประสานงานกับแบ็กซ้าย",
-      "id": "meet-2",
-      "topic": "การปรับบทบาทแทคติกเกมรุก (Inverted Winger & Free Roam)",
-      "topicCategory": "บทบาทแทคติก",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "followUpDate": "2026-09-18",
-      "managerNotes": "เห็นชอบในการให้ความยืดหยุ่นในแดนสุดท้าย โดยประสานงานกับโค้ชฝ่ายแทคติกให้ปรับแผนการเติมเกมของแบ็กซ้าย",
-      "ratingScale": 4,
-      "date": "2026-09-10",
-      "actionItemsList": [
-        {
-          "title": "ซ้อมจับบอลแรกหันหน้าเข้าหาประตูในกรอบ 18 หลา",
-          "id": "act-4",
-          "isDone": true,
-          "dueDate": "2026-09-11"
-        },
-        {
-          "isDone": false,
-          "title": "นัดติวแทคติก overlap กับ อภิสิทธิ์ วงษ์คำ (แบ็กซ้าย)",
-          "id": "act-5",
-          "dueDate": "2026-09-13"
-        },
-        {
-          "id": "act-6",
-          "isDone": false,
-          "title": "ประเมินจำนวนโอกาสยิงในเกมลีกนัดถัดไป (เป้าหมาย 3 ครั้งขึ้นไป)",
-          "dueDate": "2026-09-15"
-        }
-      ],
-      "trackingOutcomeNotes": "เริ่มทดลองในมินิเกมสมอลไซด์ 7v7 การตัดเข้าในสร้างมิติใหม่และยิงประตูได้ 2 ลูก",
-      "trackingProgressPercent": 40,
-      "messages": [
-        {
-          "text": "สวัสดีครับโค้ช ช่วงนี้ผมรู้สึกว่าเกมรับคู่แข่งดักทางเปิดบอลของผมได้ ผมอยากขอลองหุบเข้าในไปยิงด้วยเท้าขวาบ่อยขึ้นครับ",
-          "sender": "player",
-          "timestamp": "14:30 น."
-        }
-      ],
-      "trackingStatus": "pending",
-      "playerId": "p2",
-      "status": "pending"
-    },
-    {
-      "ratingScale": 5,
-      "actionItemsList": [
-        {
-          "id": "act-7",
-          "title": "รักษาความนิ่งและไม่ตอบโต้การยั่วยุของกองหลังคู่แข่ง",
-          "isDone": true,
-          "dueDate": "2026-09-14"
-        },
-        {
-          "id": "act-8",
-          "dueDate": "2026-09-12",
-          "title": "ซ้อมลูกตั้งเตะและโหม่งทำประตูกับโค้ชเซ็ตพีซ",
-          "isDone": true
-        }
-      ],
-      "id": "meet-3",
-      "status": "completed",
-      "keyDiscussionNotes": "พูดคุยกระตุ้นความเป็นผู้นำในฐานะกองหน้าตัวเป้าประสบการณ์สูงของทีม ย้ำเตือนเรื่องการควบคุมอารมณ์เมื่อโดนเซ็นเตอร์แบ็กคู่แข่งประกบติดและเข้าปะทะหนัก",
-      "trackingStatus": "in_progress",
-      "trackingProgressPercent": 80,
-      "managerNotes": "นักเตะมีความมุ่งมั่นสูงมาก สภาพร่างกายฟิตสมบูรณ์พร้อมเป็นหัวหอกตัวจริง",
-      "followUpDate": "2026-09-14",
-      "trackingOutcomeNotes": "นักเตะตอบรับอย่างมืออาชีพ รับปากว่าจะโฟกัสกับการเก็บบอลและสร้างจังหวะให้เพื่อนร่วมทีม",
-      "date": "2026-09-11",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "playerId": "p1",
-      "messages": [
-        {
-          "sender": "player",
-          "timestamp": "09:00 น.",
-          "text": "Boss, I am ready for Sunday match against North Bangkok. We must take all 3 points and stay top of the table!"
-        }
-      ],
-      "topicCategory": "สภาพจิตใจและวินัย",
-      "topic": "การนำทีมสู้ศึกชิงจ่าฝูงและการเป็นผู้นำแดนหน้า (Big Match Mindset)",
-      "moraleImpact": "เพิ่มขึ้นมาก (+15)"
-    }
-  ],
-  "disciplinaryCards": [
-    {
-      "id": "card-1",
-      "competition": "ไทยลีก 3",
-      "cardType": "yellow",
-      "playerPosition": "CDM",
-      "foulReason": "ตัดฟาวล์ทางยุทธวิธีกลางสนามเพื่อหยุดเกมสวนกลับ",
-      "date": "2026-02-21",
-      "refereeName": "มงคลชัย เพชรศรี",
-      "playerNumber": 6,
-      "playerName": "Tanapat Chaowat (ธนภัทร เชาวน์วัฒน์)",
-      "minute": 74,
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "matchday": 18,
-      "playerId": "p4"
-    },
-    {
-      "foulReason": "เข้าสกัดช้าบริเวณริมเส้นฝั่งขวา",
-      "playerId": "p3",
-      "matchday": 18,
-      "competition": "ไทยลีก 3",
-      "playerPosition": "CB",
-      "date": "2026-02-21",
-      "cardType": "yellow",
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "minute": 88,
-      "id": "card-2",
-      "playerNumber": 4,
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "refereeName": "มงคลชัย เพชรศรี"
-    },
-    {
-      "playerPosition": "RB",
-      "refereeName": "ศิวกร ภูอุดม",
-      "id": "card-3",
-      "cardType": "yellow",
-      "foulReason": "ดึงเสื้อคู่แข่งในจังหวะกระชากหลบ",
-      "playerName": "Kritpong Somchai (กฤตพงศ์ สมชาย)",
-      "competition": "ไทยลีก 3",
-      "date": "2026-02-14",
-      "matchday": 17,
-      "playerId": "p5",
-      "minute": 62,
-      "matchTitle": "พราม แบงค็อก 1 - 3 บางกะปิ เอฟซี",
-      "playerNumber": 2
-    },
-    {
-      "cardType": "yellow",
-      "foulReason": "เสียบสกัดเปิดปุ่มเสี่ยงอันตราย",
-      "playerPosition": "CB",
-      "competition": "ไทยลีก 3",
-      "matchday": 16,
-      "playerId": "p3",
-      "playerNumber": 4,
-      "id": "card-4",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "refereeName": "วิวรรธน์ จำปาอ่อน",
-      "date": "2026-02-07",
-      "minute": 33,
-      "matchTitle": "บางกะปิ เอฟซี 1 - 0 โบลาเวน สมุทรปราการ"
-    },
-    {
-      "playerNumber": 4,
-      "competition": "ไทยลีก 3",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "playerId": "p3",
-      "matchday": 14,
-      "matchTitle": "ธนบุรี ยูไนเต็ด 0 - 2 บางกะปิ เอฟซี",
-      "id": "card-5",
-      "date": "2026-01-24",
-      "minute": 41,
-      "refereeName": "ชัยฤกษ์ งามสม",
-      "foulReason": "ชนกระแทกทางด้านหลังในจังหวะแย่งโหม่ง",
-      "playerPosition": "CB",
-      "cardType": "yellow"
-    },
-    {
-      "competition": "ไทยลีก 3",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "id": "card-6",
-      "playerPosition": "CB",
-      "matchTitle": "บางกะปิ เอฟซี 4 - 0 ทหารอากาศ เอฟซี",
-      "date": "2026-01-10",
-      "playerId": "p3",
-      "matchday": 12,
-      "cardType": "yellow",
-      "refereeName": "สงกรานต์ บุญมีเกียรติ",
-      "minute": 82,
-      "playerNumber": 4,
-      "foulReason": "เตะบอลทิ้งหลังผู้ตัดสินเป่าฟาวล์ (ถ่วงเวลา)"
-    },
-    {
-      "minute": 89,
-      "playerNumber": 11,
-      "refereeName": "มงคลชัย เพชรศรี",
-      "matchday": 18,
-      "playerId": "p8",
-      "foulReason": "ใบแดงโดยตรง: เจตนาย่ำข้อเท้าคู่แข่งนอกเกมหลังมีปากเสียง",
-      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
-      "competition": "ไทยลีก 3",
-      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-      "date": "2026-02-21",
-      "playerPosition": "RW",
-      "cardType": "red",
-      "id": "card-7"
-    }
-  ],
-  "suspensions": [
-    {
-      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก",
-      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
-      "remainingMatches": 0,
-      "status": "appealed",
-      "matchesServed": 1,
-      "playerPosition": "ST",
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน)"
-      ],
-      "id": "susp-1789322096586",
-      "playerId": "p1",
-      "playerNumber": 10,
-      "effectiveDate": "2026-09-13",
-      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในวันแข่งขัน [อุทธรณ์ผ่าน / สโมสรล้างโทษแบน]",
-      "competition": "ไทยลีก 3",
-      "playerName": "Lucas Silva (ลูคัส ซิลวา)",
-      "totalMatchesBanned": 1,
-      "suspensionType": "yellow_accumulation"
-    },
-    {
-      "playerNumber": 4,
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569"
-      ],
-      "effectiveDate": "2026-02-28",
-      "playerId": "p3",
-      "competition": "ไทยลีก 3",
-      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
-      "remainingMatches": 0,
-      "playerPosition": "CB",
-      "status": "served",
-      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในเกมลีกนัดที่ 19",
-      "id": "susp-1",
-      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก (นัดที่ 12, 14, 16, 18)",
-      "matchesServed": 1,
-      "suspensionType": "yellow_accumulation",
-      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
-      "totalMatchesBanned": 1
-    },
-    {
-      "playerNumber": 11,
-      "reason": "ใบแดงโดยตรง นัดที่ 18 พบ ม.เกษมบัณฑิต (เจตนาย่ำข้อเท้าคู่แข่ง)",
-      "id": "susp-2",
-      "suspensionMatches": [
-        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569",
-        "นัดที่ 20 พบ ทหารอากาศ เอฟซี (เหย้า) - 8 มี.ค. 2569"
-      ],
-      "status": "served",
-      "matchesServed": 2,
-      "suspensionType": "direct_red",
-      "playerId": "p8",
-      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
-      "playerPosition": "RW",
-      "competition": "ไทยลีก 3",
-      "remainingMatches": 0,
-      "sanctionSource": "คณะกรรมการพิจารณาวินัย สมาคมฯ",
-      "totalMatchesBanned": 2,
-      "effectiveDate": "2026-02-28",
-      "notes": "โทษแบน 2 นัด พร้อมปรับเงินตามระเบียบวินัยไทยลีก"
-    }
-  ],
-  "scoutingReports": [
-    {
-      "isHomeMatchForBangkapi": false,
-      "scoutAuthor": "โค้ชกิตติศักดิ์ บุญชู (สเกาต์ & นักวิเคราะห์แทคติก บางกะปิ เอฟซี)",
-      "tacticalStyle": "โต้กลับเร็วริมเส้น & ลูกตั้งเตะเปิดเข้าฮอส (Direct Wing Counter)",
-      "shortName": "SKC",
-      "strengths": [
-        "เกมสวนกลับริมเส้นฝั่งซ้ายอันตรายมากด้วยสปีดของปีกตัวจี๊ด",
-        "กองหน้าต่างชาติส่วนสูง 188 ซม. พักบอลและเก็บบอลจังหวะสองได้ยอดเยี่ยม",
-        "การเล่นลูกตั้งเตะ (Set-Pieces) มีประสิทธิภาพสูง ทำประตูจากลูกเตะมุมไปแล้ว 9 ลูก",
-        "แฟนบอลเจ้าบ้านเหนียวแน่น บรรยากาศกดดันทีมเยือนตลอด 90 นาที"
-      ],
-      "threatLevel": 5,
-      "nextMatchDate": "2026-02-28",
-      "headToHead": {
-        "bangkapiWins": 2,
-        "lastMeetingScore": "บางกะปิ เอฟซี 2 - 1 สมุทรสาคร ซิตี้",
-        "matchesPlayed": 3,
-        "opponentWins": 0,
-        "draws": 1,
-        "lastMeetingDate": "2025-10-18"
-      },
-      "lastUpdated": "2026-02-24",
-      "recentForm": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "L"
-      ],
-      "teamNameEn": "Samut Sakhon City FC",
-      "isNextOpponent": true,
-      "weaknesses": [
-        "คู่เซ็นเตอร์ฮาล์ฟสปีดต้นช้า มักมีปัญหาเมื่อโดนแทงบอลทะลุช่องหลังไลน์ (Through Ball)",
-        "ฟูลแบ็กทั้งสองฝั่งเติมเกมรุกสูง เปิดพื้นที่ว่างด้านหลังให้โต้กลับได้ง่าย",
-        "แดนกลางขาดตัวตัดเกมธรรมชาติ มักเสียฟาวล์ระยะอันตรายหน้ากรอบเขตโทษ",
-        "ผู้รักษาประตูมักลังเลในการตัดบอลกลางอากาศในจังหวะเตะมุมเสาสอง"
-      ],
-      "teamName": "สมุทรสาคร ซิตี้",
-      "bangkapiTacticalGameplan": "ใช้ระบบ 4-3-3 วาง CDM คู่คอยซ้อนพื้นที่ริมเส้นไม่ให้ Wellington และณัฐพล มีพื้นที่พลิกบอล สั่งให้ปีกทั้งสองข้าง (ศุภณัฐ & วรเชษฐ์) ดักจังหวะที่แบ็กเขาเติมสูงแล้วแทงบอลเร็วตัดหลังไลน์ทันที แดนกลางเน้นคุมจังหวะไม่ให้เปิดบอลยาวเข้ากรอบเขตโทษ",
-      "id": "scout-samutsakhon",
-      "headCoach": "ใหญ่ นิลวงษ์ (อดีตทีมชาติไทย)",
-      "competition": "ไทยลีก 3",
-      "keyDangerPlayers": [
-        {
-          "strengths": "รูปร่างสูงใหญ่ 188 ซม. พักบอลแข็งแกร่ง ลูกโหม่งเฉียบคม ยิงไปแล้ว 12 ประตู",
-          "nationality": "บราซิล 🇧🇷",
-          "name": "Wellington Smith",
-          "position": "ST (กองหน้าตัวเป้า)",
-          "number": 9,
-          "threatRating": 5,
-          "id": "skc-p1",
-          "photoUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&q=80"
-        },
-        {
-          "id": "skc-p2",
-          "nationality": "ไทย 🇹🇭",
-          "name": "ณัฐพล ก่อเกียรติ",
-          "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&q=80",
-          "number": 17,
-          "position": "LW (ปีกซ้าย)",
-          "strengths": "สปีดจัดจ้าน ลากตัดเข้าในด้วยเท้าขวาเปิดไซด์โป้งอันตราย จ่ายแอสซิสต์ 7 ครั้ง",
-          "threatRating": 4
-        },
-        {
-          "id": "skc-p3",
-          "position": "CAM (เพลย์เมกเกอร์)",
-          "strengths": "เปิดบอลยาวแม่นยำ เชี่ยวชาญการยิงฟรีคิกและเตะมุมโค้งเข้าหาประตู",
-          "name": "ธนากรณ์ สายสืบ",
-          "nationality": "ไทย 🇹🇭",
-          "photoUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop&q=80",
-          "threatRating": 4,
-          "number": 8
-        }
-      ],
-      "setPieceTactics": {
-        "cornerDefensePlan": "ใช้ระบบป้องกันแบบผสม (Zonal 6 คน + Man-Marking 3 คน): มอบหมายเซ็นเตอร์ฮาล์ฟประกบ Wellington ตัวต่อตัวแบบไม่ให้กระโดดได้อิสระ จัด 1 คนยืนเสาแรกคอยโหม่งสกัดลูกเปิดเลียดโค้งเข้าหาประตู",
-        "cornerAttackVulnerability": "สมุทรสาครมักยืนโซนหละหลวมบริเวณเสาสอง ให้เล่นสูตรเปิดโค้งข้ามหัวกลุ่มแรกไปจุดนัดพบเสาสอง เพื่อให้กองหลังตัวสูงเติมขึ้นมาโหม่งย้อนศร",
-        "freeKickDefensePlan": "ตั้งกำแพง 4 คน และวาง 1 คนนอนดักลูกเลียด (Draft Wall) ทุกครั้งเมื่อฟรีคิกระยะต่ำกว่า 23 หลา สั่งแนวรับรักษาระดับไลน์ล้ำหน้าสูง 16 หลา ดักจับล้ำหน้าลูกโยนเปิด",
-        "goalkeeperAnalysis": {
-          "sweeperTendency": "ต่ำ เฝ้าแต่บนเส้นประตู",
-          "aerialClaiming": "ลังเล มักเฝ้าเส้นไม่กล้าออก",
-          "startingPosition": "ยืนค่อนไปทางเสาแรก ชอบยืนเฝ้าเส้นประตู ไม่ค่อยออกมาตัดบอลนอกกรอบ 6 หลา",
-          "gkName": "ศรายุทธ พูลทรัพย์ (ส่วนสูง 184 ซม.)",
-          "weaknessToExploit": "มีปัญหาในการรับลูกยิงเลียดมุมเสาไกลเนื่องจากสปริงข้อเท้าช้า และเมื่อมีผู้เล่นเข้าบดบังสายตาในจังหวะเตะมุม มักจะปัดบอลไม่พ้นระยะอันตราย ให้สั่งกองหน้าตามซ้ำดาบสองเสมอ"
-        }
-      },
-      "logoUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=120&h=120&fit=crop&q=80",
-      "nextMatchTime": "18:00 น.",
-      "nextMatchVenue": "สนามกีฬากลางจังหวัดสมุทรสาคร (เยือน)",
-      "preferredFormation": "4-2-3-1 Direct Counter"
-    },
-    {
-      "id": "scout-prime-bangkok",
-      "nextMatchVenue": "สนามมหาวิทยาลัยรามคำแหง (เหย้า)",
-      "setPieceTactics": {
-        "freeKickDefensePlan": "ตั้งกำแพง 4 คน คอยดักลูกปั่นโค้ง",
-        "cornerDefensePlan": "โซนประกบเสาแรกและเสาสองอย่างรัดกุม",
-        "cornerAttackVulnerability": "รูปร่างเฉลี่ยเตี้ยกว่าบางกะปิ เอฟซี ให้เน้นลูกโหม่งโจมตีกลางปากประตู",
-        "goalkeeperAnalysis": {
-          "startingPosition": "ยืนสูงนอกกรอบเพื่อช่วยสร้างเกม",
-          "aerialClaiming": "ปานกลาง มักชกบอลทิ้ง",
-          "sweeperTendency": "สูงมาก ออกมาช่วยเคลียร์บอลบ่อย",
-          "gkName": "ธีรศักดิ์ วงศ์สวรรค์",
-          "weaknessToExploit": "หากตัดบอลได้ให้ลองยิงไกลทันที เนื่องจากชอบยืนห่างปากประตู"
-        }
-      },
-      "teamName": "พราม แบงค็อก",
-      "nextMatchTime": "15:30 น.",
-      "bangkapiTacticalGameplan": "บีบเพรสซิ่งดักตัดบอลตั้งแต่ผู้รักษาประตูพยายามเซ็ตบอลสั้น และใช้ความเก๋าเกมเข้าปะทะแย่งบอลในแดนกลาง",
-      "competition": "ไทยลีก 3",
-      "isNextOpponent": false,
-      "weaknesses": [
-        "ประสบการณ์ในเกมใหญ่ยังเป็นรอง ตื่นเต้นง่ายหากโดนเข้าปะทะหนัก",
-        "การจบสกอร์ในจังหวะสุดท้ายยังไม่เฉียบคม ใช้โอกาสเปลือง",
-        "แพ้ทางบอลเปิดยาวข้ามหัวที่มีความเร็วโจมตีหลังไลน์"
-      ],
-      "logoUrl": "https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=120&h=120&fit=crop&q=80",
-      "headCoach": "อ.จุ่น จตุพร ประมลบาล",
-      "teamNameEn": "Prime Bangkok FC",
-      "tacticalStyle": "ต่อบอลสั้นจากแดนหลัง เคลื่อนที่สอดประสาน และเพรสซิ่งแดนบนทันทีที่เสียบอล",
-      "recentForm": [
-        "W",
-        "L",
-        "W",
-        "D",
-        "W"
-      ],
-      "shortName": "PBK",
-      "strengths": [
-        "นักเตะดาวรุ่งฟิตสมบูรณ์ วิ่งสู้ฟัดตลอด 90 นาที",
-        "การผ่านบอลสั้นแดนกลางมีความแม่นยำและเอาตัวรอดจากเพรสซิ่งได้ดี",
-        "ระเบียบวินัยในเกมรับสูง ซ้อนตำแหน่งกันเป็นกลุ่ม"
-      ],
-      "nextMatchDate": "2026-03-15",
-      "isHomeMatchForBangkapi": true,
-      "headToHead": {
-        "bangkapiWins": 3,
-        "lastMeetingDate": "2026-02-14",
-        "opponentWins": 0,
-        "matchesPlayed": 4,
-        "draws": 1,
-        "lastMeetingScore": "พราม แบงค็อก 1 - 3 บางกะปิ เอฟซี"
-      },
-      "scoutAuthor": "โค้ชกิตติศักดิ์ บุญชู",
-      "preferredFormation": "4-3-3 Tiki-Taka Possession",
-      "threatLevel": 4,
-      "keyDangerPlayers": [
-        {
-          "name": "อภิสิทธิ์ ธ.น.บูรณ์",
-          "number": 10,
-          "position": "CM (กองกลางตัวปั้นเกม)",
-          "strengths": "จ่ายบอลทะลุช่องและวิสัยทัศน์กว้างไกล คุมจังหวะเกมได้เนียนตา",
-          "photoUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&q=80",
-          "nationality": "ไทย 🇹🇭",
-          "threatRating": 4,
-          "id": "pbk-p1"
-        }
-      ],
-      "lastUpdated": "2026-02-16"
-    },
-    {
-      "tacticalStyle": "รับลึกแน่นหนาหน้ากรอบเขตโทษ บอลยาวทิ้งให้กองหน้าคู่แข่งความเร็ววิ่งแข่ง",
-      "id": "scout-kasem-bundit",
-      "headCoach": "ชลอ หงษ์ขจร",
-      "teamName": "มหาวิทยาลัยเกษมบัณฑิต",
-      "logoUrl": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?w=120&h=120&fit=crop&q=80",
-      "setPieceTactics": {
-        "cornerAttackVulnerability": "มักทิ้งพื้นที่ว่างบริเวณหัวกะโหลกหน้ากรอบเขตโทษ ให้เคาะย้อนมายิงไกล",
-        "freeKickDefensePlan": "ตั้งกำแพงแน่นหนา 5 คน",
-        "cornerDefensePlan": "ระวังลูกโหม่งของ Thomas Ebah คนเดียวที่อันตราย",
-        "goalkeeperAnalysis": {
-          "sweeperTendency": "ต่ำ เฝ้าแต่บนเส้นประตู",
-          "aerialClaiming": "ยอดเยี่ยม ไม่กลัวลูกปะทะ",
-          "startingPosition": "ยืนลึกบนเส้นประตู",
-          "gkName": "วิศรุต อ่ำประเสริฐ",
-          "weaknessToExploit": "ปฏิกิริยาการล้มตัวเซฟลูกยิงแฉลบหรือเปลี่ยนทางค่อนข้างช้า"
-        }
-      },
-      "teamNameEn": "Kasem Bundit University FC",
-      "weaknesses": [
-        "เมื่อเสียประตูแรก มักจะเสียรูปขบวนและโดนยิงเพิ่มง่าย",
-        "เกมรุกพึ่งพากองหน้าต่างชาติเพียงคนเดียว"
-      ],
-      "competition": "ไทยลีก 3",
-      "scoutAuthor": "โค้ชกิตติศักดิ์ บุญชู",
-      "headToHead": {
-        "draws": 0,
-        "lastMeetingDate": "2026-02-21",
-        "lastMeetingScore": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
-        "bangkapiWins": 3,
-        "matchesPlayed": 4,
-        "opponentWins": 1
-      },
-      "bangkapiTacticalGameplan": "ใช้การถ่ายบอลออกริมเส้นซ้ายขวาอย่างรวดเร็วเพื่อดึงแนวรับ 5 คนให้แตกออก",
-      "recentForm": [
-        "L",
-        "D",
-        "W",
-        "L",
-        "L"
-      ],
-      "preferredFormation": "5-3-2 Low Block Counter",
-      "isNextOpponent": false,
-      "lastUpdated": "2026-02-22",
-      "shortName": "KBU",
-      "strengths": [
-        "เกมรับ 5 คนเหนียวแน่น เจาะเข้าพื้นที่ด้านในได้ยากมาก",
-        "นักเตะฟิตและมีสมาธิกับการยืนตำแหน่งเกมรับยาวนาน"
-      ],
-      "threatLevel": 3,
-      "keyDangerPlayers": [
-        {
-          "threatRating": 4,
-          "strengths": "ความแข็งแกร่งทางกายภาพสูง เบียดปะทะชนะกองหลังเกือบทุกจังหวะ",
-          "nationality": "แคเมอรูน 🇨🇲",
-          "id": "kbu-p1",
-          "name": "Thomas Ebah",
-          "position": "ST (กองหน้าทรงพลัง)",
-          "number": 99
-        }
-      ]
-    },
-    {
-      "scoutAuthor": "โค้ชกิตติศักดิ์ บุญชู",
-      "strengths": [
-        "เสียประตูน้อยที่สุดเป็นอันดับ 2 ของลีก",
-        "การเล่นลูกนิ่งมีแบบแผนซักซ้อมมาอย่างดี"
-      ],
-      "shortName": "NBU",
-      "setPieceTactics": {
-        "freeKickDefensePlan": "กำแพง 4 คน สั่งห้ามทำฟาวล์ในระยะ 20 หลา",
-        "cornerAttackVulnerability": "เสาแรกป้องกันได้ดี แต่เสาสองมักหลุดตำแหน่ง",
-        "cornerDefensePlan": "เน้นประกบตัวต่อตัวกับผู้เล่นตัวสูง 3 คน",
-        "goalkeeperAnalysis": {
-          "gkName": "สนั่น โชคดี",
-          "sweeperTendency": "ปานกลาง",
-          "startingPosition": "ยืนสมดุลกลางปากประตู",
-          "weaknessToExploit": "การสื่อสารกับคู่เซ็นเตอร์มักสับสนในจังหวะลูกชุลมุน",
-          "aerialClaiming": "ปานกลาง มักชกบอลทิ้ง"
-        }
-      },
-      "keyDangerPlayers": [
-        {
-          "id": "nbu-p1",
-          "threatRating": 4,
-          "position": "RM / RW",
-          "number": 7,
-          "nationality": "ไทย 🇹🇭",
-          "name": "จิรพันธ์ ผาสุขขันธ์",
-          "strengths": "ครอสบอลโค้งเข้าจุดโฟกัสได้แม่นยำทุกลูก"
-        }
-      ],
-      "weaknesses": [
-        "สร้างสรรค์โอกาสยิงได้ค่อนข้างน้อย",
-        "การแก้เกมระหว่างครึ่งหลังยังไม่ยืดหยุ่น"
-      ],
-      "lastUpdated": "2026-02-10",
-      "teamNameEn": "North Bangkok University FC",
-      "threatLevel": 4,
-      "id": "scout-north-bangkok",
-      "logoUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=120&h=120&fit=crop&q=80",
-      "headToHead": {
-        "lastMeetingScore": "ม.นอร์ทกรุงเทพ 0 - 0 บางกะปิ เอฟซี",
-        "matchesPlayed": 2,
-        "opponentWins": 0,
-        "draws": 1,
-        "bangkapiWins": 1,
-        "lastMeetingDate": "2025-11-23"
-      },
-      "isNextOpponent": false,
-      "teamName": "มหาวิทยาลัยนอร์ทกรุงเทพ",
-      "bangkapiTacticalGameplan": "อาศัยความสามารถเฉพาะตัวในการเลี้ยงกินตัว 1 ต่อ 1 เพื่อสร้างความได้เปรียบ",
-      "preferredFormation": "4-4-2 Solid Balanced",
-      "recentForm": [
-        "W",
-        "D",
-        "W",
-        "W",
-        "D"
-      ],
-      "tacticalStyle": "ระบบทีมเวิร์กเป๊ะ มีมาตรฐานเกมรับสูง เล่นตามแทคติกอย่างมีวินัย",
-      "headCoach": "ดำรงศักดิ์ บุญม่วง",
-      "competition": "ไทยลีก 3"
-    },
-    {
-      "weaknesses": [
-        "เมื่อดันไลน์สูง หลังบ้านเปิดพื้นที่มหาศาลหากแก้เพรสซิ่งได้"
-      ],
-      "lastUpdated": "2026-01-05",
-      "teamNameEn": "Chonburi FC",
-      "headCoach": "พิภพ อ่อนโม้",
-      "threatLevel": 5,
-      "setPieceTactics": {
-        "freeKickDefensePlan": "กำแพง 5 คน พร้อมตัวนอน",
-        "cornerAttackVulnerability": "ตัวประกบชลบุรีชอบผลัก ให้ฉวยโอกาสเรียกจุดโทษ",
-        "goalkeeperAnalysis": {
-          "startingPosition": "อ่านเกมได้ดีมาก",
-          "sweeperTendency": "ปานกลาง",
-          "gkName": "สินทวีชัย หทัยรัตนกุล (รักษาการ / ประตูมือหนึ่ง)",
-          "weaknessToExploit": "การเคลื่อนที่ด้านข้างตามลูกยิงไซด์ก้อยเริ่มช้าลงตามอายุ",
-          "aerialClaiming": "ยอดเยี่ยม ไม่กลัวลูกปะทะ"
-        },
-        "cornerDefensePlan": "โซน 8 คนในกรอบเขตโทษ ทิ้ง Lucas Silva รอโต้กลับที่เส้นครึ่งสนาม"
-      },
-      "scoutAuthor": "โค้ชเอกภพ ศรีวิชัย",
-      "preferredFormation": "4-3-3 High Pressing & Fast Transition",
-      "logoUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=120&h=120&fit=crop&q=80",
-      "keyDangerPlayers": [
-        {
-          "nationality": "ไทย 🇹🇭",
-          "threatRating": 5,
-          "strengths": "ทักษะเฉพาะตัวระดับทีมชาติ ยิงไกลคมและจ่ายคิลเลอร์พาสได้ทุกระยะ",
-          "name": "ชาญณรงค์ พรมศรีแก้ว",
-          "position": "RW / CAM",
-          "id": "cbr-p1",
-          "number": 10
-        }
-      ],
-      "id": "scout-chonburi",
-      "competition": "ช้าง เอฟเอ คัพ",
-      "tacticalStyle": "เพรสซิ่งแดนบน ดันไลน์สูง และโจมตีด้วยความเร็วด้านกว้าง",
-      "headToHead": {
-        "lastMeetingDate": "2025-12-20",
-        "matchesPlayed": 1,
-        "lastMeetingScore": "บางกะปิ เอฟซี 2 - 1 ชลบุรี เอฟซี (ช้าง เอฟเอ คัพ รอบ 32 ทีม)",
-        "opponentWins": 0,
-        "draws": 0,
-        "bangkapiWins": 1
-      },
-      "isNextOpponent": false,
-      "shortName": "CBR",
-      "strengths": [
-        "คุณภาพนักเตะระดับแนวหน้าไทยลีก",
-        "สปีดบอลและการเปลี่ยนจังหวะเร็วมาก"
-      ],
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "D",
-        "W"
-      ],
-      "teamName": "ชลบุรี เอฟซี (ไทยลีก 2/เอฟเอคัพ)",
-      "bangkapiTacticalGameplan": "ตั้งรับลึกแบบ Low Block รักษาวินัย อดทนรอจังหวะสวนกลับด้วยบอลยาว"
-    }
-  ],
-  "postMatchReviews": [
-    {
-      "keyTacticalTakeaway": "3 แต้มสำคัญที่ทำให้เรายึดจ่าฝูงต่อไป แต่ต้องแก้ไขเรื่องวินัยใบแดงอย่างเด็ดขาด เพราะการขาดปีกขวาตัวหลัก 2 นัดถัดไปจะส่งผลต่อการโรเตชันทีม",
-      "scoreResult": "2 - 1 (ชนะ)",
-      "formationUsed": "4-3-3 Attacking",
-      "competition": "ไทยลีก 3",
-      "opponentTeam": "ม.เกษมบัณฑิต",
-      "id": "review-match-18",
-      "whatWentWell": [
-        "การขึ้นเกมริมเส้นฝั่งซ้ายของศุภณัฐ ธนวุฒิ ประสานงานกับแบ็กซ้ายได้มีมิติ สร้างโอกาสยิงได้ถึง 6 ครั้ง",
-        "การบีบเพรสซิ่งตัดบอลในแดนกลางทำได้ตามที่ซ้อมมา ตัดบอลได้ 14 ครั้งในแดนคู่แข่ง",
-        "เกมรับรับมือลูกกลางอากาศของ Thomas Ebah ได้ดี ชัยวัฒน์ บุญเกิด ขึ้นโหม่งชนะ 7 จาก 9 ครั้ง",
-        "ความอดทนในการเคาะบอลดึงแนวรับ 5 คนของคู่แข่งให้ออกจากตำแหน่งจนได้ประตูชัยนาที 81"
-      ],
-      "reviewerCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "matchId": "m-18",
-      "matchDate": "2026-02-21",
-      "trainingRecommendations": [
-        "แบบฝึกซ้อมรับมือลูกตั้งเตะเสาแรก (Defending In-Swinging Near Post Corners) ซ้ำ 30 นาทีในวันอังคาร",
-        "อบรมเรื่องวินัยและการควบคุมอารมณ์ในสนามแข่งขัน ห้ามตอบโต้คู่แข่งเด็ดขาดเพื่อหลีกเลี่ยงใบแดง",
-        "การซ้อนตำแหน่งของ CDM เมื่อฟูลแบ็กเติมเกมรุก (Rest Defense & Transition Cover)"
-      ],
-      "areasToImprove": [
-        "วินัยและการควบคุมอารมณ์ช่วงท้ายเกม: อัครเดช แสงจันทร์ โดนใบแดงโดยตรงนาที 89 จากจังหวะนอกเกม ทำให้ทีมต้องเล่น 10 คนและโดนแบน 2 นัด",
-        "การเสียสมาธิลูกเซ็ตพีซช่วงต้นครึ่งหลัง ทำให้เสียประตูตีเสมอ 1-1 จากลูกชุลมุนเสาแรก",
-        "การเปลี่ยนจังหวะจากรุกเป็นรับ (Defensive Transition) ยังช้าเมื่อแบ็กขวาเติมขึ้นไปสุดเส้น"
-      ]
-    },
-    {
-      "whatWentWell": [
-        "Lucas Silva จบสกอร์ได้อย่างเฉียบคม ยิง 2 ประตูจากโอกาส 3 ครั้ง",
-        "การดักจับล้ำหน้าทำได้อย่างสมบูรณ์แบบ คู่แข่งล้ำหน้าถึง 5 ครั้ง",
-        "แดนกลางเก็บบอลจังหวะสองได้เหนือกว่าอย่างเห็นได้ชัด"
-      ],
-      "formationUsed": "4-2-3-1 Wide",
-      "matchId": "m-17",
-      "id": "review-match-17",
-      "scoreResult": "3 - 1 (ชนะ)",
-      "opponentTeam": "พราม แบงค็อก",
-      "matchDate": "2026-02-14",
-      "areasToImprove": [
-        "การเข้าสกัดฟาวล์ตัดเกมริมเส้นบ่อยเกินไปจนเสียใบเหลืองโดยไม่จำเป็น",
-        "ช่วง 15 นาทีสุดท้ายหลังนำ 3-0 เริ่มผ่อนเกมจนเสียประตูปลอบใจให้คู่แข่งนาที 90+2 เสียสถิติคลีนชีต"
-      ],
-      "competition": "ไทยลีก 3",
-      "reviewerCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "trainingRecommendations": [
-        "ฝึกซ้อมการครองบอลปิดเกมอย่างมืออาชีพ (Game Management & Clock Killing)",
-        "การยืนตำแหน่งป้องกันโดยไม่ใช้มือดึงเสื้อเพื่อลดจำนวนใบเหลืองสะสม"
-      ],
-      "keyTacticalTakeaway": "ผลงานน่าประทับใจทั้งเกมรุกและรับ แต่ต้องรักษามาตรฐานสมาธิให้ครบ 90+5 นาทีเสมอ"
-    }
-  ],
-  "clubInfo": {
-    "contactEmail": "contact@bangkapifc.com",
-    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
-    "facebookPage": "facebook.com/BangkapiFCOfficial",
-    "nameEn": "Bangkapi Football Club",
-    "stadiumCapacity": 5000,
-    "foundedYear": 2018,
-    "division": "ไทยลีก 3 (T3)",
-    "boardExpectation": "เลื่อนชั้นสู่ไทยลีก 2 และคว้าแชมป์โซนกรุงเทพฯ",
-    "logoPreset": "eagle_gold",
-    "headCoach": "โค้ชเอกภพ ศรีวิชัย",
-    "primaryColor": "#f59e0b",
-    "secondaryColor": "#0f172a",
-    "logoUrl": "",
-    "shortName": "BKFC",
-    "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
-    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
-    "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
-    "slogan": "พลังแห่งบางกะปิ รวมใจเป็นหนึ่งสู่ชัยชนะ",
-    "budgetThb": 8500000,
-    "president": "คุณศุภชัย กิจเจริญไพศาล",
-    "contactPhone": "02-310-8000",
-    "currentRanking": "จ่าฝูง (อันดับ 1)"
-  },
-  "clubGoals": [],
-  "lastUpdated": "2026-09-24T13:25:47.546Z",
   "injuries": [
     {
       "id": "inj-1",
@@ -1409,331 +664,353 @@
       "time": "16:00 น."
     }
   ],
-  "playerIDPs": [
+  "oneOnOneMeetings": [
     {
-      "id": "idp-1",
-      "startedDate": "2026-07-01",
-      "physicalGoals": [
-        {
-          "currentValue": "1.72 วินาที",
-          "progressPercent": 75,
-          "focusArea": "Plyometrics box jumps & Sled pushes กับ ดร. วรภัทร",
-          "id": "phys-1",
-          "targetValue": "1.64 วินาที",
-          "attributeName": "สปีดออกตัว 10 เมตรแรก (Acceleration)",
-          "status": "on_track"
-        },
-        {
-          "currentValue": "66 กก. (Body Fat 10.8%)",
-          "progressPercent": 68,
-          "attributeName": "มวลกล้ามเนื้อและความแข็งแกร่งช่วงบน (Upper Body Strength)",
-          "id": "phys-2",
-          "focusArea": "Hypertrophy lifting & Protein intake 140g/day",
-          "status": "on_track",
-          "targetValue": "69 กก. (Hypertrophy lean mass)"
-        }
-      ],
+      "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
+      "followUpDate": "2026-09-15",
+      "trackingProgressPercent": 100,
+      "status": "completed",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "topicCategory": "โอกาสลงสนาม",
       "playerId": "p13",
-      "assignedCoachId": "staff-2",
-      "status": "active",
-      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-      "tacticalMentalGoals": [
+      "messages": [
         {
-          "id": "tac-1",
-          "description": "วิ่งตัดหลังเซ็นเตอร์แบ็กคู่แข่งในจังหวะที่ปีกกำลังจะเปิดบอล ไม่ยืนรอบอลนิ่งๆ",
-          "targetBehavior": "สร้างโอกาสยิงอย่างน้อย 2 ครั้งต่อ 45 นาทีที่ลงสนาม",
-          "topic": "การหาช่องว่างระหว่างไลน์กองหลัง (Blindside Runs)",
-          "progressPercent": 82,
-          "status": "ahead"
+          "text": "โค้ชครับ ผมรู้สึกว่าตัวเองพร้อมแล้วสำหรับเกมลีก อยากขอโอกาสลงเล่นตัวจริงสักนัดครับ",
+          "timestamp": "11:15 น.",
+          "sender": "player"
         },
         {
-          "targetBehavior": "เพิ่มเปอร์เซ็นต์ยิงตรงกรอบจาก 45% เป็น 65%",
-          "id": "tac-2",
-          "status": "on_track",
-          "progressPercent": 65,
-          "description": "อ่านการทิ้งน้ำหนักของนายทวารคู่แข่ง เลือกแปเล่นทางแทนที่จะซัดเต็มแรงอย่างเดียว",
-          "topic": "ความนิ่งเมื่อดวล 1-on-1 กับผู้รักษาประตู (Composure)"
+          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
+          "timestamp": "11:18 น.",
+          "sender": "manager"
+        },
+        {
+          "text": "ขอบคุณมากครับโค้ช! ผมจะไม่ทำให้ผิดหวังและจะวิ่งสุดใจเพื่อสโมสรครับ",
+          "sender": "player",
+          "timestamp": "11:20 น."
+        },
+        {
+          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
+          "sender": "manager",
+          "timestamp": "เมื่อสักครู่"
+        },
+        {
+          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
+          "timestamp": "เมื่อสักครู่",
+          "sender": "player"
         }
       ],
-      "targetRoleThai": "หน้าต่ำสอดทำประตู (Shadow Striker)",
-      "reviewDate": "2026-09-25",
-      "overallProgress": 72,
-      "weeklyLogs": [
+      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5",
+      "moraleImpact": "เพิ่มขึ้น (+10)",
+      "ratingScale": 5,
+      "keyDiscussionNotes": "นักเตะเข้าพบเพื่อสอบถามโอกาสลงตัวจริงหลังทำผลงานเด่นในฟุตบอลถ้วย โค้ชได้อธิบายแทคติกและกระตุ้นให้รักษาวินัยการวิ่งเพรสซิ่งแดนบนต่อเนื่องตลอด 90 นาที",
+      "trackingStatus": "completed",
+      "id": "meet-1",
+      "trackingOutcomeNotes": "การฝึกซ้อมตลอดสัปดาห์พัฒนาอย่างเห็นได้ชัด ซ้อมยิงเข้ากรอบได้แม่นยำ พร้อมส่งลงสนามแมตช์ต่อไป",
+      "date": "2026-09-08",
+      "actionItemsList": [
         {
-          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-          "score": 9,
-          "feedback": "ลงมาเป็นซูเปอร์ซับในเกมชนะธนบุรี 3-1 แล้วยิงประตูสุดสวย จังหวะวิ่งสอดเข้าเขตโทษทำได้สมบูรณ์แบบตามที่ซ้อม ให้รักษามาตรฐานนี้ไว้",
-          "weekNumber": 8,
-          "date": "2026-09-07",
-          "id": "log-1",
-          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1",
-          "status": "ahead"
+          "isDone": true,
+          "title": "ซ้อมสปรินต์เพรสซิ่งแดนบน 15 นาทีหลังการซ้อมร่วมทีม",
+          "dueDate": "2026-09-12",
+          "id": "act-1"
         },
         {
-          "id": "log-2",
-          "evaluatorRole": "หัวหน้าฝ่ายสมรรถภาพ",
-          "date": "2026-08-31",
-          "feedback": "ผลการทดสอบ Sprint 10m ทำเวลาได้ดีขึ้น 0.04 วินาที กล้ามเนื้อหลังขาไม่มีอาการล้าสะสม พร้อมเพิ่มโหลดน้ำหนักสควอทในยิม",
-          "evaluatorName": "ดร. วรภัทร ชาญวิทย์",
-          "score": 8,
-          "status": "on_track",
-          "weekNumber": 7
+          "dueDate": "2026-09-13",
+          "isDone": true,
+          "id": "act-2",
+          "title": "ทบทวนวิดีโอวิเคราะห์การยืนตำแหน่งของแนวรับ ม.นอร์ทกรุงเทพ"
         },
         {
-          "weekNumber": 6,
-          "evaluatorName": "โค้ชเอกภพ ศรีวิชัย",
-          "status": "needs_focus",
-          "id": "log-3",
-          "score": 7,
-          "feedback": "ยังต้องระวังเรื่องการใช้เท้าซ้าย บางจังหวะมีโอกาสยิงเท้าซ้ายแต่ฝืนแต่งเข้าขวาทำให้กองหลังเข้ามาบล็อกได้ทัน ให้ซ้อมเท้าซ้ายเพิ่มสัปดาห์ละ 2 เซสชัน",
-          "date": "2026-08-24",
-          "evaluatorRole": "หัวหน้าผู้ฝึกสอน"
+          "title": "เตรียมความพร้อมสำหรับออกสตาร์ตตัวจริง 60-70 นาทีแรก",
+          "dueDate": "2026-09-14",
+          "isDone": false,
+          "id": "act-3"
         }
       ],
-      "targetRole": "Inside Forward / Shadow Striker",
-      "technicalGoals": [
-        {
-          "progressPercent": 78,
-          "category": "ยิงประตู",
-          "recommendedDrill": "Rapid Box Finishing & Cross volley reactions",
-          "id": "tech-1",
-          "status": "ahead",
-          "targetRating": 72,
-          "currentRating": 64,
-          "skillName": "การจบสกอร์จังหวะแรก (First-time Finishing)"
-        },
-        {
-          "currentRating": 66,
-          "progressPercent": 70,
-          "recommendedDrill": "Tight Space Rondos & Through-ball control under tackle",
-          "status": "on_track",
-          "skillName": "การจับบอลแรกขณะเคลื่อนที่ด้วยความเร็ว (High-speed First Touch)",
-          "targetRating": 73,
-          "id": "tech-2",
-          "category": "เลี้ยงบอล"
-        },
-        {
-          "progressPercent": 62,
-          "status": "needs_focus",
-          "recommendedDrill": "200 Reps Left-foot Target Net Practice weekly",
-          "category": "ยิงประตู",
-          "id": "tech-3",
-          "skillName": "การยิงด้วยเท้าซ้าย (Weak Foot Accuracy)",
-          "targetRating": 68,
-          "currentRating": 58
-        }
-      ],
-      "longTermObjective": "ก้าวขึ้นเป็นกองหน้าตัวหลักของสโมสรและติดทีมชาติไทยรุ่นอายุไม่เกิน 23 ปี ภายในฤดูกาล 2027",
-      "shortTermObjective": "พัฒนาความเฉียบคมในการยิงจังหวะแรก (First-time Finishing) และการตัดสินใจในกรอบ 18 หลา เพื่อยกระดับจากการเป็นสำรองลงมาเปลี่ยนเกมสู่การลุ้นตำแหน่งตัวจริงในเลก 2"
+      "topic": "โอกาสในการลงสนามและเป้าหมายการยิงประตูในลีก"
     },
     {
-      "reviewDate": "2026-09-30",
-      "tacticalMentalGoals": [
+      "moraleImpact": "เพิ่มขึ้น (+10)",
+      "keyDiscussionNotes": "นักเตะขอคำปรึกษาเนื่องจากคู่แข่งเริ่มจับทางจังหวะเปิดบอลเลียบเส้นได้ จึงขอปรับบทบาทให้หุบเข้ากลางเพื่อยิงด้วยเท้าขวาและประสานงานกับแบ็กซ้าย",
+      "id": "meet-2",
+      "topic": "การปรับบทบาทแทคติกเกมรุก (Inverted Winger & Free Roam)",
+      "topicCategory": "บทบาทแทคติก",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "followUpDate": "2026-09-18",
+      "managerNotes": "เห็นชอบในการให้ความยืดหยุ่นในแดนสุดท้าย โดยประสานงานกับโค้ชฝ่ายแทคติกให้ปรับแผนการเติมเกมของแบ็กซ้าย",
+      "ratingScale": 4,
+      "date": "2026-09-10",
+      "actionItemsList": [
         {
-          "status": "on_track",
-          "id": "tac-3",
-          "description": "เงยหน้ามองตำแหน่งของ Lucas Silva ในกรอบเขตโทษ หากมุมยิงเหลือน้อยกว่า 30 องศาให้จ่าย Cutback",
-          "progressPercent": 80,
-          "topic": "การตัดสินใจระหว่างยิงเองกับจ่ายให้กองหน้า (Vision Decision)",
-          "targetBehavior": "แอสซิสต์เพิ่มขึ้นเป็น 8 ครั้งในฤดูกาลนี้"
+          "title": "ซ้อมจับบอลแรกหันหน้าเข้าหาประตูในกรอบ 18 หลา",
+          "id": "act-4",
+          "isDone": true,
+          "dueDate": "2026-09-11"
+        },
+        {
+          "isDone": false,
+          "title": "นัดติวแทคติก overlap กับ อภิสิทธิ์ วงษ์คำ (แบ็กซ้าย)",
+          "id": "act-5",
+          "dueDate": "2026-09-13"
+        },
+        {
+          "id": "act-6",
+          "isDone": false,
+          "title": "ประเมินจำนวนโอกาสยิงในเกมลีกนัดถัดไป (เป้าหมาย 3 ครั้งขึ้นไป)",
+          "dueDate": "2026-09-15"
         }
       ],
-      "id": "idp-2",
-      "overallProgress": 80,
-      "targetRole": "Inverted Winger (Inside Finisher)",
-      "weeklyLogs": [
+      "trackingOutcomeNotes": "เริ่มทดลองในมินิเกมสมอลไซด์ 7v7 การตัดเข้าในสร้างมิติใหม่และยิงประตูได้ 2 ลูก",
+      "trackingProgressPercent": 40,
+      "messages": [
         {
-          "id": "log-4",
-          "evaluatorName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์",
-          "weekNumber": 8,
-          "date": "2026-09-08",
-          "score": 8.5,
-          "status": "ahead",
-          "feedback": "ฟอร์มการเล่นโดดเด่นมาก ได้ 1 ประตู 1 แอสซิสต์ในเกมล่าสุด การปั่นโค้งเสาไกลทำได้อย่างมั่นใจ",
-          "evaluatorRole": "ผู้ช่วยผู้ฝึกสอนคนที่ 1"
+          "text": "สวัสดีครับโค้ช ช่วงนี้ผมรู้สึกว่าเกมรับคู่แข่งดักทางเปิดบอลของผมได้ ผมอยากขอลองหุบเข้าในไปยิงด้วยเท้าขวาบ่อยขึ้นครับ",
+          "sender": "player",
+          "timestamp": "14:30 น."
         }
       ],
-      "longTermObjective": "พัฒนาสู่การเป็นหนึ่งในปีกที่อันตรายที่สุดในไทยลีก 3 และมีมูลค่าประเมินเกิน 3 ล้านบาท",
-      "physicalGoals": [
-        {
-          "progressPercent": 80,
-          "focusArea": "Aerobic Interval Training 4x4 min",
-          "targetValue": "วิ่งระยะ High-speed เกิน 1,000 เมตร/แมตช์",
-          "status": "on_track",
-          "attributeName": "ความทนทานช่วง 15 นาทีสุดท้าย (Match Stamina)",
-          "currentValue": "วิ่งระยะ High-speed เฉลี่ย 820 เมตร",
-          "id": "phys-3"
-        }
-      ],
+      "trackingStatus": "pending",
       "playerId": "p2",
-      "assignedCoachId": "staff-2",
-      "targetRoleThai": "ปีกตัดเข้าในทำประตู (Inverted Winger)",
-      "shortTermObjective": "ยกระดับการเลี้ยงตัดเข้าในเพื่อยิงไกลด้วยเท้าขวา (Curled Long Shots) และสร้างตัวเลขทำประตูเกิน 8 ประตูในลีก",
-      "startedDate": "2026-06-15",
-      "status": "active",
-      "technicalGoals": [
-        {
-          "currentRating": 72,
-          "targetRating": 78,
-          "progressPercent": 85,
-          "recommendedDrill": "Edge of the Box Curler Drill & Cut-inside Shooting",
-          "id": "tech-4",
-          "skillName": "การยิงปั่นโค้งเสาไกล (Finesse Curve Shot)",
-          "status": "ahead",
-          "category": "ยิงประตู"
-        },
-        {
-          "category": "ส่งบอล",
-          "status": "on_track",
-          "id": "tech-5",
-          "progressPercent": 76,
-          "targetRating": 74,
-          "currentRating": 68,
-          "recommendedDrill": "Low Whipped Crosses to the Penalty Spot",
-          "skillName": "การเปิดบอลเลียดจากพื้นที่ฮาล์ฟสเปซ (Cutback Delivery)"
-        }
-      ],
-      "assignedCoachName": "โค้ชพิเชษฐ์ ดำรงค์ศักดิ์"
+      "status": "pending"
     },
     {
-      "targetRole": "Ball-Playing Center Back",
-      "longTermObjective": "ก้าวขึ้นเป็นเซ็นเตอร์แบ็กตัวจริงถาวรคู่กับ ฐิติพันธ์ หรือ อิบราฮิม โกเน่",
-      "startedDate": "2026-07-15",
-      "weeklyLogs": [
+      "ratingScale": 5,
+      "actionItemsList": [
         {
-          "score": 7,
-          "status": "on_track",
-          "evaluatorRole": "หัวหน้านักกายภาพบำบัด",
-          "id": "log-5",
-          "date": "2026-09-05",
-          "feedback": "กล้ามเนื้อแฮมสตริงฟื้นตัวสู่ระดับเกือบสมบูรณ์แล้ว ผ่านการทดสอบวิ่งสปรินต์ 85% โดยไม่มีอาการกระตุก",
-          "evaluatorName": "กภ. ธนกฤต มั่งมีทรัพย์",
-          "weekNumber": 7
-        }
-      ],
-      "technicalGoals": [
-        {
-          "targetRating": 70,
-          "recommendedDrill": "Pressure Passing Channels & Diagonals to Wingers",
-          "id": "tech-6",
-          "skillName": "การจ่ายบอลทะลุช่องแดนกลาง (Line-breaking Passing)",
-          "progressPercent": 65,
-          "status": "on_track",
-          "category": "ส่งบอล",
-          "currentRating": 62
+          "id": "act-7",
+          "title": "รักษาความนิ่งและไม่ตอบโต้การยั่วยุของกองหลังคู่แข่ง",
+          "isDone": true,
+          "dueDate": "2026-09-14"
         },
         {
-          "status": "on_track",
-          "recommendedDrill": "Heading Under Pressure & Aerial Clearance Trajectory",
-          "skillName": "การชิงโหม่งเคลียร์บอลจังหวะเปิด (Aerial Duel Clearance)",
-          "id": "tech-7",
-          "currentRating": 69,
-          "category": "เกมรับ",
-          "targetRating": 76,
-          "progressPercent": 72
+          "id": "act-8",
+          "dueDate": "2026-09-12",
+          "title": "ซ้อมลูกตั้งเตะและโหม่งทำประตูกับโค้ชเซ็ตพีซ",
+          "isDone": true
         }
       ],
-      "targetRoleThai": "ปราการหลังตัวเปิดเกม (Ball-Playing Defender)",
-      "assignedCoachId": "staff-1",
-      "reviewDate": "2026-10-15",
-      "tacticalMentalGoals": [
+      "id": "meet-3",
+      "status": "completed",
+      "keyDiscussionNotes": "พูดคุยกระตุ้นความเป็นผู้นำในฐานะกองหน้าตัวเป้าประสบการณ์สูงของทีม ย้ำเตือนเรื่องการควบคุมอารมณ์เมื่อโดนเซ็นเตอร์แบ็กคู่แข่งประกบติดและเข้าปะทะหนัก",
+      "trackingStatus": "in_progress",
+      "trackingProgressPercent": 80,
+      "managerNotes": "นักเตะมีความมุ่งมั่นสูงมาก สภาพร่างกายฟิตสมบูรณ์พร้อมเป็นหัวหอกตัวจริง",
+      "followUpDate": "2026-09-14",
+      "trackingOutcomeNotes": "นักเตะตอบรับอย่างมืออาชีพ รับปากว่าจะโฟกัสกับการเก็บบอลและสร้างจังหวะให้เพื่อนร่วมทีม",
+      "date": "2026-09-11",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "playerId": "p1",
+      "messages": [
         {
-          "status": "on_track",
-          "id": "tac-4",
-          "progressPercent": 68,
-          "description": "สื่อสารเสียงดังกับแบ็กซ้าย-ขวา ไม่หลุดต่ำกว่าแนวเกิน 1 ก้าว",
-          "targetBehavior": "ดักล้ำหน้าคู่แข่งสำเร็จเฉลี่ย 3 ครั้งต่อเกม",
-          "topic": "การสั่งการและรักษาแนวดักล้ำหน้า (Offside Line Command)"
+          "sender": "player",
+          "timestamp": "09:00 น.",
+          "text": "Boss, I am ready for Sunday match against North Bangkok. We must take all 3 points and stay top of the table!"
         }
       ],
-      "shortTermObjective": "ปรับปรุงทักษะการจ่ายบอลตัดไลน์ (Line-breaking passes) และการป้องกันการโดนสวนกลับด้านหลัง",
-      "assignedCoachName": "โค้ชเอกภพ ศรีวิชัย",
-      "physicalGoals": [
-        {
-          "targetValue": "ความยืดหยุ่นมากกว่า 95 องศา",
-          "status": "needs_focus",
-          "attributeName": "การฟื้นฟูกล้ามเนื้อแฮมสตริง & ความยืดหยุ่นสะโพก",
-          "focusArea": "Nordic Hamstring Curls & Dynamic Hip Mobility กับ กภ. ธนกฤต",
-          "currentValue": "ความยืดหยุ่น Hip Flexor 78 องศา",
-          "progressPercent": 60,
-          "id": "phys-4"
-        }
-      ],
-      "id": "idp-3",
-      "overallProgress": 65,
-      "playerId": "p14",
-      "status": "active"
-    },
-    {
-      "tacticalMentalGoals": [
-        {
-          "status": "ahead",
-          "progressPercent": 92,
-          "targetBehavior": "ไม่เกิดจังหวะชนกันเองระหว่างประตูกับกองหลัง 100%",
-          "description": "ออกคำสั่ง \"ปล่อย\" หรือ \"เคลียร์\" ชัดเจนก่อนลูกบอลถึงตัวอย่างน้อย 1 วินาที",
-          "id": "tac-5",
-          "topic": "การสั่งการแผงแบ็กโฟร์ด้วยเสียงดังเด็ดขาด (Penalty Box Leadership)"
-        }
-      ],
-      "reviewDate": "2026-09-20",
-      "startedDate": "2026-06-01",
-      "playerId": "p11",
-      "weeklyLogs": [
-        {
-          "evaluatorName": "โค้ชสุริยา แสงแก้ว",
-          "status": "ahead",
-          "id": "log-6",
-          "date": "2026-09-09",
-          "weekNumber": 8,
-          "feedback": "เซฟจังหวะสำคัญช่วยทีมเก็บคลีนชีตในนัดที่ผ่านมา การออกบอลเร็วให้ปีกเปิดเกมรุกทำได้เฉียบคมมาก",
-          "score": 9.5,
-          "evaluatorRole": "หัวหน้าโค้ชผู้รักษาประตู"
-        }
-      ],
-      "assignedCoachId": "staff-3",
-      "assignedCoachName": "โค้ชสุริยา แสงแก้ว",
-      "targetRole": "Sweeper Keeper (Commanding Stopper)",
-      "physicalGoals": [
-        {
-          "attributeName": "พลังสปริงข้อเท้ากระโดดปัดบอล (Vertical Jump Reach)",
-          "targetValue": "แตะความสูง 3.25 เมตร",
-          "currentValue": "แตะความสูง 3.18 เมตร",
-          "progressPercent": 88,
-          "status": "ahead",
-          "focusArea": "Depth Jumps & Core Explosiveness",
-          "id": "phys-5"
-        }
-      ],
-      "status": "active",
-      "id": "idp-4",
-      "targetRoleThai": "ผู้รักษาประตูสมัยใหม่ออกบอลเร็ว (Sweeper Keeper)",
-      "shortTermObjective": "เพิ่มความแม่นยำในการเตะบอลยาวเปลี่ยนแกน (Side Volley Distribution) และลดจังหวะเสียประตูจากลูกเตะมุม",
-      "longTermObjective": "รักษาสถิติคลีนชีตอันดับ 1 ของไทยลีก 3 โซนกรุงเทพฯ ให้ครบ 12 นัดในฤดูกาลนี้",
-      "technicalGoals": [
-        {
-          "skillName": "การเปิดบอลยาวด้วยเท้า (Long Kick Distribution)",
-          "recommendedDrill": "Target Barrel Kicking & Rapid Counter Distribution",
-          "currentRating": 68,
-          "category": "ผู้รักษาประตู",
-          "targetRating": 75,
-          "status": "ahead",
-          "id": "tech-8",
-          "progressPercent": 90
-        },
-        {
-          "currentRating": 66,
-          "progressPercent": 86,
-          "recommendedDrill": "Through-ball anticipation & 1-on-1 closing angles",
-          "status": "on_track",
-          "category": "ผู้รักษาประตู",
-          "targetRating": 72,
-          "skillName": "การอ่านจังหวะออกมาตัดบอลนอกกรอบ (Sweeper Rushing Out)",
-          "id": "tech-9"
-        }
-      ],
-      "overallProgress": 88
+      "topicCategory": "สภาพจิตใจและวินัย",
+      "topic": "การนำทีมสู้ศึกชิงจ่าฝูงและการเป็นผู้นำแดนหน้า (Big Match Mindset)",
+      "moraleImpact": "เพิ่มขึ้นมาก (+15)"
     }
   ],
+  "playerIDPs": [],
+  "disciplinaryCards": [
+    {
+      "id": "card-1",
+      "competition": "ไทยลีก 3",
+      "cardType": "yellow",
+      "playerPosition": "CDM",
+      "foulReason": "ตัดฟาวล์ทางยุทธวิธีกลางสนามเพื่อหยุดเกมสวนกลับ",
+      "date": "2026-02-21",
+      "refereeName": "มงคลชัย เพชรศรี",
+      "playerNumber": 6,
+      "playerName": "Tanapat Chaowat (ธนภัทร เชาวน์วัฒน์)",
+      "minute": 74,
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "matchday": 18,
+      "playerId": "p4"
+    },
+    {
+      "foulReason": "เข้าสกัดช้าบริเวณริมเส้นฝั่งขวา",
+      "playerId": "p3",
+      "matchday": 18,
+      "competition": "ไทยลีก 3",
+      "playerPosition": "CB",
+      "date": "2026-02-21",
+      "cardType": "yellow",
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "minute": 88,
+      "id": "card-2",
+      "playerNumber": 4,
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "refereeName": "มงคลชัย เพชรศรี"
+    },
+    {
+      "playerPosition": "RB",
+      "refereeName": "ศิวกร ภูอุดม",
+      "id": "card-3",
+      "cardType": "yellow",
+      "foulReason": "ดึงเสื้อคู่แข่งในจังหวะกระชากหลบ",
+      "playerName": "Kritpong Somchai (กฤตพงศ์ สมชาย)",
+      "competition": "ไทยลีก 3",
+      "date": "2026-02-14",
+      "matchday": 17,
+      "playerId": "p5",
+      "minute": 62,
+      "matchTitle": "พราม แบงค็อก 1 - 3 บางกะปิ เอฟซี",
+      "playerNumber": 2
+    },
+    {
+      "cardType": "yellow",
+      "foulReason": "เสียบสกัดเปิดปุ่มเสี่ยงอันตราย",
+      "playerPosition": "CB",
+      "competition": "ไทยลีก 3",
+      "matchday": 16,
+      "playerId": "p3",
+      "playerNumber": 4,
+      "id": "card-4",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "refereeName": "วิวรรธน์ จำปาอ่อน",
+      "date": "2026-02-07",
+      "minute": 33,
+      "matchTitle": "บางกะปิ เอฟซี 1 - 0 โบลาเวน สมุทรปราการ"
+    },
+    {
+      "playerNumber": 4,
+      "competition": "ไทยลีก 3",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "playerId": "p3",
+      "matchday": 14,
+      "matchTitle": "ธนบุรี ยูไนเต็ด 0 - 2 บางกะปิ เอฟซี",
+      "id": "card-5",
+      "date": "2026-01-24",
+      "minute": 41,
+      "refereeName": "ชัยฤกษ์ งามสม",
+      "foulReason": "ชนกระแทกทางด้านหลังในจังหวะแย่งโหม่ง",
+      "playerPosition": "CB",
+      "cardType": "yellow"
+    },
+    {
+      "competition": "ไทยลีก 3",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "id": "card-6",
+      "playerPosition": "CB",
+      "matchTitle": "บางกะปิ เอฟซี 4 - 0 ทหารอากาศ เอฟซี",
+      "date": "2026-01-10",
+      "playerId": "p3",
+      "matchday": 12,
+      "cardType": "yellow",
+      "refereeName": "สงกรานต์ บุญมีเกียรติ",
+      "minute": 82,
+      "playerNumber": 4,
+      "foulReason": "เตะบอลทิ้งหลังผู้ตัดสินเป่าฟาวล์ (ถ่วงเวลา)"
+    },
+    {
+      "minute": 89,
+      "playerNumber": 11,
+      "refereeName": "มงคลชัย เพชรศรี",
+      "matchday": 18,
+      "playerId": "p8",
+      "foulReason": "ใบแดงโดยตรง: เจตนาย่ำข้อเท้าคู่แข่งนอกเกมหลังมีปากเสียง",
+      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
+      "competition": "ไทยลีก 3",
+      "matchTitle": "บางกะปิ เอฟซี 2 - 1 ม.เกษมบัณฑิต",
+      "date": "2026-02-21",
+      "playerPosition": "RW",
+      "cardType": "red",
+      "id": "card-7"
+    }
+  ],
+  "suspensions": [
+    {
+      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก",
+      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
+      "remainingMatches": 0,
+      "status": "appealed",
+      "matchesServed": 1,
+      "playerPosition": "ST",
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน)"
+      ],
+      "id": "susp-1789322096586",
+      "playerId": "p1",
+      "playerNumber": 10,
+      "effectiveDate": "2026-09-13",
+      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในวันแข่งขัน [อุทธรณ์ผ่าน / สโมสรล้างโทษแบน]",
+      "competition": "ไทยลีก 3",
+      "playerName": "Lucas Silva (ลูคัส ซิลวา)",
+      "totalMatchesBanned": 1,
+      "suspensionType": "yellow_accumulation"
+    },
+    {
+      "playerNumber": 4,
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569"
+      ],
+      "effectiveDate": "2026-02-28",
+      "playerId": "p3",
+      "competition": "ไทยลีก 3",
+      "sanctionSource": "ระเบียบการแข่งขันไทยลีก",
+      "remainingMatches": 0,
+      "playerPosition": "CB",
+      "status": "served",
+      "notes": "ห้ามส่งชื่อลงเล่นเป็น 11 ตัวจริงหรือตัวสำรองในเกมลีกนัดที่ 19",
+      "id": "susp-1",
+      "reason": "สะสมใบเหลืองครบ 4 ใบในลีก (นัดที่ 12, 14, 16, 18)",
+      "matchesServed": 1,
+      "suspensionType": "yellow_accumulation",
+      "playerName": "Chaiwat Boonkoed (ชัยวัฒน์ บุญเกิด)",
+      "totalMatchesBanned": 1
+    },
+    {
+      "playerNumber": 11,
+      "reason": "ใบแดงโดยตรง นัดที่ 18 พบ ม.เกษมบัณฑิต (เจตนาย่ำข้อเท้าคู่แข่ง)",
+      "id": "susp-2",
+      "suspensionMatches": [
+        "นัดที่ 19 พบ สมุทรสาคร ซิตี้ (เยือน) - 28 ก.พ. 2569",
+        "นัดที่ 20 พบ ทหารอากาศ เอฟซี (เหย้า) - 8 มี.ค. 2569"
+      ],
+      "status": "served",
+      "matchesServed": 2,
+      "suspensionType": "direct_red",
+      "playerId": "p8",
+      "playerName": "Akaradech Saengchan (อัครเดช แสงจันทร์)",
+      "playerPosition": "RW",
+      "competition": "ไทยลีก 3",
+      "remainingMatches": 0,
+      "sanctionSource": "คณะกรรมการพิจารณาวินัย สมาคมฯ",
+      "totalMatchesBanned": 2,
+      "effectiveDate": "2026-02-28",
+      "notes": "โทษแบน 2 นัด พร้อมปรับเงินตามระเบียบวินัยไทยลีก"
+    }
+  ],
+  "scoutingReports": [],
+  "postMatchReviews": [],
+  "clubInfo": {
+    "contactEmail": "contact@bangkapifc.com",
+    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
+    "facebookPage": "facebook.com/BangkapiFCOfficial",
+    "nameEn": "Bangkapi Football Club",
+    "stadiumCapacity": 5000,
+    "foundedYear": 2018,
+    "division": "ไทยลีก 3 (T3)",
+    "boardExpectation": "เลื่อนชั้นสู่ไทยลีก 2 และคว้าแชมป์โซนกรุงเทพฯ",
+    "logoPreset": "eagle_gold",
+    "headCoach": "โค้ชเอกภพ ศรีวิชัย",
+    "primaryColor": "#f59e0b",
+    "secondaryColor": "#0f172a",
+    "logoUrl": "",
+    "shortName": "BKFC",
+    "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
+    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
+    "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
+    "slogan": "พลังแห่งบางกะปิ รวมใจเป็นหนึ่งสู่ชัยชนะ",
+    "budgetThb": 8500000,
+    "president": "คุณศุภชัย กิจเจริญไพศาล",
+    "contactPhone": "02-310-8000",
+    "currentRanking": "จ่าฝูง (อันดับ 1)"
+  },
+  "clubGoals": [],
   "leagueStandings": [],
   "leagueFixtures": [],
   "leagueDetails": {
@@ -1767,9 +1044,6 @@
       "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี"
     }
   ],
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)",
   "nextMatchInfo": {
     "date": "เสาร์ 19 ก.ย. 2026",
     "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
@@ -1796,5 +1070,9 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": []
+  "annualPerformanceRecords": [],
+  "lastUpdated": "2026-09-24T13:27:44.742Z",
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)"
 }
