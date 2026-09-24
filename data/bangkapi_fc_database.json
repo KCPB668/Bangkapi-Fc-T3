@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-24T12:34:42.783Z",
+    "exportedAt": "2026-09-24T12:34:46.130Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -1769,8 +1769,8 @@
   "nextMatchInfo": {
     "date": "เสาร์ 19 ก.ย. 2026",
     "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
-    "venue": "สนามกีฬามหาวิทยาลยรามคำแหง",
-    "time": "15:30 น.",
+    "venue": "สนามกีฬาเคหะคลองจั่น (บางกะปิ สเตเดียม)",
+    "time": "15:00 น.",
     "isBangkapiHome": true,
     "awayForm": "W",
     "matchday": 1,
@@ -1793,7 +1793,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-24T12:34:41.388Z",
+  "lastUpdated": "2026-09-24T12:34:43.875Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
