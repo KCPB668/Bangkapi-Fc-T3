@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-25T00:50:18.528Z",
+    "exportedAt": "2026-09-25T00:50:28.813Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -45,7 +45,7 @@
       },
       "sharpness": 80,
       "fitness": 90,
-      "morale": "มีความสุข",
+      "morale": "ดีเยี่ยม",
       "wageWeeklyThb": 20000,
       "marketValueThb": 1000000,
       "contractUntilYear": 2027,
@@ -751,16 +751,27 @@
       "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
       "keyDiscussionNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
       "managerNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
-      "trackingStatus": "in_progress",
-      "trackingProgressPercent": 25,
-      "status": "pending",
+      "trackingStatus": "completed",
+      "trackingProgressPercent": 100,
+      "status": "completed",
       "messages": [
         {
           "sender": "player",
           "text": "สวัสดีครับโค้ช ผมอยากปรึกษาเรื่อง \"สภาพจิตใจและการฟื้นฟู\" ครับ",
           "timestamp": "10:00 น."
+        },
+        {
+          "sender": "manager",
+          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
+          "timestamp": "เมื่อสักครู่"
+        },
+        {
+          "sender": "player",
+          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
+          "timestamp": "เมื่อสักครู่"
         }
-      ]
+      ],
+      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5"
     },
     {
       "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
@@ -1168,7 +1179,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-25T00:50:15.030Z",
+  "lastUpdated": "2026-09-25T00:50:27.815Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
