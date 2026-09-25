@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-25T00:49:20.376Z",
+    "exportedAt": "2026-09-25T00:50:14.962Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -743,6 +743,26 @@
   ],
   "oneOnOneMeetings": [
     {
+      "id": "mtg-1790297414018",
+      "playerId": "p-1790297356232",
+      "date": "2026-09-25",
+      "topic": "สภาพจิตใจและการฟื้นฟู",
+      "topicCategory": "โอกาสลงสนาม",
+      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
+      "keyDiscussionNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
+      "managerNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
+      "trackingStatus": "in_progress",
+      "trackingProgressPercent": 25,
+      "status": "pending",
+      "messages": [
+        {
+          "sender": "player",
+          "text": "สวัสดีครับโค้ช ผมอยากปรึกษาเรื่อง \"สภาพจิตใจและการฟื้นฟู\" ครับ",
+          "timestamp": "10:00 น."
+        }
+      ]
+    },
+    {
       "managerNotes": "ดาวรุ่งไฟแรง มีทัศนคติดีมาก มีโอกาสได้รับโอกาสสตาร์ตตัวจริงในเกมสุดสัปดาห์นี้",
       "followUpDate": "2026-09-15",
       "trackingProgressPercent": 100,
@@ -1148,7 +1168,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-25T00:49:17.251Z",
+  "lastUpdated": "2026-09-25T00:50:14.020Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
