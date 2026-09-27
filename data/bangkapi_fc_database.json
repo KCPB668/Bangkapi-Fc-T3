@@ -1,14 +1,14 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-27T19:11:58.064Z",
-    "author": "โค้ช / แอดมินสโมสร",
+    "exportedAt": "2026-09-27T19:42:24.013Z",
+    "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
     "matchCount": 0,
-    "trainingsCount": 2,
+    "trainingsCount": 0,
     "goalsCount": 0,
     "annualRecordsCount": 0
   },
@@ -124,233 +124,7 @@
     }
   ],
   "matches": [],
-  "trainings": [
-    {
-      "attendance": [
-        {
-          "note": "ยิงคมมาก เข้าฮอสได้ 6 ลูก",
-          "sharpnessGain": 4,
-          "playerId": "p1",
-          "grade": "A+",
-          "status": "present"
-        },
-        {
-          "note": "สปีดริมเส้นยอดเยี่ยม",
-          "grade": "A",
-          "sharpnessGain": 4,
-          "status": "present",
-          "playerId": "p2"
-        },
-        {
-          "note": "เปิดบอลแม่นยำ",
-          "grade": "A",
-          "status": "present",
-          "playerId": "p3",
-          "sharpnessGain": 3
-        },
-        {
-          "grade": "A+",
-          "note": "จ่ายบอลทะลุช่องสมบูรณ์แบบ",
-          "status": "present",
-          "sharpnessGain": 5,
-          "playerId": "p4"
-        },
-        {
-          "sharpnessGain": 4,
-          "playerId": "p5",
-          "note": "เข้าปะทะหนักแน่น ป้องกันสวนกลับ",
-          "grade": "A",
-          "status": "present"
-        },
-        {
-          "status": "late",
-          "grade": "B",
-          "note": "มาสาย 10 นาทีเพราะติดภารกิจเดินทาง",
-          "playerId": "p6",
-          "sharpnessGain": 2
-        },
-        {
-          "playerId": "p7",
-          "grade": "A",
-          "sharpnessGain": 4,
-          "status": "present",
-          "note": "วิ่งโอเวอร์แล็ปตลอด 90 นาที"
-        },
-        {
-          "note": "สั่งการแนวรับยอดเยี่ยม",
-          "playerId": "p8",
-          "grade": "A",
-          "sharpnessGain": 3,
-          "status": "present"
-        },
-        {
-          "sharpnessGain": 0,
-          "grade": "-",
-          "status": "injured",
-          "playerId": "p9",
-          "note": "ฟื้นฟูอาการเจ็บข้อเท้าที่ห้องพยาบาล"
-        },
-        {
-          "playerId": "p10",
-          "status": "present",
-          "note": "เติมเกมบุกดี",
-          "grade": "A",
-          "sharpnessGain": 3
-        },
-        {
-          "grade": "A+",
-          "sharpnessGain": 5,
-          "playerId": "p11",
-          "status": "present",
-          "note": "เซฟจังหวะหลุดเดี่ยว 4 ครั้ง"
-        },
-        {
-          "sharpnessGain": 3,
-          "playerId": "p12",
-          "note": "พักบอลในกรอบได้เปรียบ",
-          "grade": "A",
-          "status": "present"
-        },
-        {
-          "status": "present",
-          "grade": "B",
-          "note": "พยายามเลี้ยงมากเกินไป ควรปล่อยบอลง่ายขึ้น",
-          "playerId": "p13",
-          "sharpnessGain": 2
-        },
-        {
-          "status": "injured",
-          "grade": "-",
-          "playerId": "p14",
-          "note": "พักฟื้นกล้ามเนื้อต้นขาฉีก",
-          "sharpnessGain": 0
-        },
-        {
-          "sharpnessGain": 4,
-          "grade": "A",
-          "playerId": "p15",
-          "status": "present",
-          "note": "เรียนรู้การออกบอลเร็ว"
-        }
-      ],
-      "drillName": "Bangkapi Overlap Wing & Box Overload Drill",
-      "id": "ts-today",
-      "intensity": "หนักหน่วง",
-      "venue": "สนามซ้อมศูนย์กีฬาการเคหะคลองจั่น บางกะปิ",
-      "coachInCharge": "โค้ชมานพ สุวรรณโชติ (หัวหน้าผู้ฝึกสอน)",
-      "date": "2026-09-11",
-      "title": "การเตรียมแทคติกเข้าทำริมเส้น และเซ็ตพีซก่อนแมตช์ใหญ่",
-      "completed": false,
-      "time": "16:30 - 18:30 น.",
-      "tacticalNotes": "เน้นให้แบ็กสองข้างโอเวอร์แล็ปขึ้นสุดเส้นหลัง จ่ายบอลเลียดตัดเข้ากลางให้ ST และ CAM สอดเข้ายิง",
-      "focusCategory": "แทคติกและการยืนตำแหน่ง"
-    },
-    {
-      "intensity": "หนักหน่วง",
-      "attendance": [
-        {
-          "grade": "A",
-          "status": "present",
-          "note": "ผ่านการทดสอบสปรินต์ระดับท็อป",
-          "playerId": "p1"
-        },
-        {
-          "grade": "A+",
-          "status": "present",
-          "note": "ทำความเร็วสูงสุด 34.2 km/h",
-          "playerId": "p2"
-        },
-        {
-          "grade": "A",
-          "note": "พลังกล้ามเนื้อขาพัฒนาขึ้น",
-          "status": "present",
-          "playerId": "p3"
-        },
-        {
-          "status": "present",
-          "note": "ความฟิตคงที่",
-          "grade": "A",
-          "playerId": "p4"
-        },
-        {
-          "playerId": "p5",
-          "status": "present",
-          "grade": "A+",
-          "note": "ยกน้ำหนักสควอทได้สูงสุดในทีม"
-        },
-        {
-          "grade": "B",
-          "playerId": "p6",
-          "status": "present",
-          "note": "เหนื่อยล้าช่วง 20 นาทีสุดท้าย"
-        },
-        {
-          "grade": "A",
-          "status": "present",
-          "playerId": "p7",
-          "note": "ความอึดดีเยี่ยม"
-        },
-        {
-          "note": "เน้นบำรุงกล้ามเนื้อหลัง",
-          "grade": "B",
-          "playerId": "p8",
-          "status": "present"
-        },
-        {
-          "playerId": "p9",
-          "grade": "-",
-          "note": "เข้าโปรแกรมกายภาพในสระน้ำ",
-          "status": "injured"
-        },
-        {
-          "note": "สปรินต์ได้ตามเป้า",
-          "status": "present",
-          "playerId": "p10",
-          "grade": "A"
-        },
-        {
-          "note": "กระโดดยกตัวว่องไว",
-          "playerId": "p11",
-          "grade": "A",
-          "status": "present"
-        },
-        {
-          "grade": "B",
-          "playerId": "p12",
-          "status": "present",
-          "note": "ต้องลด % ไขมันอีกเล็กน้อย"
-        },
-        {
-          "playerId": "p13",
-          "grade": "A",
-          "note": "ความคล่องตัวสูง",
-          "status": "present"
-        },
-        {
-          "note": "ทำเลเซอร์ลดอักเสบ",
-          "playerId": "p14",
-          "grade": "-",
-          "status": "injured"
-        },
-        {
-          "playerId": "p15",
-          "status": "present",
-          "grade": "A",
-          "note": "ฟิตเนสเต็มร้อย"
-        }
-      ],
-      "date": "2026-09-10",
-      "venue": "ศูนย์ฟิตเนสสโมสรบางกะปิ เอฟซี",
-      "time": "08:30 - 11:00 น.",
-      "drillName": "Explosive Sprints & Strength Circuit",
-      "id": "ts-yesterday",
-      "tacticalNotes": "ยกระดับ VO2 Max และสปีดระยะสั้น 30 เมตร พร้อมเวทเทรนนิ่งแกนกลางลำตัว",
-      "coachInCharge": "โค้ชฟิตเนส มาร์กอส วาเลนติน",
-      "focusCategory": "ฟิตเนสและความแข็งแกร่ง",
-      "title": "ฟิตเนสเพิ่มความแกร่งและพลังระเบิด (High-Intensity Interval)",
-      "completed": true
-    }
-  ],
+  "trainings": [],
   "injuries": [],
   "tactics": {
     "substitutePlayerIds": [
@@ -741,5 +515,15 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": []
+  "annualPerformanceRecords": [],
+  "pausedTabs": [
+    "tactics"
+  ],
+  "tabPauseReasons": {
+    "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
+  },
+  "lastUpdated": "2026-09-27T19:42:22.329Z",
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)"
 }
