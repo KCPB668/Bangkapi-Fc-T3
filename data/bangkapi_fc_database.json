@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-27T19:11:26.895Z",
+    "exportedAt": "2026-09-27T19:11:29.759Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -451,17 +451,6 @@
     "teamWidth": 65
   },
   "calendarEvents": [
-    {
-      "location": "สนามซ้อมเคหะคลองจั่น",
-      "title": "ซ้อมแทคติกเกมรับลูกตั้งเตะ & Transition ด่วน",
-      "id": "cal-pre-2",
-      "type": "training",
-      "description": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
-      "notes": "เน้นการประกบตัว Zone Marking และการสวนกลับเร็ว",
-      "date": "2026-09-04",
-      "venue": "สนามซ้อมเคหะคลองจั่น",
-      "time": "17:00 น."
-    },
     {
       "title": "⚽ แมตช์เดย์ 21: บางกะปิ เอฟซี 3 - 0 ธนบุรี ยูไนเต็ด",
       "notes": "เก็บ 3 แต้มสำคัญ พร้อมทำสถิติคลีนชีตนัดที่ 18 ของฤดูกาล",
@@ -967,7 +956,7 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-27T19:11:25.061Z",
+  "lastUpdated": "2026-09-27T19:11:28.326Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
