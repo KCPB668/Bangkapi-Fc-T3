@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-09-27T19:11:44.891Z",
-    "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "exportedAt": "2026-09-27T19:11:58.064Z",
+    "author": "โค้ช / แอดมินสโมสร",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -741,9 +741,5 @@
     "homeForm": "L",
     "homeTeam": "บางกะปิ เอฟซี"
   },
-  "annualPerformanceRecords": [],
-  "lastUpdated": "2026-09-27T19:11:42.415Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  "annualPerformanceRecords": []
 }
