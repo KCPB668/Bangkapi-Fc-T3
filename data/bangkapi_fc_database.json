@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T17:28:22.284Z",
+    "exportedAt": "2026-10-02T17:29:21.849Z",
     "author": "มาคัส (PLAYER)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -1033,7 +1033,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T17:28:20.818Z",
+  "lastUpdated": "2026-10-02T17:29:20.456Z",
   "updatedByName": "มาคัส",
   "updatedByRole": "player",
   "deviceLabel": "แท็บเล็ต (iPad)"
