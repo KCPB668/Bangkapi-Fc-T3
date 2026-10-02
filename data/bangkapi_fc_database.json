@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T15:46:30.585Z",
+    "exportedAt": "2026-10-02T15:46:34.509Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -233,39 +233,7 @@
     "teamWidth": 65
   },
   "calendarEvents": [],
-  "oneOnOneMeetings": [
-    {
-      "id": "mtg-1790297414018",
-      "playerId": "p-1790297356232",
-      "date": "2026-09-25",
-      "topic": "สภาพจิตใจและการฟื้นฟู",
-      "topicCategory": "โอกาสลงสนาม",
-      "conductorCoachName": "โค้ชเอกภพ ศรีวิชัย (หัวหน้าผู้ฝึกสอน)",
-      "keyDiscussionNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
-      "managerNotes": "เป้าหมาย ปัญหา ความเหนื่อย ความเครียด ",
-      "trackingStatus": "completed",
-      "trackingProgressPercent": 100,
-      "status": "completed",
-      "messages": [
-        {
-          "sender": "player",
-          "text": "สวัสดีครับโค้ช ผมอยากปรึกษาเรื่อง \"สภาพจิตใจและการฟื้นฟู\" ครับ",
-          "timestamp": "10:00 น."
-        },
-        {
-          "sender": "manager",
-          "text": "“ผลงานตอนซ้อมยอดเยี่ยมมาก ในแมตช์ต่อไปนายจะได้สตาร์ตตัวจริงแน่นอน”",
-          "timestamp": "เมื่อสักครู่"
-        },
-        {
-          "sender": "player",
-          "text": "นักเตะรู้สึกฮึกเหิมและมีความมั่นใจเต็มเปี่ยม!",
-          "timestamp": "เมื่อสักครู่"
-        }
-      ],
-      "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5"
-    }
-  ],
+  "oneOnOneMeetings": [],
   "playerIDPs": [],
   "disciplinaryCards": [
     {
@@ -530,7 +498,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T15:46:27.418Z",
+  "lastUpdated": "2026-10-02T15:46:33.693Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
