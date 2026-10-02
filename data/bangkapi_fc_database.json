@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T12:57:10.555Z",
+    "exportedAt": "2026-10-02T12:57:15.414Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -15,7 +15,7 @@
   "players": [
     {
       "id": "p-1790297356232",
-      "number": 18,
+      "number": 1,
       "name": "Nut GK",
       "nameThai": "นัท",
       "nationality": "Thailand",
@@ -523,7 +523,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T12:57:05.466Z",
+  "lastUpdated": "2026-10-02T12:57:14.610Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
