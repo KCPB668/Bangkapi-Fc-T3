@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T17:12:27.644Z",
+    "exportedAt": "2026-10-02T17:12:45.972Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 6,
     "staffCount": 1,
@@ -18,8 +18,8 @@
       "number": 80,
       "name": "MARCUS",
       "nameThai": "มาคัส",
-      "nationality": "Thailand",
-      "nationalityThai": "ไทย",
+      "nationality": "Canada",
+      "nationalityThai": "แคนาดา",
       "flag": "🇨🇦",
       "age": 23,
       "heightCm": 178,
@@ -934,7 +934,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T17:12:22.000Z",
+  "lastUpdated": "2026-10-02T17:12:44.390Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
