@@ -1,11 +1,11 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T15:47:51.810Z",
+    "exportedAt": "2026-10-02T15:48:23.595Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
-    "playerCount": 1,
+    "playerCount": 2,
     "staffCount": 1,
     "matchCount": 0,
     "trainingsCount": 0,
@@ -13,6 +13,82 @@
     "annualRecordsCount": 0
   },
   "players": [
+    {
+      "id": "p-1790956102218",
+      "number": 7,
+      "name": "ARM",
+      "nameThai": "อาม (กัปตัน)",
+      "nationality": "Thailand",
+      "nationalityThai": "ไทย",
+      "flag": "🇹🇭",
+      "age": 34,
+      "heightCm": 178,
+      "weightKg": 72,
+      "position": "CDM",
+      "secondaryPositions": [],
+      "overall": 68,
+      "potential": 75,
+      "cardTier": "silver",
+      "cardType": "common",
+      "foot": "ขวา",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "workRateAttack": "สูง",
+      "workRateDefense": "ปานกลาง",
+      "stats": {
+        "pace": 75,
+        "shooting": 68,
+        "passing": 66,
+        "dribbling": 70,
+        "defending": 55,
+        "physical": 68
+      },
+      "sharpness": 80,
+      "fitness": 90,
+      "morale": "มีความสุข",
+      "wageWeeklyThb": 20000,
+      "marketValueThb": 1000000,
+      "contractUntilYear": 2027,
+      "squadRole": "หมุนเวียนลงเล่น",
+      "playStyles": [
+        "Quick Step"
+      ],
+      "proficientSkills": [
+        "การเคลื่อนที่หาช่องว่าง",
+        "การเล่นบอลจังหวะเดียว"
+      ],
+      "tacticalDevelopmentSkills": [
+        "การยืนตำแหน่งและเพรสซิ่งแดนบน"
+      ],
+      "trainingBehavior": {
+        "workEthic": "ดีมาก",
+        "punctuality": "ตรงต่อเวลาสม่ำเสมอ",
+        "coachability": "เปิดรับและปรับตัวยอดเยี่ยม",
+        "description": "นักเตะใหม่มีความมุ่งมั่นในการซ้อมและเรียนรู้แทคติก"
+      },
+      "offPitchLifestyle": {
+        "nutritionSleep": "ดูแลโภชนาการและพักผ่อนดีเลิศ",
+        "socialMediaAndDiscipline": "มีวินัยสูง ไม่สร้างประเด็นโซเชียล",
+        "teamHarmony": "เข้ากับทุกคนได้ดี",
+        "description": "มีวินัยในการใช้ชีวิตนอกสนามตามระเบียบสโมสร"
+      },
+      "matchRatingHistory": [],
+      "developmentPlan": {
+        "planName": "Balanced Development",
+        "weeksRemaining": 8,
+        "growthStat": "+1 ค่าพลังรวม"
+      },
+      "seasonStats": {
+        "matchesPlayed": 0,
+        "goals": 0,
+        "assists": 0,
+        "yellowCards": 0,
+        "redCards": 0,
+        "cleanSheets": 0,
+        "avgRating": 0
+      },
+      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80"
+    },
     {
       "id": "p-1790297356232",
       "number": 1,
@@ -524,7 +600,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T15:47:46.579Z",
+  "lastUpdated": "2026-10-02T15:48:22.219Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
