@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T17:16:03.133Z",
-    "author": "กรรัย ภูบังไม้ (COACH)",
+    "exportedAt": "2026-10-02T17:16:32.640Z",
+    "author": "มาคัส (PLAYER)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 6,
@@ -1033,8 +1033,8 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T17:16:00.792Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
+  "lastUpdated": "2026-10-02T17:16:31.111Z",
+  "updatedByName": "มาคัส",
+  "updatedByRole": "player",
   "deviceLabel": "แท็บเล็ต (iPad)"
 }
