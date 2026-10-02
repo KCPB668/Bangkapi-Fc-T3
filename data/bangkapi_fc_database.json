@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T15:43:23.325Z",
+    "exportedAt": "2026-10-02T15:43:51.561Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -93,7 +93,7 @@
       "tacticalPlayingDetails": [
         {
           "title": "บิ้วอัพ - Transition",
-          "detail": "ยกระดับประสิทธิภาพการประสานงานในแผนการเล่นหลักของสโมสร"
+          "detail": "ด้านซ้ายบินและล้มช้า\nลูกสูง 70% ออกบอลเร็วและยาวได้"
         }
       ]
     }
@@ -530,7 +530,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T15:43:22.521Z",
+  "lastUpdated": "2026-10-02T15:43:50.578Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
