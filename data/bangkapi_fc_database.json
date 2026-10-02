@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T15:49:18.267Z",
+    "exportedAt": "2026-10-02T15:49:57.824Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 2,
     "staffCount": 1,
@@ -311,6 +311,30 @@
   "calendarEvents": [],
   "oneOnOneMeetings": [
     {
+      "id": "meet-manual-1790956196746",
+      "playerId": "p-1790956154299",
+      "date": "2026-10-03",
+      "topic": "ความเป็นมืออาชีพของทีมและรูปแบบการฝึกซ้อม",
+      "topicCategory": "สภาพจิตใจและวินัย",
+      "conductorCoachName": "กรรัย ภูบังไม้ (ผู้ช่วยผู้ฝึกสอน)",
+      "keyDiscussionNotes": "",
+      "managerNotes": "",
+      "trackingStatus": "in_progress",
+      "trackingProgressPercent": 0,
+      "followUpDate": "2026-10-09",
+      "moraleImpact": "เพิ่มขึ้น (+10)",
+      "ratingScale": 5,
+      "status": "pending",
+      "actionItemsList": [
+        {
+          "id": "act-1790956163681-2",
+          "title": "รักษามาตรฐานวินัยและการพักผ่อนนอกสนาม",
+          "isDone": false
+        }
+      ],
+      "updatedAt": "2026-10-02T15:49:56.746Z"
+    },
+    {
       "id": "meet-manual-1790956060990",
       "playerId": "p-1790297356232",
       "date": "2026-10-03",
@@ -600,7 +624,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T15:49:15.311Z",
+  "lastUpdated": "2026-10-02T15:49:56.747Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
