@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T12:36:25.534Z",
+    "exportedAt": "2026-10-01T10:56:41.108Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
     "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
@@ -126,106 +126,6 @@
   ],
   "matches": [],
   "trainings": [],
-  "injuries": [],
-  "tactics": {
-    "substitutePlayerIds": [
-      "p12",
-      "p13",
-      "p14",
-      "p15"
-    ],
-    "captainPlayerId": "p8",
-    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
-    "slots": [
-      {
-        "posY": 90,
-        "slotId": "slot-gk",
-        "playerId": "p11",
-        "posX": 50,
-        "label": "GK"
-      },
-      {
-        "playerId": "p7",
-        "posX": 16,
-        "slotId": "slot-lb",
-        "label": "LB",
-        "posY": 72
-      },
-      {
-        "posX": 38,
-        "label": "LCB",
-        "slotId": "slot-lcb",
-        "playerId": "p9",
-        "posY": 75
-      },
-      {
-        "posY": 75,
-        "playerId": "p8",
-        "label": "RCB",
-        "posX": 62,
-        "slotId": "slot-rcb"
-      },
-      {
-        "posX": 84,
-        "label": "RB",
-        "playerId": "p10",
-        "posY": 72,
-        "slotId": "slot-rb"
-      },
-      {
-        "posY": 58,
-        "slotId": "slot-cdm",
-        "label": "CDM",
-        "posX": 50,
-        "playerId": "p5"
-      },
-      {
-        "playerId": "p6",
-        "posY": 44,
-        "slotId": "slot-lcm",
-        "label": "LCM",
-        "posX": 34
-      },
-      {
-        "posX": 66,
-        "playerId": "p4",
-        "slotId": "slot-cam",
-        "posY": 40,
-        "label": "CAM"
-      },
-      {
-        "playerId": "p2",
-        "posX": 18,
-        "posY": 24,
-        "slotId": "slot-lw",
-        "label": "LW"
-      },
-      {
-        "posY": 18,
-        "slotId": "slot-st",
-        "playerId": "p1",
-        "posX": 50,
-        "label": "ST"
-      },
-      {
-        "posY": 24,
-        "playerId": "p3",
-        "posX": 82,
-        "slotId": "slot-rw",
-        "label": "RW"
-      }
-    ],
-    "cornerTakerPlayerId": "p2",
-    "defensiveDepth": 72,
-    "buildUpSpeed": 68,
-    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
-    "freeKickTakerPlayerId": "p4",
-    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
-    "formation": "4-3-3 Attacking",
-    "penaltyTakerPlayerId": "p1",
-    "teamWidth": 65
-  },
-  "calendarEvents": [],
   "oneOnOneMeetings": [
     {
       "id": "mtg-1790297414018",
@@ -259,7 +159,6 @@
       "outcome": "ผู้จัดการทีมให้คำชี้แนะ: ขวัญกำลังใจ +5"
     }
   ],
-  "playerIDPs": [],
   "disciplinaryCards": [
     {
       "id": "card-1",
@@ -457,6 +356,108 @@
     "currentRanking": "จ่าฝูง (อันดับ 1)"
   },
   "clubGoals": [],
+  "lastUpdated": "2026-10-02T12:36:20.811Z",
+  "injuries": [],
+  "tactics": {
+    "substitutePlayerIds": [
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "captainPlayerId": "p8",
+    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
+    "slots": [
+      {
+        "posY": 90,
+        "slotId": "slot-gk",
+        "playerId": "p11",
+        "posX": 50,
+        "label": "GK"
+      },
+      {
+        "playerId": "p7",
+        "posX": 16,
+        "slotId": "slot-lb",
+        "label": "LB",
+        "posY": 72
+      },
+      {
+        "posX": 38,
+        "label": "LCB",
+        "slotId": "slot-lcb",
+        "playerId": "p9",
+        "posY": 75
+      },
+      {
+        "posY": 75,
+        "playerId": "p8",
+        "label": "RCB",
+        "posX": 62,
+        "slotId": "slot-rcb"
+      },
+      {
+        "posX": 84,
+        "label": "RB",
+        "playerId": "p10",
+        "posY": 72,
+        "slotId": "slot-rb"
+      },
+      {
+        "posY": 58,
+        "slotId": "slot-cdm",
+        "label": "CDM",
+        "posX": 50,
+        "playerId": "p5"
+      },
+      {
+        "playerId": "p6",
+        "posY": 44,
+        "slotId": "slot-lcm",
+        "label": "LCM",
+        "posX": 34
+      },
+      {
+        "posX": 66,
+        "playerId": "p4",
+        "slotId": "slot-cam",
+        "posY": 40,
+        "label": "CAM"
+      },
+      {
+        "playerId": "p2",
+        "posX": 18,
+        "posY": 24,
+        "slotId": "slot-lw",
+        "label": "LW"
+      },
+      {
+        "posY": 18,
+        "slotId": "slot-st",
+        "playerId": "p1",
+        "posX": 50,
+        "label": "ST"
+      },
+      {
+        "posY": 24,
+        "playerId": "p3",
+        "posX": 82,
+        "slotId": "slot-rw",
+        "label": "RW"
+      }
+    ],
+    "cornerTakerPlayerId": "p2",
+    "defensiveDepth": 72,
+    "buildUpSpeed": 68,
+    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
+    "freeKickTakerPlayerId": "p4",
+    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
+    "formation": "4-3-3 Attacking",
+    "penaltyTakerPlayerId": "p1",
+    "teamWidth": 65
+  },
+  "calendarEvents": [],
+  "playerIDPs": [],
   "leagueStandings": [],
   "leagueFixtures": [],
   "leagueDetails": {
@@ -490,6 +491,9 @@
       "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี"
     }
   ],
+  "updatedByName": "กรรัย ภูบังไม้",
+  "updatedByRole": "coach",
+  "deviceLabel": "แท็บเล็ต (iPad)",
   "nextMatchInfo": {
     "date": "เสาร์ 19 ก.ย. 2026",
     "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
@@ -522,9 +526,5 @@
   ],
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
-  },
-  "lastUpdated": "2026-10-02T12:36:20.810Z",
-  "updatedByName": "กรรัย ภูบังไม้",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  }
 }
