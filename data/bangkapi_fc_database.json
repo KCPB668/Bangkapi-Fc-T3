@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-02T12:36:19.288Z",
+    "exportedAt": "2026-10-02T12:36:22.308Z",
     "author": "กรรัย ภูบังไม้ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 1,
     "staffCount": 1,
@@ -74,8 +74,8 @@
       },
       "matchRatingHistory": [],
       "developmentPlan": {
-        "planName": "Balanced Development",
-        "weeksRemaining": 8,
+        "planName": "ผู้รักษาประตูสวีปเปอร์ (Sweeper Keeper) (SK)",
+        "weeksRemaining": 6,
         "growthStat": "+1 ค่าพลังรวม"
       },
       "seasonStats": {
@@ -523,7 +523,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-02T12:36:15.517Z",
+  "lastUpdated": "2026-10-02T12:36:19.799Z",
   "updatedByName": "กรรัย ภูบังไม้",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
