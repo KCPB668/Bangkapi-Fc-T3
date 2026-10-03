@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-03T04:14:59.056Z",
+    "exportedAt": "2026-10-03T04:15:53.789Z",
     "author": "โค้ชเกมส์ (COACH)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -996,6 +996,20 @@
   },
   "managedUsers": [
     {
+      "id": "acc-1791000951846",
+      "username": "Coach.game",
+      "password": "Coach.game55",
+      "email": "Coach.game@bangkapifc.com",
+      "role": "coach",
+      "name": "Coach Game",
+      "nameThai": "โค้ชเกมส์",
+      "titleThai": "Head Coach",
+      "linkedEntityId": "staff-1791000829736",
+      "status": "active",
+      "createdAt": "2026-10-03T04:15:51.846Z",
+      "notes": ""
+    },
+    {
       "role": "admin",
       "titleThai": "ผู้ดูแลระบบระดับสูง (Super Administrator)",
       "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces&q=80",
@@ -1141,7 +1155,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-03T04:14:54.580Z",
+  "lastUpdated": "2026-10-03T04:15:51.848Z",
   "updatedByName": "โค้ชเกมส์",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
