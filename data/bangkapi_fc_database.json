@@ -628,106 +628,6 @@
   ],
   "matches": [],
   "trainings": [],
-  "injuries": [],
-  "tactics": {
-    "substitutePlayerIds": [
-      "p12",
-      "p13",
-      "p14",
-      "p15"
-    ],
-    "captainPlayerId": "p8",
-    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
-    "slots": [
-      {
-        "posY": 90,
-        "slotId": "slot-gk",
-        "playerId": "p11",
-        "posX": 50,
-        "label": "GK"
-      },
-      {
-        "playerId": "p7",
-        "posX": 16,
-        "slotId": "slot-lb",
-        "label": "LB",
-        "posY": 72
-      },
-      {
-        "posX": 38,
-        "label": "LCB",
-        "slotId": "slot-lcb",
-        "playerId": "p9",
-        "posY": 75
-      },
-      {
-        "posY": 75,
-        "playerId": "p8",
-        "label": "RCB",
-        "posX": 62,
-        "slotId": "slot-rcb"
-      },
-      {
-        "posX": 84,
-        "label": "RB",
-        "playerId": "p10",
-        "posY": 72,
-        "slotId": "slot-rb"
-      },
-      {
-        "posY": 58,
-        "slotId": "slot-cdm",
-        "label": "CDM",
-        "posX": 50,
-        "playerId": "p5"
-      },
-      {
-        "playerId": "p6",
-        "posY": 44,
-        "slotId": "slot-lcm",
-        "label": "LCM",
-        "posX": 34
-      },
-      {
-        "posX": 66,
-        "playerId": "p4",
-        "slotId": "slot-cam",
-        "posY": 40,
-        "label": "CAM"
-      },
-      {
-        "playerId": "p2",
-        "posX": 18,
-        "posY": 24,
-        "slotId": "slot-lw",
-        "label": "LW"
-      },
-      {
-        "posY": 18,
-        "slotId": "slot-st",
-        "playerId": "p1",
-        "posX": 50,
-        "label": "ST"
-      },
-      {
-        "posY": 24,
-        "playerId": "p3",
-        "posX": 82,
-        "slotId": "slot-rw",
-        "label": "RW"
-      }
-    ],
-    "cornerTakerPlayerId": "p2",
-    "defensiveDepth": 72,
-    "buildUpSpeed": 68,
-    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
-    "freeKickTakerPlayerId": "p4",
-    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
-    "formation": "4-3-3 Attacking",
-    "penaltyTakerPlayerId": "p1",
-    "teamWidth": 65
-  },
-  "calendarEvents": [],
   "oneOnOneMeetings": [
     {
       "id": "meet-manual-1790956196746",
@@ -779,7 +679,6 @@
       "updatedAt": "2026-10-02T15:47:45.570Z"
     }
   ],
-  "playerIDPs": [],
   "disciplinaryCards": [
     {
       "id": "card-1",
@@ -977,35 +876,110 @@
     "currentRanking": "จ่าฝูง (อันดับ 1)"
   },
   "clubGoals": [],
+  "lastUpdated": "2026-10-04T18:56:51.309Z",
+  "injuries": [],
+  "tactics": {
+    "substitutePlayerIds": [
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ],
+    "captainPlayerId": "p8",
+    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
+    "slots": [
+      {
+        "posY": 90,
+        "slotId": "slot-gk",
+        "playerId": "p11",
+        "posX": 50,
+        "label": "GK"
+      },
+      {
+        "playerId": "p7",
+        "posX": 16,
+        "slotId": "slot-lb",
+        "label": "LB",
+        "posY": 72
+      },
+      {
+        "posX": 38,
+        "label": "LCB",
+        "slotId": "slot-lcb",
+        "playerId": "p9",
+        "posY": 75
+      },
+      {
+        "posY": 75,
+        "playerId": "p8",
+        "label": "RCB",
+        "posX": 62,
+        "slotId": "slot-rcb"
+      },
+      {
+        "posX": 84,
+        "label": "RB",
+        "playerId": "p10",
+        "posY": 72,
+        "slotId": "slot-rb"
+      },
+      {
+        "posY": 58,
+        "slotId": "slot-cdm",
+        "label": "CDM",
+        "posX": 50,
+        "playerId": "p5"
+      },
+      {
+        "playerId": "p6",
+        "posY": 44,
+        "slotId": "slot-lcm",
+        "label": "LCM",
+        "posX": 34
+      },
+      {
+        "posX": 66,
+        "playerId": "p4",
+        "slotId": "slot-cam",
+        "posY": 40,
+        "label": "CAM"
+      },
+      {
+        "playerId": "p2",
+        "posX": 18,
+        "posY": 24,
+        "slotId": "slot-lw",
+        "label": "LW"
+      },
+      {
+        "posY": 18,
+        "slotId": "slot-st",
+        "playerId": "p1",
+        "posX": 50,
+        "label": "ST"
+      },
+      {
+        "posY": 24,
+        "playerId": "p3",
+        "posX": 82,
+        "slotId": "slot-rw",
+        "label": "RW"
+      }
+    ],
+    "cornerTakerPlayerId": "p2",
+    "defensiveDepth": 72,
+    "buildUpSpeed": 68,
+    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
+    "freeKickTakerPlayerId": "p4",
+    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
+    "formation": "4-3-3 Attacking",
+    "penaltyTakerPlayerId": "p1",
+    "teamWidth": 65
+  },
+  "calendarEvents": [],
+  "playerIDPs": [],
   "leagueStandings": [],
   "leagueFixtures": [],
-  "nextMatchInfo": {
-    "date": "เสาร์ 19 ก.ย. 2026",
-    "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
-    "venue": "สนามกีฬาเคหะคลองจั่น (บางกะปิ สเตเดียม)",
-    "time": "15:00 น.",
-    "isBangkapiHome": true,
-    "awayForm": "W",
-    "matchday": 1,
-    "tacticalNotes": "",
-    "drawProbability": 26,
-    "awayRank": "ไทยลีก 3 โซนภาคกลาง",
-    "expectedGoalsHome": 0,
-    "matchTitle": "แมตส์แรกของสโมสรในลีคอาชีพ",
-    "competition": "ไทยลีก 3 (T3) โซนภาคกลาง",
-    "awayTeam": "Futera",
-    "importanceTag": "บิ๊กแมตช์ชิงจ่าฝูง (Super Big Match)",
-    "recommendedTactics": "3-4-3",
-    "expectedGoalsAway": 0,
-    "broadcast": "สด AIS PLAY",
-    "winProbabilityHome": 54,
-    "homeRank": "ไทยลีก 3 โซนภาคกลาง",
-    "winProbabilityAway": 20,
-    "matchTag": "แมตส์แรกของสโมสรในลีคอาชีพ",
-    "homeForm": "L",
-    "homeTeam": "บางกะปิ เอฟซี"
-  },
-  "lastUpdated": "2026-10-04T17:57:42.027Z",
   "leagueDetails": {
     "title": "โปรแกรมแข่งขัน & ตารางคะแนน",
     "highlightTitle": "ไทยลีก 3 2026-2027",
@@ -1152,6 +1126,32 @@
   "updatedByName": "โค้ชเกมส์",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)",
+  "nextMatchInfo": {
+    "date": "เสาร์ 19 ก.ย. 2026",
+    "recentH2H": "บางกะปิ แพ้ 1-0 บอลถ้วย",
+    "venue": "สนามกีฬาเคหะคลองจั่น (บางกะปิ สเตเดียม)",
+    "time": "15:00 น.",
+    "isBangkapiHome": true,
+    "awayForm": "W",
+    "matchday": 1,
+    "tacticalNotes": "",
+    "drawProbability": 26,
+    "awayRank": "ไทยลีก 3 โซนภาคกลาง",
+    "expectedGoalsHome": 0,
+    "matchTitle": "แมตส์แรกของสโมสรในลีคอาชีพ",
+    "competition": "ไทยลีก 3 (T3) โซนภาคกลาง",
+    "awayTeam": "Futera",
+    "importanceTag": "บิ๊กแมตช์ชิงจ่าฝูง (Super Big Match)",
+    "recommendedTactics": "3-4-3",
+    "expectedGoalsAway": 0,
+    "broadcast": "สด AIS PLAY",
+    "winProbabilityHome": 54,
+    "homeRank": "ไทยลีก 3 โซนภาคกลาง",
+    "winProbabilityAway": 20,
+    "matchTag": "แมตส์แรกของสโมสรในลีคอาชีพ",
+    "homeForm": "L",
+    "homeTeam": "บางกะปิ เอฟซี"
+  },
   "annualPerformanceRecords": [],
   "pausedTabs": [
     "tactics"
