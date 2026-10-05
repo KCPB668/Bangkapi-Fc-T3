@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:15:29.336Z",
+    "exportedAt": "2026-10-05T11:16:41.529Z",
     "author": "โค้ชเกมส์ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -1010,18 +1010,17 @@
       "notes": ""
     },
     {
-      "role": "admin",
-      "titleThai": "ผู้ดูแลระบบระดับสูง (Super Administrator)",
-      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces&q=80",
-      "email": "admin@bangkapifc.com",
-      "notes": "บัญชีหลักของผู้ดูแลระบบ มีสิทธิ์ควบคุมและแก้ไขข้อมูลทั้งหมดในระบบสโมสร",
-      "createdAt": "2026-08-01T00:00:00.000Z",
-      "username": "admin",
-      "password": "admin@bangkapi2026",
-      "status": "active",
-      "name": "Bangkapi FC Executive Admin",
       "id": "acc-admin-1",
-      "nameThai": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี"
+      "username": "KANCHAI KCPB",
+      "password": "Kanchai.kcpb2821",
+      "email": "KANCHAI KCPB@bangkapifc.com",
+      "role": "admin",
+      "name": "Bangkapi FC Executive Admin",
+      "nameThai": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
+      "titleThai": "ผู้ดูแลระบบระดับสูง (Super Administrator)",
+      "status": "active",
+      "createdAt": "2026-08-01T00:00:00.000Z",
+      "notes": "บัญชีหลักของผู้ดูแลระบบ มีสิทธิ์ควบคุมและแก้ไขข้อมูลทั้งหมดในระบบสโมสร"
     },
     {
       "id": "acc-p-p-1790961140982",
@@ -1156,7 +1155,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-05T11:15:25.926Z",
+  "lastUpdated": "2026-10-05T11:16:39.306Z",
   "updatedByName": "โค้ชเกมส์",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
