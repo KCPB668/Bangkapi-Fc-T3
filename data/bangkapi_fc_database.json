@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:15:14.483Z",
+    "exportedAt": "2026-10-05T11:15:18.229Z",
     "author": "โค้ชเกมส์ (COACH)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -1156,7 +1156,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-05T11:15:12.749Z",
+  "lastUpdated": "2026-10-05T11:15:13.761Z",
   "updatedByName": "โค้ชเกมส์",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
