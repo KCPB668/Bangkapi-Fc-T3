@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:21:23.344Z",
-    "author": "โค้ชเกมส์ (COACH)",
+    "exportedAt": "2026-10-05T11:44:09.713Z",
+    "author": "โค้ช / แอดมินสโมสร",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
@@ -1149,14 +1149,406 @@
     "homeTeam": "บางกะปิ เอฟซี"
   },
   "annualPerformanceRecords": [],
+  "rolePermissions": {
+    "roles": {
+      "admin": {
+        "squad": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "staff": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "player_portal": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "tactics": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "training": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "idp": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "matches": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "scout": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "league": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "calendar": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "medical": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "disciplinary": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "meetings": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "admin_console": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "club_settings": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "cloud_backup": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        }
+      },
+      "coach": {
+        "squad": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "staff": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "player_portal": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "tactics": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "training": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "idp": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": true
+        },
+        "matches": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": true
+        },
+        "scout": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "league": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "calendar": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "medical": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "disciplinary": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "meetings": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true,
+          "export": true,
+          "manage": true
+        },
+        "admin_console": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "club_settings": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "cloud_backup": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        }
+      },
+      "player": {
+        "squad": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "staff": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "player_portal": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": false,
+          "export": true,
+          "manage": false
+        },
+        "tactics": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "training": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "idp": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "matches": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "scout": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "league": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "calendar": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "medical": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "disciplinary": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "meetings": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "admin_console": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "club_settings": {
+          "view": true,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        },
+        "cloud_backup": {
+          "view": false,
+          "create": false,
+          "edit": false,
+          "delete": false,
+          "export": false,
+          "manage": false
+        }
+      }
+    },
+    "lastUpdated": "2026-10-05T11:41:04.974Z",
+    "updatedBy": "Bangkapi FC System Admin"
+  },
   "pausedTabs": [
     "tactics"
   ],
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
-  },
-  "lastUpdated": "2026-10-05T11:21:18.192Z",
-  "updatedByName": "โค้ชเกมส์",
-  "updatedByRole": "coach",
-  "deviceLabel": "แท็บเล็ต (iPad)"
+  }
 }
