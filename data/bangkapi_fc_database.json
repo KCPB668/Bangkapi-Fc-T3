@@ -1,8 +1,8 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:44:09.713Z",
-    "author": "โค้ช / แอดมินสโมสร",
+    "exportedAt": "2026-10-05T11:45:06.812Z",
+    "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
@@ -973,7 +973,12 @@
     "budgetThb": 8500000,
     "president": "P.Aek",
     "contactPhone": "02-310-8000",
-    "currentRanking": "-"
+    "currentRanking": "-",
+    "nameThai": "สโมสรฟุตบอลบางกะปิ เอฟซี",
+    "stadium": "สนามกีฬามหาวิทยาลัยรามคำแหง",
+    "capacity": "-",
+    "manager": "Coach Game",
+    "motto": "ข"
   },
   "clubGoals": [],
   "leagueStandings": [],
@@ -1550,5 +1555,9 @@
   ],
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
-  }
+  },
+  "lastUpdated": "2026-10-05T11:45:06.056Z",
+  "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
+  "updatedByRole": "admin",
+  "deviceLabel": "แท็บเล็ต (iPad)"
 }
