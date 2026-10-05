@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:18:26.057Z",
+    "exportedAt": "2026-10-05T11:18:29.942Z",
     "author": "โค้ชเกมส์ (COACH)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -958,7 +958,7 @@
     "facebookPage": "facebook.com/BangkapiFCOfficial",
     "nameEn": "Bangkapi Football Club",
     "stadiumCapacity": 5000,
-    "foundedYear": 2026,
+    "foundedYear": 2018,
     "division": "ไทยลีก 3 (T3)",
     "boardExpectation": "เลื่อนชั้นสู่ไทยลีก 2 และคว้าแชมป์โซนกรุงเทพฯ",
     "logoPreset": "eagle_gold",
@@ -968,18 +968,13 @@
     "logoUrl": "",
     "shortName": "BKFC",
     "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
-    "league": "ไทยลีก 3 โซนภาคกลาง",
+    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
     "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
     "slogan": "พลังแห่งบางกะปิ รวมใจเป็นหนึ่งสู่ชัยชนะ",
     "budgetThb": 8500000,
-    "president": "P.Aek",
+    "president": "คุณศุภชัย กิจเจริญไพศาล",
     "contactPhone": "02-310-8000",
-    "currentRanking": "จ่าฝูง (อันดับ 1)",
-    "nameThai": "สโมสรฟุตบอลบางกะปิ เอฟซี",
-    "stadium": "สนามฟุตบอลมหาวิทยาลัยรามคำแหง",
-    "capacity": "3,500",
-    "manager": "Coach Game",
-    "motto": "เลือดนักสู้แห่งคลองจั่น - The Bangkapi Spirit"
+    "currentRanking": "จ่าฝูง (อันดับ 1)"
   },
   "clubGoals": [],
   "leagueStandings": [],
@@ -1161,7 +1156,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-05T11:18:25.041Z",
+  "lastUpdated": "2026-10-05T11:18:26.682Z",
   "updatedByName": "โค้ชเกมส์",
   "updatedByRole": "coach",
   "deviceLabel": "แท็บเล็ต (iPad)"
