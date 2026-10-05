@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-05T11:45:06.812Z",
+    "exportedAt": "2026-10-05T11:45:10.395Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -1556,7 +1556,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-05T11:45:06.056Z",
+  "lastUpdated": "2026-10-05T11:45:08.860Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
