@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:59:18.790Z",
+    "exportedAt": "2026-10-08T15:59:22.656Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -826,60 +826,7 @@
       "createdByRole": "admin"
     }
   ],
-  "playerMoodLogs": [
-    {
-      "id": "mood-2026-003",
-      "playerId": "p4",
-      "playerName": "เคนโตะ ทากาฮาชิ (Kento Takahashi)",
-      "playerNumber": 8,
-      "playerPosition": "CM",
-      "date": "2026-10-08",
-      "time": "18:22",
-      "score": 4,
-      "note": "การคุมจังหวะแดนกลางและการสแกนพื้นที่รอบตัวทำได้ลื่นไหล ไม่มีความตึงเครียด ร่างกายฟื้นตัวได้ดีหลังพักวันก่อน",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรุกในแดนสุดท้าย & สมอลไซด์เกม",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "confidenceLevel": 4,
-      "tags": [
-        "สมาธิดี",
-        "ควบคุมจังหวะได้",
-        "พร้อมแข่ง"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-08T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "เคนโตะ ทากาฮาชิ"
-    },
-    {
-      "id": "mood-2026-004",
-      "playerId": "p5",
-      "playerName": "อิบราฮิม โกเน่ (Ibrahim Koné)",
-      "playerNumber": 6,
-      "playerPosition": "CDM",
-      "date": "2026-10-08",
-      "time": "18:25",
-      "score": 2,
-      "note": "วันนี้รู้สึกเหนื่อยล้าสะสมจากเซสชั่นเพรสซิ่งหนักต่อเนื่อง นอนหลับไม่ค่อยสนิทช่วง 2 คืนที่ผ่านมา กล้ามเนื้อต้นขาด้านหลังตึง รู้สึกกังวลว่าจะฟิตไม่ทัน",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรุกในแดนสุดท้าย & สมอลไซด์เกม",
-      "energyLevel": 2,
-      "stressLevel": 4,
-      "confidenceLevel": 3,
-      "tags": [
-        "ล้าสะสม",
-        "ขาตึง",
-        "หลับไม่พอ",
-        "ต้องการคำแนะนำ"
-      ],
-      "coachFollowUpNeeded": true,
-      "coachFeedback": "ทีมงานฝ่ายแพทย์และฟิตเนสจะปรับลดโหลดการซ้อมพรุ่งนี้ และจัดเซสชั่น Hydrotherapy แช่น้ำฟื้นฟูให้เป็นพิเศษ",
-      "coachFeedbackAuthor": "โค้ชกฤษฎา (Fitness & Rehab Coach)",
-      "coachFeedbackDate": "2026-10-08",
-      "createdAt": "2026-10-08T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "อิบราฮิม โกเน่"
-    }
-  ],
+  "playerMoodLogs": [],
   "playerIDPs": [],
   "disciplinaryCards": [
     {
@@ -1657,7 +1604,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:59:16.709Z",
+  "lastUpdated": "2026-10-08T15:59:21.444Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
