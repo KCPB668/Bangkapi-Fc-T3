@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:59:14.949Z",
+    "exportedAt": "2026-10-08T15:59:18.790Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -827,60 +827,6 @@
     }
   ],
   "playerMoodLogs": [
-    {
-      "id": "mood-2026-001",
-      "playerId": "p1",
-      "playerName": "ลูคัส ซิลวา (Lucas Silva)",
-      "playerNumber": 10,
-      "playerPosition": "ST",
-      "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
-      "date": "2026-10-08",
-      "time": "18:15",
-      "score": 5,
-      "note": "ซ้อมจบแล้วรู้สึกดีมาก จังหวะจบสกอร์กับเพื่อนร่วมทีมเริ่มเข้าขากันอย่างเห็นได้ชัด ขาไม่ล้า มั่นใจเต็มร้อยสำหรับแมตช์สุดสัปดาห์นี้",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรุกในแดนสุดท้าย & สมอลไซด์เกม",
-      "energyLevel": 5,
-      "stressLevel": 1,
-      "confidenceLevel": 5,
-      "tags": [
-        "มั่นใจสูง",
-        "ซ้อมสนุก",
-        "สมาธิดี",
-        "พร้อมแข่ง"
-      ],
-      "coachFollowUpNeeded": false,
-      "coachFeedback": "ยอดเยี่ยมมาก รักษาฟอร์มและโมเมนตัมนี้ไว้จนถึงวันแข่ง",
-      "coachFeedbackAuthor": "โค้ชเอกภพ (Head Coach)",
-      "coachFeedbackDate": "2026-10-08",
-      "createdAt": "2026-10-08T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "ลูคัส ซิลวา"
-    },
-    {
-      "id": "mood-2026-002",
-      "playerId": "p2",
-      "playerName": "ศุภณัฐ ธนวุฒิ (Supanut Thanawut)",
-      "playerNumber": 7,
-      "playerPosition": "LW",
-      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
-      "date": "2026-10-08",
-      "time": "18:20",
-      "score": 4,
-      "note": "สปีดและการดวลตัวต่อตัวทำได้ตามที่โค้ชสั่ง มีจังหวะเปิดบอลเข้าเป้าหลายครั้ง รู้สึกสดชื่นและมีสมาธิตลอดชั่วโมงครึ่ง",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรุกในแดนสุดท้าย & สมอลไซด์เกม",
-      "energyLevel": 4,
-      "stressLevel": 2,
-      "confidenceLevel": 5,
-      "tags": [
-        "สมาธิดี",
-        "ซ้อมสนุก",
-        "จังหวะเข้าขา"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-08T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "ศุภณัฐ ธนวุฒิ"
-    },
     {
       "id": "mood-2026-003",
       "playerId": "p4",
@@ -1711,7 +1657,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:59:10.257Z",
+  "lastUpdated": "2026-10-08T15:59:16.709Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
