@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:58:59.205Z",
+    "exportedAt": "2026-10-08T15:59:03.531Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
-    "saveMethod": "Manual User Push",
+    "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -979,33 +979,6 @@
       "createdAt": "2026-10-07T15:56:37.048Z",
       "createdByRole": "player",
       "createdByName": "ศุภณัฐ ธนวุฒิ"
-    },
-    {
-      "id": "mood-2026-010",
-      "playerId": "p3",
-      "playerName": "กฤษดา จิตต์จำนอง (Kritsada Chittjamnong)",
-      "playerNumber": 11,
-      "playerPosition": "RW",
-      "date": "2026-10-06",
-      "time": "18:35",
-      "score": 1,
-      "note": "รู้สึกเครียดและกังวลกับฟอร์มการเล่นของตัวเอง จังหวะเปิดบอลเสียบ่อย โดนสตาฟโค้ชเตือนหลายครั้งจนรู้สึกสูญเสียความมั่นใจ อยากขอคำแนะนำเพิ่มเติมครับ",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรับ เกเก้นเพรสซิ่ง",
-      "energyLevel": 2,
-      "stressLevel": 5,
-      "confidenceLevel": 1,
-      "tags": [
-        "มีเรื่องกังวล",
-        "ต้องการคำแนะนำ",
-        "ล้าสะสม"
-      ],
-      "coachFollowUpNeeded": true,
-      "coachFeedback": "นัดคุย 1-on-1 วันพรุ่งนี้เวลา 15:30 ที่ห้องทำงานสตาฟ เพื่อวิเคราะห์คลิปและสร้างความมั่นใจร่วมกัน อย่ากังวลเกินไป สโมสรเชื่อมั่นในตัวคุณเสมอ",
-      "coachFeedbackAuthor": "โค้ชเอกภพ (Head Coach)",
-      "coachFeedbackDate": "2026-10-07",
-      "createdAt": "2026-10-06T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "กฤษดา จิตต์จำนอง"
     }
   ],
   "playerIDPs": [],
@@ -1785,7 +1758,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:58:58.013Z",
+  "lastUpdated": "2026-10-08T15:59:00.831Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
