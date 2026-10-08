@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:58:55.684Z",
+    "exportedAt": "2026-10-08T15:58:59.205Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -981,52 +981,6 @@
       "createdByName": "ศุภณัฐ ธนวุฒิ"
     },
     {
-      "id": "mood-2026-008",
-      "playerId": "p4",
-      "playerName": "เคนโตะ ทากาฮาชิ (Kento Takahashi)",
-      "playerNumber": 8,
-      "playerPosition": "CM",
-      "date": "2026-10-07",
-      "time": "18:15",
-      "score": 4,
-      "note": "การจ่ายบอลทะลุช่องทำได้คมกริบ รู้สึกว่าทีมกำลังมีความมั่นใจร่วมกันที่ดี",
-      "trainingSessionTitle": "ซ้อมเซ็ตพีซและลูกเตะมุมแทคติก",
-      "energyLevel": 4,
-      "stressLevel": 1,
-      "confidenceLevel": 5,
-      "tags": [
-        "สมาธิดี",
-        "พร้อมแข่ง"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-07T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "เคนโตะ ทากาฮาชิ"
-    },
-    {
-      "id": "mood-2026-009",
-      "playerId": "p5",
-      "playerName": "อิบราฮิม โกเน่ (Ibrahim Koné)",
-      "playerNumber": 6,
-      "playerPosition": "CDM",
-      "date": "2026-10-06",
-      "time": "18:40",
-      "score": 3,
-      "note": "ซ้อมการตัดเกมแดนกลางได้ดีตามหน้าที่ ร่างกายเริ่มมีอาการล้าสะสมเล็กน้อยหลังซ้อมติดกันหลายวัน",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรับ เกเก้นเพรสซิ่ง",
-      "energyLevel": 3,
-      "stressLevel": 3,
-      "confidenceLevel": 3,
-      "tags": [
-        "ซ้อมหนัก",
-        "ปกติ"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-06T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "อิบราฮิม โกเน่"
-    },
-    {
       "id": "mood-2026-010",
       "playerId": "p3",
       "playerName": "กฤษดา จิตต์จำนอง (Kritsada Chittjamnong)",
@@ -1831,7 +1785,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:58:51.375Z",
+  "lastUpdated": "2026-10-08T15:58:58.013Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
