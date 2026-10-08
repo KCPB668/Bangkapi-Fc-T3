@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:59:08.161Z",
+    "exportedAt": "2026-10-08T15:59:11.646Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Manual User Push",
     "version": "2.5.0",
@@ -932,30 +932,6 @@
       "createdAt": "2026-10-08T15:56:37.048Z",
       "createdByRole": "player",
       "createdByName": "อิบราฮิม โกเน่"
-    },
-    {
-      "id": "mood-2026-006",
-      "playerId": "p2",
-      "playerName": "ศุภณัฐ ธนวุฒิ (Supanut Thanawut)",
-      "playerNumber": 7,
-      "playerPosition": "LW",
-      "date": "2026-10-07",
-      "time": "18:05",
-      "score": 5,
-      "note": "ซ้อมเซ็ตพีซและการยิงไกลเข้าเป้าทุกลูก อารมณ์แจ่มใสและรู้สึกสนุกมากกับรูปแบบการฝึกของโค้ช",
-      "trainingSessionTitle": "ซ้อมเซ็ตพีซและลูกเตะมุมแทคติก",
-      "energyLevel": 5,
-      "stressLevel": 1,
-      "confidenceLevel": 5,
-      "tags": [
-        "มั่นใจสูง",
-        "ซ้อมสนุก",
-        "พร้อมแข่ง"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-07T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "ศุภณัฐ ธนวุฒิ"
     }
   ],
   "playerIDPs": [],
@@ -1735,7 +1711,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:59:07.495Z",
+  "lastUpdated": "2026-10-08T15:59:09.243Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
