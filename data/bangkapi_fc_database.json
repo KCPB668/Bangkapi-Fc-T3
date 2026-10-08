@@ -1,9 +1,9 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-08T15:59:03.531Z",
+    "exportedAt": "2026-10-08T15:59:08.161Z",
     "author": "ผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
-    "saveMethod": "Automatic System Sync",
+    "saveMethod": "Manual User Push",
     "version": "2.5.0",
     "playerCount": 7,
     "staffCount": 2,
@@ -934,29 +934,6 @@
       "createdByName": "อิบราฮิม โกเน่"
     },
     {
-      "id": "mood-2026-005",
-      "playerId": "p3",
-      "playerName": "กฤษดา จิตต์จำนอง (Kritsada Chittjamnong)",
-      "playerNumber": 11,
-      "playerPosition": "RW",
-      "date": "2026-10-08",
-      "time": "18:30",
-      "score": 3,
-      "note": "ซ้อมได้ตามมาตรฐาน แทคติกการประสานงานริมเส้นถือว่าเข้าใจดี ไม่มีอาการเจ็บ แต่ยังรู้สึกว่าจังหวะสปรินต์ยังไม่เต็ม 100% เท่าที่ตั้งใจ",
-      "trainingSessionTitle": "ซ้อมแทคติกเกมรุกในแดนสุดท้าย & สมอลไซด์เกม",
-      "energyLevel": 3,
-      "stressLevel": 3,
-      "confidenceLevel": 3,
-      "tags": [
-        "ปกติ",
-        "ซ้อมหนัก"
-      ],
-      "coachFollowUpNeeded": false,
-      "createdAt": "2026-10-08T15:56:37.048Z",
-      "createdByRole": "player",
-      "createdByName": "กฤษดา จิตต์จำนอง"
-    },
-    {
       "id": "mood-2026-006",
       "playerId": "p2",
       "playerName": "ศุภณัฐ ธนวุฒิ (Supanut Thanawut)",
@@ -1758,7 +1735,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-08T15:59:00.831Z",
+  "lastUpdated": "2026-10-08T15:59:07.495Z",
   "updatedByName": "ผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
