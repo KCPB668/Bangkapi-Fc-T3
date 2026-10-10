@@ -2428,7 +2428,108 @@
   ],
   "matches": [],
   "trainings": [],
+  "injuries": [],
+  "tactics": {
+    "formation": "4-3-3 Attacking",
+    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
+    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
+    "defensiveDepth": 72,
+    "teamWidth": 65,
+    "buildUpSpeed": 68,
+    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
+    "captainPlayerId": "p8",
+    "penaltyTakerPlayerId": "p1",
+    "freeKickTakerPlayerId": "p4",
+    "cornerTakerPlayerId": "p2",
+    "slots": [
+      {
+        "slotId": "slot-gk",
+        "label": "GK",
+        "posX": 50,
+        "posY": 90,
+        "playerId": "p11"
+      },
+      {
+        "slotId": "slot-lb",
+        "label": "LB",
+        "posX": 16,
+        "posY": 72,
+        "playerId": "p7"
+      },
+      {
+        "slotId": "slot-lcb",
+        "label": "LCB",
+        "posX": 38,
+        "posY": 75,
+        "playerId": "p9"
+      },
+      {
+        "slotId": "slot-rcb",
+        "label": "RCB",
+        "posX": 62,
+        "posY": 75,
+        "playerId": "p8"
+      },
+      {
+        "slotId": "slot-rb",
+        "label": "RB",
+        "posX": 84,
+        "posY": 72,
+        "playerId": "p10"
+      },
+      {
+        "slotId": "slot-cdm",
+        "label": "CDM",
+        "posX": 50,
+        "posY": 58,
+        "playerId": "p5"
+      },
+      {
+        "slotId": "slot-lcm",
+        "label": "LCM",
+        "posX": 34,
+        "posY": 44,
+        "playerId": "p6"
+      },
+      {
+        "slotId": "slot-cam",
+        "label": "CAM",
+        "posX": 66,
+        "posY": 40,
+        "playerId": "p4"
+      },
+      {
+        "slotId": "slot-lw",
+        "label": "LW",
+        "posX": 18,
+        "posY": 24,
+        "playerId": "p2"
+      },
+      {
+        "slotId": "slot-st",
+        "label": "ST",
+        "posX": 50,
+        "posY": 18,
+        "playerId": "p1"
+      },
+      {
+        "slotId": "slot-rw",
+        "label": "RW",
+        "posX": 82,
+        "posY": 24,
+        "playerId": "p3"
+      }
+    ],
+    "substitutePlayerIds": [
+      "p12",
+      "p13",
+      "p14",
+      "p15"
+    ]
+  },
+  "calendarEvents": [],
   "oneOnOneMeetings": [],
+  "playerIDPs": [],
   "disciplinaryCards": [
     {
       "id": "card-1",
@@ -2963,108 +3064,6 @@
       "lastUpdated": "2026-02-15"
     }
   ],
-  "lastUpdated": "2026-10-10T08:10:04.721Z",
-  "injuries": [],
-  "tactics": {
-    "formation": "4-3-3 Attacking",
-    "tacticalStyle": "เกเก้นเพรสซิ่ง (Gegenpress)",
-    "defensiveStyle": "บีบพื้นที่สูง (High Press)",
-    "defensiveDepth": 72,
-    "teamWidth": 65,
-    "buildUpSpeed": 68,
-    "passingRisk": "เสี่ยงสร้างสรรค์ (Risky)",
-    "captainPlayerId": "p8",
-    "penaltyTakerPlayerId": "p1",
-    "freeKickTakerPlayerId": "p4",
-    "cornerTakerPlayerId": "p2",
-    "slots": [
-      {
-        "slotId": "slot-gk",
-        "label": "GK",
-        "posX": 50,
-        "posY": 90,
-        "playerId": "p11"
-      },
-      {
-        "slotId": "slot-lb",
-        "label": "LB",
-        "posX": 16,
-        "posY": 72,
-        "playerId": "p7"
-      },
-      {
-        "slotId": "slot-lcb",
-        "label": "LCB",
-        "posX": 38,
-        "posY": 75,
-        "playerId": "p9"
-      },
-      {
-        "slotId": "slot-rcb",
-        "label": "RCB",
-        "posX": 62,
-        "posY": 75,
-        "playerId": "p8"
-      },
-      {
-        "slotId": "slot-rb",
-        "label": "RB",
-        "posX": 84,
-        "posY": 72,
-        "playerId": "p10"
-      },
-      {
-        "slotId": "slot-cdm",
-        "label": "CDM",
-        "posX": 50,
-        "posY": 58,
-        "playerId": "p5"
-      },
-      {
-        "slotId": "slot-lcm",
-        "label": "LCM",
-        "posX": 34,
-        "posY": 44,
-        "playerId": "p6"
-      },
-      {
-        "slotId": "slot-cam",
-        "label": "CAM",
-        "posX": 66,
-        "posY": 40,
-        "playerId": "p4"
-      },
-      {
-        "slotId": "slot-lw",
-        "label": "LW",
-        "posX": 18,
-        "posY": 24,
-        "playerId": "p2"
-      },
-      {
-        "slotId": "slot-st",
-        "label": "ST",
-        "posX": 50,
-        "posY": 18,
-        "playerId": "p1"
-      },
-      {
-        "slotId": "slot-rw",
-        "label": "RW",
-        "posX": 82,
-        "posY": 24,
-        "playerId": "p3"
-      }
-    ],
-    "substitutePlayerIds": [
-      "p12",
-      "p13",
-      "p14",
-      "p15"
-    ]
-  },
-  "calendarEvents": [],
-  "playerIDPs": [],
   "leagueStandings": [],
   "leagueFixtures": [],
   "leagueDetails": {
@@ -3185,9 +3184,6 @@
       "notes": "บัญชีนักเตะ: ผู้รักษาประตูมือหนึ่ง"
     }
   ],
-  "updatedByName": "ระบบสโมสรบางกะปิ เอฟซี",
-  "updatedByRole": "admin",
-  "deviceLabel": "แท็บเล็ต (iPad)",
   "nextMatchInfo": {
     "matchTitle": "นัดเปิดฤดูกาล ไทยลีก 3 2026-2027 (Opening Match)",
     "competition": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
@@ -3430,6 +3426,10 @@
       "keyHighlight": "ยังไม่มีบันทึกข้อมูลการแข่งขันในเดือนนี้"
     }
   ],
+  "lastUpdated": "2026-10-10T08:10:09.466Z",
+  "updatedByName": "ระบบสโมสรบางกะปิ เอฟซี",
+  "updatedByRole": "admin",
+  "deviceLabel": "แท็บเล็ต (iPad)",
   "pausedTabs": [
     "tactics"
   ],
