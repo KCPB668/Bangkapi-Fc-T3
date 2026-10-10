@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-10T20:09:21.425Z",
+    "exportedAt": "2026-10-10T20:09:30.790Z",
     "author": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
@@ -2731,9 +2731,9 @@
   "scoutingReports": [],
   "postMatchReviews": [],
   "clubInfo": {
-    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
-    "nameEn": "Bangkapi Football Club",
-    "shortName": "บางกะปิ เอฟซี",
+    "name": "สโมสรฟุตบอลธนบุรี ยูไนเต็ด",
+    "nameEn": "Thonburi United Football Club",
+    "shortName": "ธนบุรี ยูไนเต็ด",
     "logoUrl": "",
     "logoPreset": "eagle_gold",
     "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
@@ -3876,7 +3876,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-10T20:09:19.166Z",
+  "lastUpdated": "2026-10-10T20:09:28.181Z",
   "updatedByName": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
