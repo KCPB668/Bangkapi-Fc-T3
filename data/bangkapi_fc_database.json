@@ -1,7 +1,7 @@
 {
   "_meta": {
     "app": "Bangkapi FC Management System",
-    "exportedAt": "2026-10-10T20:09:44.543Z",
+    "exportedAt": "2026-10-10T20:09:48.198Z",
     "author": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี (ADMIN)",
     "saveMethod": "Automatic System Sync",
     "version": "2.5.0",
@@ -2731,13 +2731,13 @@
   "scoutingReports": [],
   "postMatchReviews": [],
   "clubInfo": {
-    "name": "สโมสรฟุตบอลสมุทรสาคร ซิตี้",
-    "nameEn": "Samut Sakhon City Football Club",
-    "shortName": "สมุทรสาคร ซิตี้",
+    "name": "สโมสรฟุตบอลบางกะปิ เอฟซี",
+    "nameEn": "Bangkapi Football Club",
+    "shortName": "บางกะปิ เอฟซี",
     "logoUrl": "",
     "logoPreset": "eagle_gold",
     "nickname": "อินทรีรามคำแหง (Ramkhamhaeng Eagles)",
-    "league": "ไทยลีก 3 โซนภาคตะวันตก",
+    "league": "ไทยลีก 3 โซนกรุงเทพและปริมณฑล",
     "division": "ไทยลีก 3",
     "currentRanking": "จ่าฝูง (อันดับ 1)",
     "stadiumName": "สนามเฉลิมพระเกียรติ บางกะปิ สเตเดี้ยม",
@@ -3876,7 +3876,7 @@
   "tabPauseReasons": {
     "tactics": "โมดูลนี้ถูกพักการใช้งานชั่วคราวโดยผู้ดูแลระบบสโมสร"
   },
-  "lastUpdated": "2026-10-10T20:09:41.052Z",
+  "lastUpdated": "2026-10-10T20:09:45.245Z",
   "updatedByName": "ฝ่ายบริหารและผู้ดูแลระบบ บางกะปิ เอฟซี",
   "updatedByRole": "admin",
   "deviceLabel": "แท็บเล็ต (iPad)"
